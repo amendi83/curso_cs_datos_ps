@@ -1,992 +1,992 @@
-id,diagnostico,anger,anticipation,disgust,fear,joy,sadness,surprise,trust
-id_1,Depresion,1,2,1,1,2,2,0,2
-id_10,Depresion,11,33,8,14,26,19,13,30
-id_100,Depresion,1,3,0,1,3,1,0,2
-id_101,Ansiedad,0,4,0,1,3,0,1,4
-id_102,Ttno Bipolar,1,5,1,3,2,1,2,8
-id_103,Ansiedad,0,0,0,2,0,2,0,0
-id_104,Depresion,2,7,1,5,5,8,3,10
-id_105,Depresion,6,7,2,14,4,9,6,6
-id_106,Ttno Bipolar,38,42,23,28,27,33,15,34
-id_107,Ttno de Personalidad,0,0,0,0,1,0,0,1
-id_108,Ansiedad,8,8,3,11,0,16,5,4
-id_109,Depresion,1,2,1,1,2,2,0,4
-id_11,Ansiedad,6,7,2,10,1,4,3,2
-id_110,Ttno Bipolar,5,4,3,7,3,10,1,5
-id_111,Ttno Bipolar,1,3,0,1,1,3,0,1
-id_112,Depresion,3,4,1,4,2,7,0,6
-id_113,Ansiedad,4,3,0,3,1,2,1,1
-id_114,Depresion,11,11,6,14,3,17,2,9
-id_115,Depresion,5,6,1,4,5,5,1,7
-id_116,Depresion,5,3,0,5,2,6,1,1
-id_117,Depresion,1,3,0,4,0,1,1,1
-id_118,Ansiedad,10,10,8,31,8,14,8,16
-id_119,estrés,3,5,1,6,1,4,1,5
-id_12,Depresion,2,1,2,2,2,5,0,2
-id_120,Ansiedad,5,3,2,9,0,4,2,1
-id_121,Ttno de Personalidad,2,2,2,2,6,4,1,10
-id_122,Depresion,1,2,1,3,2,2,1,2
-id_123,Ttno Bipolar,3,6,1,3,7,3,2,8
-id_124,Depresion,3,5,0,4,6,5,2,9
-id_125,Depresion,3,8,1,4,4,3,0,7
-id_126,estrés,0,1,1,1,1,1,0,1
-id_127,Ttno de Personalidad,2,8,0,6,2,0,3,2
-id_128,Depresion,0,1,1,0,1,0,1,1
-id_129,Ttno Bipolar,0,0,2,5,2,16,1,4
-id_13,Ttno Bipolar,0,2,1,0,1,0,2,4
-id_130,Ttno de Personalidad,0,3,1,2,0,1,0,0
-id_131,Ansiedad,5,6,1,6,1,4,2,1
-id_132,Ansiedad,3,2,0,4,0,2,1,0
-id_133,Ansiedad,0,0,0,0,2,0,0,2
-id_134,Depresion,1,7,3,0,2,1,2,9
-id_135,Ttno Bipolar,1,4,0,1,5,3,2,4
-id_136,Ansiedad,1,1,0,1,0,1,0,0
-id_137,estrés,6,1,1,3,0,4,0,1
-id_138,Ttno de Personalidad,4,3,0,1,4,4,1,4
-id_139,Ttno de Personalidad,2,2,1,1,2,0,0,7
-id_14,Ttno de Personalidad,12,12,3,10,12,11,9,14
-id_140,Ttno de Personalidad,2,3,1,3,0,2,0,1
-id_141,Ttno Bipolar,11,6,5,11,1,10,0,3
-id_142,estrés,3,6,1,6,1,4,0,4
-id_143,Ansiedad,0,2,0,0,1,0,1,1
-id_144,Ansiedad,2,4,1,4,1,2,1,4
-id_145,Ansiedad,5,9,0,11,3,6,2,3
-id_146,Depresion,1,1,2,0,0,1,0,0
-id_147,Ttno Bipolar,6,3,6,9,1,13,1,5
-id_148,Ansiedad,5,7,3,6,3,6,1,6
-id_149,Depresion,1,1,1,3,0,3,2,1
-id_15,Ttno Bipolar,0,1,0,0,1,1,0,1
-id_150,estrés,5,11,6,7,9,7,10,11
-id_151,Ttno de Personalidad,1,1,2,0,2,0,0,3
-id_152,Ttno Bipolar,8,1,6,8,0,11,1,1
-id_153,Ansiedad,5,8,3,7,1,8,2,5
-id_154,Ttno de Personalidad,1,0,1,1,0,2,0,2
-id_155,Ttno Bipolar,3,7,4,6,4,7,2,9
-id_157,Ttno Bipolar,0,2,0,3,0,2,0,2
-id_158,estrés,0,0,0,0,1,0,0,2
-id_159,Ansiedad,2,1,0,2,0,2,0,1
-id_16,Ttno Bipolar,0,2,0,1,1,0,1,1
-id_160,estrés,2,7,0,0,6,2,3,7
-id_161,Ttno de Personalidad,2,8,1,2,11,10,4,9
-id_162,Ttno Bipolar,0,3,0,5,2,3,2,6
-id_163,Depresion,6,11,3,4,9,9,9,11
-id_164,Depresion,6,7,5,10,3,8,2,7
-id_165,estrés,5,4,2,7,6,6,2,15
-id_166,Ttno Bipolar,3,0,3,8,0,12,0,6
-id_167,estrés,1,0,3,1,1,4,1,1
-id_168,Depresion,4,5,2,8,2,11,5,8
-id_169,Ttno Bipolar,5,2,3,5,2,6,0,6
-id_17,Depresion,3,5,4,7,7,12,2,6
-id_170,Ttno Bipolar,2,3,3,1,2,2,0,3
-id_171,Depresion,0,0,4,0,0,4,0,5
-id_172,Depresion,3,10,2,3,11,5,8,12
-id_173,Depresion,1,2,0,2,1,3,1,2
-id_174,Depresion,0,0,0,0,0,0,0,0
-id_175,estrés,0,0,0,0,0,0,0,0
-id_176,estrés,11,20,12,24,12,27,10,17
-id_177,Ttno Bipolar,0,0,0,1,0,1,1,4
-id_178,Depresion,0,1,1,0,1,0,1,1
-id_179,Ansiedad,18,17,17,29,8,27,7,10
-id_18,Ttno Bipolar,2,9,2,6,8,2,7,7
-id_180,Ttno Bipolar,5,13,5,13,10,8,9,7
-id_181,Depresion,9,0,2,9,0,8,3,2
-id_182,estrés,1,0,1,3,0,10,0,0
-id_183,Ttno de Personalidad,4,10,2,8,7,9,3,10
-id_184,Ttno Bipolar,8,1,11,13,1,7,0,1
-id_185,Depresion,2,5,2,5,0,13,3,5
-id_186,Ansiedad,3,11,2,7,10,6,6,15
-id_187,Ansiedad,5,8,5,8,1,8,4,6
-id_188,Depresion,10,15,6,4,13,27,3,18
-id_189,Depresion,1,4,0,1,1,3,0,2
-id_19,Ansiedad,3,8,1,5,7,9,4,11
-id_190,estrés,1,4,1,1,2,1,1,4
-id_191,Ttno de Personalidad,1,16,3,5,8,7,3,11
-id_192,Ansiedad,12,7,9,12,2,9,2,9
-id_193,Depresion,1,9,0,3,12,1,2,5
-id_194,Ttno de Personalidad,2,0,2,2,2,2,0,3
-id_195,estrés,0,0,0,2,4,2,0,7
-id_196,Depresion,8,6,6,8,4,13,6,4
-id_197,Ttno Bipolar,12,14,13,17,9,14,6,12
-id_198,estrés,0,3,1,0,1,2,1,3
-id_199,Ansiedad,6,5,2,5,2,7,3,1
-id_2,Depresion,6,7,6,6,5,8,2,8
-id_20,Depresion,0,0,0,0,0,0,0,0
-id_200,Ttno de Personalidad,4,6,4,8,3,6,1,6
-id_201,Ansiedad,0,1,1,1,1,0,0,2
-id_202,estrés,5,5,4,5,3,9,3,4
-id_203,Ttno Bipolar,0,2,5,1,1,3,1,1
-id_204,Ansiedad,0,1,0,0,0,0,0,0
-id_205,Ansiedad,7,14,1,10,4,12,2,10
-id_206,Depresion,4,7,3,3,12,5,2,12
-id_207,Depresion,3,3,0,3,2,3,1,2
-id_208,Ttno Bipolar,6,14,3,9,11,10,3,17
-id_209,Ttno de Personalidad,0,7,0,2,7,2,5,14
-id_21,estrés,0,1,0,0,0,1,2,1
-id_210,Ttno Bipolar,4,3,5,4,0,6,2,2
-id_211,estrés,0,1,0,0,1,0,0,2
-id_212,Ansiedad,0,3,0,1,3,0,1,5
-id_213,Ttno de Personalidad,4,8,5,6,2,7,2,4
-id_214,Ttno Bipolar,0,6,0,1,2,1,1,5
-id_215,estrés,1,0,4,4,1,6,1,6
-id_216,Ansiedad,4,5,2,6,2,6,2,3
-id_217,estrés,3,1,0,0,0,0,0,1
-id_218,Ttno Bipolar,0,0,0,1,0,0,0,0
-id_219,Ttno Bipolar,2,5,0,4,5,3,5,6
-id_22,Depresion,4,3,5,10,0,9,2,2
-id_220,Ttno Bipolar,0,6,0,5,2,2,3,5
-id_221,Ansiedad,0,0,0,0,0,1,1,0
-id_222,Ttno Bipolar,0,1,0,2,0,4,0,0
-id_223,Ansiedad,0,0,0,0,0,0,0,0
-id_224,Ttno de Personalidad,0,1,0,1,0,0,0,1
-id_225,Ttno Bipolar,2,1,2,4,1,3,1,0
-id_226,Ttno Bipolar,2,1,0,5,0,2,0,1
-id_227,estrés,0,0,0,0,0,0,0,1
-id_228,Ansiedad,0,0,0,0,0,1,1,0
-id_229,Ttno Bipolar,1,1,1,1,1,4,1,1
-id_23,estrés,3,1,0,2,0,1,0,1
-id_230,estrés,3,7,2,6,2,10,3,3
-id_231,Ttno Bipolar,3,2,2,3,0,4,0,0
-id_232,Ansiedad,3,2,2,3,2,6,1,2
-id_233,Ansiedad,0,5,0,0,4,0,2,7
-id_234,Depresion,2,4,1,4,1,2,1,4
-id_235,Ttno Bipolar,10,31,4,23,27,19,8,26
-id_236,Depresion,1,1,0,1,1,0,0,4
-id_237,Ttno de Personalidad,10,11,6,15,15,8,1,23
-id_238,Depresion,7,5,6,7,2,6,3,6
-id_239,Ansiedad,0,1,0,1,0,0,2,0
-id_24,Ansiedad,3,1,0,6,0,6,2,3
-id_240,Ttno de Personalidad,0,1,0,0,6,0,1,8
-id_241,Ansiedad,1,1,1,1,1,2,1,0
-id_242,estrés,2,24,2,6,18,16,14,20
-id_243,Ttno Bipolar,2,11,3,7,7,8,4,9
-id_244,Ansiedad,5,6,4,9,2,19,1,5
-id_245,Ttno Bipolar,3,1,1,2,1,1,0,0
-id_246,Ttno de Personalidad,0,0,0,0,0,0,0,0
-id_247,Depresion,5,16,0,6,10,10,4,16
-id_248,Ttno Bipolar,0,1,0,2,2,0,1,3
-id_249,Depresion,5,7,5,4,5,9,4,7
-id_25,Ttno Bipolar,8,8,3,5,9,14,5,7
-id_250,Ttno de Personalidad,7,20,13,18,14,21,13,20
-id_251,Ansiedad,3,4,1,9,0,4,2,4
-id_252,Depresion,2,1,1,3,0,1,1,0
-id_253,Ttno de Personalidad,4,8,3,2,8,5,2,11
-id_254,Depresion,1,3,3,1,0,2,1,2
-id_255,Ansiedad,4,6,1,5,5,7,1,6
-id_256,Ttno de Personalidad,5,1,2,7,1,4,3,5
-id_257,Ansiedad,0,1,0,0,0,0,0,2
-id_258,estrés,1,0,1,1,0,3,0,1
-id_259,estrés,5,6,2,6,1,6,0,3
-id_26,Ttno Bipolar,1,4,1,2,5,2,4,5
-id_260,estrés,1,0,0,1,0,1,0,2
-id_261,Ttno de Personalidad,3,11,3,2,8,3,9,12
-id_262,estrés,3,28,2,8,7,9,5,19
-id_263,Ansiedad,2,2,0,3,1,3,0,3
-id_264,estrés,0,2,0,0,0,0,0,2
-id_265,estrés,1,7,0,4,4,1,4,7
-id_266,Ansiedad,1,3,2,1,2,3,1,2
-id_267,Ttno Bipolar,6,22,3,10,18,12,6,32
-id_268,Depresion,1,3,2,0,3,3,2,2
-id_269,Ttno de Personalidad,2,0,2,3,3,2,0,3
-id_27,estrés,1,0,1,3,0,2,1,0
-id_270,Ansiedad,1,2,0,3,0,1,1,0
-id_271,Ansiedad,0,1,0,1,0,0,0,0
-id_272,Depresion,1,5,1,2,3,4,0,6
-id_273,Ansiedad,3,2,1,9,2,4,2,3
-id_274,Ttno de Personalidad,1,1,2,0,2,0,0,3
-id_275,Ansiedad,1,2,0,1,1,2,0,1
-id_276,estrés,1,1,0,2,0,2,0,3
-id_277,Ansiedad,10,12,1,5,5,7,2,7
-id_278,estrés,1,1,0,1,0,1,0,4
-id_279,Ttno de Personalidad,4,7,1,8,3,7,4,5
-id_28,Ansiedad,1,1,0,1,1,0,1,1
-id_280,Ansiedad,6,5,2,8,1,5,3,1
-id_281,Ansiedad,5,4,2,6,1,6,1,2
-id_282,Ttno Bipolar,4,4,1,10,3,7,3,9
-id_283,Ttno de Personalidad,2,3,1,3,1,5,2,1
-id_284,Ansiedad,1,1,0,2,0,1,0,0
-id_285,Ttno de Personalidad,6,6,9,10,5,9,3,6
-id_286,Depresion,1,3,0,2,1,6,1,5
-id_287,Ttno Bipolar,0,0,0,0,1,0,0,0
-id_288,Ansiedad,1,1,0,1,0,1,0,0
-id_289,Ttno Bipolar,0,1,0,1,0,0,0,0
-id_29,estrés,2,4,0,6,0,0,2,2
-id_290,Ttno Bipolar,0,1,0,0,0,0,0,0
-id_291,Ttno de Personalidad,9,19,2,16,9,13,7,16
-id_292,Ttno Bipolar,8,10,9,21,5,21,8,9
-id_293,Ansiedad,5,3,2,3,1,5,2,2
-id_294,Ttno Bipolar,1,6,4,5,2,2,2,3
-id_295,estrés,5,15,2,6,20,7,5,28
-id_296,estrés,1,2,0,1,0,1,0,2
-id_297,Ttno Bipolar,3,4,3,6,2,8,2,4
-id_298,Ansiedad,0,2,0,0,1,1,0,2
-id_299,Depresion,3,1,1,5,1,7,1,1
-id_3,estrés,5,11,2,7,6,10,2,10
-id_30,Ttno de Personalidad,7,5,6,16,0,19,3,5
-id_300,estrés,3,2,3,3,1,3,3,2
-id_301,estrés,1,2,0,1,0,1,0,2
-id_302,Depresion,2,4,1,4,1,2,1,4
-id_303,Ansiedad,4,6,1,4,2,4,1,5
-id_304,Depresion,7,9,7,11,5,10,3,7
-id_305,Ttno de Personalidad,0,0,0,1,0,0,0,0
-id_306,estrés,0,0,0,0,0,0,0,0
-id_307,Ttno Bipolar,0,1,0,0,0,0,0,2
-id_308,Ttno de Personalidad,0,1,1,1,0,1,0,6
-id_309,Depresion,4,7,5,11,5,15,6,7
-id_31,Depresion,2,10,1,6,5,4,2,8
-id_310,Ttno de Personalidad,4,4,1,10,2,6,4,2
-id_311,Depresion,4,12,2,2,10,7,6,8
-id_312,Depresion,1,0,1,1,0,2,0,0
-id_313,Ttno Bipolar,0,5,0,1,4,3,2,6
-id_314,Depresion,38,15,18,35,11,30,14,25
-id_315,Ttno de Personalidad,1,4,0,1,4,1,3,4
-id_316,Ansiedad,0,0,0,1,0,0,1,1
-id_317,Depresion,9,0,2,9,0,8,3,2
-id_318,Ttno Bipolar,0,1,0,0,1,0,1,1
-id_319,Depresion,0,1,0,0,0,1,0,0
-id_32,Depresion,1,5,3,1,3,5,1,7
-id_320,estrés,7,5,3,7,2,6,3,2
-id_321,Ttno de Personalidad,1,2,0,2,1,1,0,3
-id_322,Ansiedad,2,3,0,2,3,3,1,4
-id_323,estrés,3,2,6,8,1,6,2,3
-id_324,estrés,0,6,0,1,3,0,1,6
-id_325,estrés,4,8,0,9,1,4,0,2
-id_326,Ttno de Personalidad,0,0,0,0,0,0,0,0
-id_327,Ansiedad,2,2,0,2,0,2,0,0
-id_328,Ttno de Personalidad,2,6,3,1,7,2,1,12
-id_329,Depresion,0,1,0,0,0,0,0,0
-id_33,Ttno de Personalidad,10,5,14,7,7,9,2,13
-id_330,Depresion,0,5,2,4,3,3,2,3
-id_331,Ttno Bipolar,5,11,6,3,6,5,3,13
-id_332,Depresion,0,6,0,1,4,1,1,7
-id_334,Ansiedad,3,4,1,6,3,9,1,3
-id_335,Ttno de Personalidad,21,38,5,26,19,22,8,21
-id_336,Ansiedad,2,4,2,8,1,1,2,1
-id_337,Ansiedad,1,1,0,1,0,1,0,0
-id_338,Ttno de Personalidad,1,2,1,1,2,1,1,6
-id_339,Ansiedad,2,3,3,6,1,2,2,2
-id_34,estrés,2,9,2,2,9,4,3,16
-id_340,Ttno Bipolar,2,3,2,6,1,5,1,1
-id_341,Ttno de Personalidad,6,6,0,5,6,3,6,6
-id_342,Ttno Bipolar,2,3,0,2,2,2,2,2
-id_343,Ttno de Personalidad,0,3,0,0,4,1,1,5
-id_344,estrés,5,2,9,8,1,16,0,3
-id_345,Depresion,13,4,10,10,1,12,1,3
-id_346,Depresion,4,3,0,7,5,3,0,24
-id_347,Ttno Bipolar,4,4,0,11,0,3,2,1
-id_348,estrés,3,3,6,6,2,3,2,2
-id_349,Ansiedad,0,6,1,2,3,3,1,4
-id_35,Ttno de Personalidad,2,2,0,4,1,0,1,1
-id_350,Depresion,1,4,1,1,3,4,3,5
-id_351,Ttno de Personalidad,19,24,21,26,11,29,5,15
-id_352,Ttno Bipolar,1,2,0,4,1,1,1,2
-id_353,Ansiedad,0,11,1,1,15,2,7,11
-id_354,estrés,0,0,0,0,2,1,0,3
-id_355,Ansiedad,1,4,7,11,3,32,6,8
-id_356,estrés,3,13,0,6,6,2,8,7
-id_357,estrés,14,9,5,13,6,12,5,10
-id_358,Ansiedad,6,10,2,13,0,13,1,5
-id_359,Depresion,9,19,8,11,14,16,1,15
-id_36,Ansiedad,6,0,1,4,0,3,0,2
-id_360,Ttno Bipolar,6,3,4,12,1,16,2,1
-id_361,Ansiedad,1,3,1,2,0,1,0,0
-id_362,estrés,3,6,3,4,5,6,3,6
-id_363,Ansiedad,7,2,3,8,0,7,2,5
-id_364,Ttno de Personalidad,0,0,1,0,0,3,1,0
-id_365,Ttno Bipolar,3,1,2,8,0,3,2,1
-id_366,Ttno de Personalidad,0,7,0,2,15,0,2,20
-id_367,Ansiedad,5,3,3,6,0,6,1,2
-id_368,Ttno Bipolar,0,0,0,0,0,2,0,0
-id_369,Depresion,5,8,5,8,1,8,4,6
-id_37,Ansiedad,5,0,1,3,0,2,0,1
-id_370,estrés,0,4,0,1,2,2,2,3
-id_371,Ttno de Personalidad,1,1,0,2,0,2,0,1
-id_372,Ansiedad,4,8,2,9,4,5,7,4
-id_373,estrés,2,5,1,2,0,5,0,1
-id_374,Ansiedad,2,3,1,2,1,3,2,2
-id_375,Ttno de Personalidad,0,0,0,0,1,0,0,1
-id_376,Ansiedad,5,5,1,5,0,4,0,1
-id_377,Ansiedad,3,2,1,3,1,3,1,3
-id_378,Ttno de Personalidad,1,3,1,2,1,1,2,1
-id_379,Ttno de Personalidad,3,4,1,5,3,4,1,3
-id_38,Depresion,0,2,0,1,0,1,1,0
-id_380,estrés,0,3,0,0,4,1,2,2
-id_381,Depresion,11,11,4,14,11,22,5,13
-id_382,Ttno de Personalidad,8,2,8,15,0,8,3,0
-id_383,estrés,0,0,0,0,0,1,0,0
-id_384,Ansiedad,0,2,0,1,0,0,1,0
-id_385,Ttno Bipolar,0,1,0,1,0,0,0,1
-id_386,estrés,0,2,0,1,2,1,0,1
-id_387,Ttno Bipolar,6,0,7,10,0,8,0,1
-id_388,Depresion,5,7,5,4,4,6,1,5
-id_389,Ansiedad,15,7,2,15,2,14,3,5
-id_39,Ansiedad,0,0,0,1,0,1,0,3
-id_390,Depresion,1,3,1,2,4,3,1,8
-id_391,Ttno Bipolar,5,2,1,5,1,5,3,3
-id_392,estrés,2,1,3,2,1,4,2,1
-id_393,Ttno Bipolar,1,2,2,3,1,9,0,2
-id_394,Ansiedad,7,7,6,13,1,9,2,4
-id_395,Ttno Bipolar,5,6,2,13,2,7,4,3
-id_396,Ttno de Personalidad,0,2,0,1,2,0,1,3
-id_397,Ttno Bipolar,2,4,0,3,2,4,0,3
-id_398,Depresion,9,11,12,8,10,12,5,14
-id_399,Ttno Bipolar,3,1,3,5,1,2,1,1
-id_4,Depresion,0,1,0,0,0,3,0,3
-id_40,Depresion,1,6,1,1,5,6,5,5
-id_400,Ttno de Personalidad,1,4,0,2,5,3,1,6
-id_401,Depresion,1,1,0,4,0,0,1,0
-id_402,estrés,8,15,3,8,13,11,4,15
-id_403,Depresion,0,0,1,1,0,0,1,0
-id_404,Depresion,3,3,1,6,4,5,3,3
-id_405,Ansiedad,1,3,0,1,1,1,1,1
-id_406,Ttno Bipolar,1,4,1,2,5,2,4,5
-id_407,Ttno Bipolar,0,1,0,0,0,0,1,2
-id_408,estrés,17,15,21,31,9,34,11,15
-id_409,Ttno de Personalidad,2,5,1,6,2,3,4,3
-id_41,Ttno de Personalidad,9,11,7,15,8,13,2,14
-id_410,Depresion,3,2,2,5,1,9,1,2
-id_411,Ansiedad,5,5,3,5,4,5,3,4
-id_412,Ttno de Personalidad,1,1,1,1,1,3,0,2
-id_413,Ansiedad,0,3,0,1,0,1,0,2
-id_414,estrés,1,1,2,3,3,7,2,2
-id_415,Depresion,1,1,0,1,0,1,0,0
-id_416,Ttno Bipolar,2,2,0,6,0,3,2,0
-id_417,Ttno de Personalidad,1,7,1,2,2,4,3,4
-id_418,Depresion,0,2,0,1,0,1,0,0
-id_419,Ttno de Personalidad,0,0,0,1,1,0,0,0
-id_42,Ansiedad,6,7,3,16,6,20,3,15
-id_420,Ansiedad,2,2,4,5,1,9,1,5
-id_421,estrés,1,2,0,1,0,1,0,2
-id_422,Ttno Bipolar,2,0,1,2,2,2,0,3
-id_423,Ansiedad,11,8,0,10,2,10,2,5
-id_424,Ttno Bipolar,1,5,0,2,1,1,2,8
-id_425,estrés,7,9,12,12,7,11,4,13
-id_426,Ansiedad,2,1,0,1,0,1,0,0
-id_427,Ttno Bipolar,13,6,13,17,6,12,6,12
-id_428,estrés,1,6,1,1,2,1,2,11
-id_429,Ttno Bipolar,2,3,2,6,1,5,1,1
-id_43,Ttno de Personalidad,2,2,2,3,2,3,3,2
-id_430,Ttno Bipolar,2,6,0,4,5,5,2,8
-id_431,Ttno de Personalidad,0,2,0,2,1,1,1,4
-id_432,Ttno Bipolar,2,0,3,5,0,6,0,0
-id_433,estrés,1,7,1,5,5,1,4,4
-id_434,Ttno Bipolar,0,0,0,1,2,1,1,3
-id_435,estrés,0,2,0,0,2,1,0,4
-id_436,Depresion,1,0,0,1,0,0,0,0
-id_437,Ttno de Personalidad,1,1,1,1,0,1,1,3
-id_438,estrés,3,1,1,4,0,6,1,3
-id_439,Depresion,0,1,1,1,2,1,1,3
-id_44,Depresion,19,11,26,15,8,21,6,9
-id_440,Depresion,10,21,5,22,8,21,6,15
-id_441,Ttno Bipolar,2,2,3,5,0,3,0,6
-id_442,Ttno de Personalidad,3,5,5,8,3,5,2,11
-id_443,Ttno de Personalidad,13,12,8,15,8,16,9,14
-id_444,Ttno de Personalidad,1,8,1,5,8,4,6,7
-id_445,estrés,6,2,8,10,0,7,1,2
-id_446,Ttno de Personalidad,0,1,0,0,0,1,0,0
-id_447,Depresion,1,1,2,0,1,1,0,0
-id_448,Ttno de Personalidad,2,0,0,3,3,3,0,3
-id_449,Ttno Bipolar,2,4,2,7,1,1,0,5
-id_45,Ansiedad,9,6,2,8,5,5,5,5
-id_450,estrés,1,2,2,1,3,2,1,12
-id_451,Ttno Bipolar,1,1,0,3,0,1,0,4
-id_453,estrés,1,1,0,2,3,0,1,9
-id_454,Ansiedad,11,24,8,11,26,22,12,37
-id_455,Depresion,0,1,0,0,1,1,1,1
-id_456,Ansiedad,4,0,5,11,0,29,0,0
-id_457,Ansiedad,0,0,0,0,0,0,0,0
-id_458,Ttno Bipolar,10,5,6,10,5,10,3,5
-id_459,Ansiedad,18,18,7,25,6,20,6,13
-id_46,Ttno Bipolar,4,8,0,6,3,6,4,8
-id_460,Depresion,1,0,2,3,0,4,0,2
-id_461,Ttno Bipolar,0,2,1,0,1,0,2,4
-id_462,Ttno de Personalidad,13,27,8,16,19,24,12,26
-id_463,Ansiedad,5,3,4,9,3,14,2,7
-id_464,Ansiedad,0,0,0,0,1,1,0,1
-id_465,Ansiedad,2,6,1,7,1,2,2,5
-id_466,Depresion,0,3,0,0,1,1,0,1
-id_467,Ttno de Personalidad,0,3,0,4,0,1,1,1
-id_468,estrés,6,8,1,18,2,3,6,2
-id_469,Ansiedad,2,3,0,2,0,3,0,2
-id_47,Depresion,0,1,0,2,1,2,3,2
-id_470,Ttno Bipolar,8,12,4,13,2,8,5,4
-id_471,Ttno Bipolar,0,0,0,0,0,0,0,0
-id_472,Ttno Bipolar,2,3,0,7,0,0,2,0
-id_473,Ttno de Personalidad,0,0,0,0,0,0,0,0
-id_474,Ttno Bipolar,8,6,5,17,6,20,4,14
-id_475,Ttno Bipolar,5,2,1,4,4,3,2,6
-id_476,Ansiedad,3,2,0,3,0,2,0,2
-id_477,estrés,0,2,0,0,0,0,0,2
-id_478,Depresion,3,5,1,7,4,7,1,6
-id_479,Depresion,5,7,1,8,3,3,1,3
-id_48,Ansiedad,0,0,0,0,0,0,0,0
-id_480,Depresion,7,7,6,11,5,12,1,7
-id_481,Depresion,4,7,7,2,9,5,3,11
-id_482,Depresion,5,11,2,13,4,4,7,9
-id_483,Ttno Bipolar,0,4,0,0,1,0,3,4
-id_484,Ttno de Personalidad,9,17,6,6,15,8,9,18
-id_485,Depresion,9,6,7,13,6,9,3,8
-id_486,estrés,0,0,0,1,0,3,1,1
-id_487,Ttno Bipolar,1,4,1,1,3,2,0,3
-id_488,Ttno de Personalidad,5,4,4,5,8,6,6,8
-id_489,Ttno de Personalidad,0,0,0,0,0,0,0,1
-id_49,estrés,4,3,0,6,2,5,0,4
-id_490,estrés,0,0,0,0,0,0,0,0
-id_491,Depresion,1,0,1,2,0,2,0,0
-id_492,estrés,0,2,0,0,0,0,0,3
-id_493,Ttno Bipolar,2,2,4,9,1,6,1,2
-id_494,Depresion,3,3,4,8,2,6,1,5
-id_495,Ttno Bipolar,0,2,0,0,2,1,3,2
-id_496,Ttno Bipolar,4,6,0,5,3,3,5,9
-id_497,Ansiedad,3,1,2,2,0,4,1,5
-id_498,Ansiedad,0,1,0,0,1,0,1,2
-id_499,estrés,0,3,1,0,1,2,1,2
-id_5,Ttno de Personalidad,8,6,5,11,1,10,1,3
-id_50,Depresion,1,0,2,3,0,13,0,0
-id_500,Ansiedad,3,1,2,3,0,5,0,3
-id_501,Ansiedad,0,0,0,1,0,0,0,1
-id_502,Ansiedad,5,10,3,12,9,15,4,14
-id_503,Ttno Bipolar,0,1,0,2,0,0,0,1
-id_504,Ttno Bipolar,0,1,0,1,0,0,0,0
-id_505,Ttno de Personalidad,3,4,4,6,4,5,2,10
-id_506,estrés,1,3,0,1,0,1,0,1
-id_507,Ttno Bipolar,3,1,1,6,2,6,1,6
-id_508,Ttno de Personalidad,3,7,1,7,3,3,3,2
-id_509,Ttno Bipolar,6,10,0,13,1,3,5,6
-id_51,Depresion,4,6,8,6,5,13,4,5
-id_510,estrés,0,1,2,3,0,1,0,3
-id_511,estrés,1,2,0,3,0,0,1,1
-id_512,Ansiedad,0,4,0,0,0,0,1,1
-id_513,estrés,7,3,4,3,2,6,3,2
-id_514,estrés,1,1,0,1,0,1,0,0
-id_515,Ansiedad,2,2,1,4,1,1,1,2
-id_516,Ansiedad,7,7,6,13,1,9,2,4
-id_517,Depresion,0,4,3,1,3,3,3,5
-id_518,Ttno Bipolar,2,0,4,4,0,6,2,4
-id_519,estrés,1,2,2,1,0,0,0,0
-id_52,estrés,2,7,6,2,1,2,2,5
-id_520,estrés,3,0,2,3,0,2,0,0
-id_521,estrés,5,11,9,9,8,13,7,8
-id_522,Ansiedad,5,11,3,10,7,13,4,6
-id_523,Ttno Bipolar,7,5,4,12,2,17,3,5
-id_524,Ansiedad,1,1,0,1,0,1,0,0
-id_525,Depresion,8,5,4,9,2,11,2,4
-id_526,estrés,2,9,3,9,2,4,1,17
-id_527,Depresion,3,7,2,1,6,4,1,8
-id_528,Ttno de Personalidad,0,1,0,1,1,0,0,1
-id_529,Depresion,0,7,0,0,3,0,1,3
-id_53,Depresion,9,7,0,16,1,3,8,6
-id_530,Ttno de Personalidad,2,12,0,2,1,2,4,6
-id_531,estrés,0,5,1,0,2,0,1,3
-id_532,Ttno Bipolar,6,10,5,9,6,9,7,9
-id_533,Ttno de Personalidad,5,7,7,8,5,18,3,6
-id_534,Ttno Bipolar,0,1,0,0,2,0,1,1
-id_535,Depresion,1,5,0,0,7,0,1,11
-id_536,Ttno Bipolar,5,5,1,8,6,2,4,10
-id_537,Ttno de Personalidad,2,3,6,1,4,5,2,1
-id_538,Ttno Bipolar,0,0,1,0,0,0,0,1
-id_539,Ansiedad,6,7,1,11,3,5,3,4
-id_54,estrés,2,1,2,3,0,3,0,1
-id_540,estrés,0,1,0,0,0,0,0,3
-id_542,Ansiedad,0,7,0,4,3,0,6,2
-id_543,Ansiedad,0,0,0,0,2,1,0,3
-id_544,Ttno de Personalidad,4,9,0,12,0,0,5,2
-id_545,Ansiedad,10,6,2,11,6,4,6,6
-id_546,Ttno de Personalidad,2,3,0,4,1,1,2,2
-id_547,estrés,4,4,4,5,0,4,1,8
-id_548,Depresion,6,4,4,11,0,15,1,2
-id_549,Ttno de Personalidad,3,5,2,3,3,5,0,3
-id_55,Depresion,0,0,0,0,0,0,0,0
-id_550,Ttno Bipolar,0,1,0,0,0,0,0,0
-id_551,Ttno Bipolar,0,3,0,0,3,0,2,2
-id_552,Ttno de Personalidad,0,0,0,0,0,0,0,2
-id_553,Ansiedad,2,3,0,2,0,2,0,2
-id_554,Depresion,6,12,2,7,12,7,3,9
-id_555,estrés,6,11,3,6,15,9,7,14
-id_556,Ttno Bipolar,5,4,2,5,4,6,2,3
-id_557,Ttno de Personalidad,0,0,0,0,0,0,0,0
-id_558,estrés,0,1,0,0,0,0,0,1
-id_559,Ansiedad,1,3,0,1,1,1,1,2
-id_56,estrés,0,1,1,1,2,1,2,0
-id_560,Depresion,0,0,0,1,0,0,1,2
-id_561,Ttno de Personalidad,7,4,1,12,0,5,1,1
-id_562,estrés,6,7,4,9,2,16,2,8
-id_563,Ansiedad,4,11,1,4,6,3,4,9
-id_564,Ttno Bipolar,4,9,8,7,4,9,3,6
-id_565,Ttno Bipolar,2,1,0,5,0,3,0,0
-id_566,Depresion,0,0,0,0,0,0,0,0
-id_567,Ttno Bipolar,1,0,0,3,0,2,0,1
-id_568,Depresion,0,0,0,0,0,2,0,0
-id_569,Ttno de Personalidad,0,0,2,1,0,2,1,3
-id_57,estrés,1,2,1,1,2,1,0,3
-id_570,Ttno Bipolar,3,1,2,3,4,4,2,7
-id_571,estrés,1,1,0,1,0,1,0,0
-id_572,estrés,2,1,1,1,0,1,0,1
-id_573,estrés,10,13,5,13,9,9,8,8
-id_574,Ttno de Personalidad,3,15,2,6,9,14,5,21
-id_575,Ttno de Personalidad,3,2,3,7,2,3,2,1
-id_576,estrés,3,11,1,2,11,7,5,13
-id_577,estrés,0,5,1,2,3,1,3,11
-id_578,Ttno Bipolar,5,0,2,6,1,4,1,0
-id_579,Ttno de Personalidad,3,11,3,2,8,3,9,12
-id_58,estrés,0,7,0,0,5,1,3,8
-id_580,Ttno de Personalidad,0,0,0,0,0,0,0,1
-id_581,Ttno Bipolar,0,0,0,0,2,0,0,5
-id_582,Ttno de Personalidad,1,0,1,2,0,4,0,0
-id_583,Ttno de Personalidad,0,4,0,0,0,1,0,1
-id_584,Depresion,0,0,0,0,2,0,0,2
-id_585,Ansiedad,4,3,3,10,0,15,1,1
-id_586,Depresion,3,6,2,1,6,2,1,5
-id_587,Ansiedad,0,0,0,0,0,0,0,0
-id_588,Ttno de Personalidad,4,8,5,10,8,22,5,26
-id_589,Ansiedad,4,10,2,9,6,5,5,5
-id_59,Depresion,1,1,1,0,1,1,1,1
-id_590,estrés,3,2,0,2,2,4,0,2
-id_591,Ttno Bipolar,4,14,2,8,11,5,5,10
-id_592,estrés,3,13,3,2,7,6,7,12
-id_593,Ansiedad,8,8,1,9,2,7,0,4
-id_594,Ansiedad,7,4,6,15,1,4,3,0
-id_595,Ttno de Personalidad,3,9,2,7,2,7,4,2
-id_596,Depresion,8,5,7,5,7,12,4,4
-id_597,estrés,0,0,0,0,1,0,0,0
-id_598,Depresion,1,5,0,3,4,1,2,4
-id_599,estrés,7,8,7,17,4,25,2,7
-id_6,Depresion,4,1,2,3,1,3,3,2
-id_60,Depresion,9,1,14,10,4,18,3,5
-id_600,Depresion,2,7,4,6,3,4,3,5
-id_601,Depresion,1,5,2,5,3,9,1,5
-id_602,estrés,1,13,2,4,7,4,4,7
-id_603,Ttno de Personalidad,12,12,6,10,11,12,7,10
-id_604,estrés,2,3,2,3,1,6,1,11
-id_605,Ansiedad,0,3,1,3,2,9,0,2
-id_606,Ttno de Personalidad,0,4,0,0,1,0,0,5
-id_607,Ansiedad,10,10,4,13,6,11,7,11
-id_608,Depresion,0,0,0,1,0,2,0,1
-id_609,Ansiedad,8,9,5,9,8,9,7,11
-id_61,estrés,0,0,0,0,1,1,0,0
-id_610,estrés,0,2,0,1,0,1,1,3
-id_611,Depresion,2,2,1,7,1,1,2,1
-id_612,Ttno de Personalidad,6,4,3,7,3,9,0,8
-id_613,Ansiedad,7,3,6,10,0,6,1,3
-id_614,Ttno Bipolar,0,1,0,0,0,0,1,2
-id_615,Ttno de Personalidad,3,4,3,2,3,2,3,3
-id_616,Ttno de Personalidad,0,3,0,2,3,0,1,2
-id_617,Ansiedad,4,4,1,6,1,5,2,1
-id_618,Ansiedad,2,2,0,1,1,1,0,1
-id_619,Ttno de Personalidad,0,0,0,0,0,0,0,0
-id_62,Depresion,1,1,2,1,0,1,0,4
-id_620,Ttno de Personalidad,0,0,0,0,0,0,0,1
-id_621,estrés,8,8,5,6,12,15,4,22
-id_622,Ttno Bipolar,0,3,0,0,1,0,1,1
-id_623,Ttno Bipolar,6,9,6,10,13,19,3,19
-id_624,Ttno de Personalidad,9,19,2,16,9,13,7,16
-id_625,Ttno de Personalidad,2,5,0,2,0,2,0,5
-id_626,estrés,1,0,2,4,1,4,0,2
-id_627,Depresion,0,0,0,0,0,1,1,0
-id_628,Ttno de Personalidad,3,1,2,3,0,6,2,0
-id_629,Ttno de Personalidad,2,3,2,2,3,2,2,5
-id_63,Depresion,6,9,4,7,4,15,2,16
-id_630,estrés,1,6,0,4,4,4,2,6
-id_631,Ansiedad,3,4,0,5,1,1,2,2
-id_632,Depresion,2,6,1,4,3,8,0,8
-id_633,Depresion,11,4,8,11,3,8,1,6
-id_634,estrés,2,1,0,3,0,1,1,0
-id_635,Ttno Bipolar,3,4,1,4,1,6,2,2
-id_636,Ttno Bipolar,0,1,0,3,1,0,1,3
-id_637,estrés,1,2,1,3,2,8,0,4
-id_638,Depresion,0,0,0,0,0,0,0,0
-id_639,Ttno de Personalidad,0,0,0,0,1,0,0,1
-id_64,Ttno de Personalidad,3,15,2,6,9,14,5,21
-id_640,estrés,0,0,0,0,0,1,0,3
-id_641,Ansiedad,0,1,1,3,0,8,2,1
-id_642,estrés,3,8,1,5,2,4,2,8
-id_643,Ansiedad,2,1,2,1,1,0,0,2
-id_644,estrés,0,0,0,0,0,0,0,0
-id_645,Ansiedad,2,2,0,4,0,3,1,1
-id_646,Ansiedad,13,20,1,21,5,14,9,6
-id_647,Ansiedad,3,5,0,4,1,4,2,4
-id_648,Depresion,0,1,0,0,0,0,0,0
-id_649,Ttno Bipolar,0,1,0,2,3,0,0,3
-id_65,Ansiedad,3,2,0,2,0,1,0,3
-id_650,Ttno de Personalidad,1,3,0,3,5,3,1,3
-id_651,Ttno Bipolar,3,4,2,4,2,5,1,6
-id_652,estrés,0,1,0,0,0,0,0,1
-id_653,Ansiedad,1,3,0,2,2,1,1,3
-id_654,Ttno de Personalidad,1,5,3,4,3,4,1,5
-id_655,Ansiedad,1,0,0,1,0,0,0,2
-id_656,Ansiedad,4,8,2,5,5,4,3,6
-id_657,Depresion,4,6,3,5,3,4,2,2
-id_658,Ttno de Personalidad,4,1,6,6,1,4,1,1
-id_659,Depresion,5,1,4,5,2,0,1,3
-id_66,Ttno de Personalidad,2,4,0,7,0,2,1,1
-id_660,Ttno Bipolar,4,5,2,7,3,10,3,5
-id_661,Ansiedad,6,2,8,7,2,8,6,1
-id_662,Ttno de Personalidad,2,2,3,8,0,2,2,1
-id_663,Ansiedad,9,13,4,9,12,15,5,10
-id_664,estrés,3,0,0,1,0,1,0,0
-id_665,estrés,3,5,3,3,4,3,1,8
-id_666,Ansiedad,1,1,0,1,0,1,0,1
-id_667,estrés,3,5,0,5,2,3,3,3
-id_668,estrés,6,6,4,13,1,11,4,2
-id_669,estrés,0,1,1,1,1,1,0,1
-id_67,Depresion,0,0,0,0,0,0,0,1
-id_670,Ttno Bipolar,4,3,3,6,4,6,2,5
-id_671,Depresion,1,1,1,1,1,1,1,4
-id_672,Ansiedad,1,2,0,1,3,1,1,2
-id_673,Ttno Bipolar,2,8,4,6,5,3,5,7
-id_674,Depresion,7,5,2,7,5,9,0,6
-id_675,Depresion,0,0,0,0,1,1,0,1
-id_676,Ttno de Personalidad,1,0,1,1,0,2,0,0
-id_677,Depresion,5,0,9,11,0,14,0,0
-id_678,Ansiedad,0,1,1,2,0,7,0,1
-id_679,Depresion,1,7,0,3,4,3,2,2
-id_68,estrés,1,2,2,3,0,4,0,5
-id_680,Ttno de Personalidad,0,0,1,0,0,0,0,1
-id_681,Depresion,3,9,3,5,12,6,8,9
-id_682,Ttno Bipolar,3,3,0,4,2,1,2,2
-id_683,Depresion,0,0,0,0,0,0,0,0
-id_684,Ttno de Personalidad,5,1,2,7,0,5,2,2
-id_685,Ansiedad,2,5,0,9,0,2,2,2
-id_686,Ansiedad,0,0,0,0,0,0,0,0
-id_687,estrés,0,4,0,0,1,2,0,2
-id_688,Depresion,5,2,6,11,0,5,2,0
-id_69,Ttno Bipolar,5,22,1,9,17,7,8,19
-id_690,Ansiedad,4,5,2,7,1,7,1,1
-id_691,estrés,0,0,0,0,0,0,0,0
-id_692,Ansiedad,6,6,3,7,2,14,3,6
-id_693,Ttno Bipolar,4,5,3,9,0,5,3,2
-id_694,Depresion,1,0,1,1,0,1,0,5
-id_695,Depresion,4,3,0,7,5,3,1,0
-id_696,Ansiedad,7,3,7,13,0,4,1,1
-id_697,estrés,0,0,3,4,1,14,0,2
-id_698,Ttno Bipolar,0,2,0,1,2,1,1,3
-id_699,Depresion,0,4,0,2,4,0,0,5
-id_7,estrés,5,3,1,9,0,4,4,2
-id_70,Depresion,2,1,1,2,0,4,0,4
-id_700,Ttno de Personalidad,4,5,4,5,3,7,1,4
-id_701,Ttno de Personalidad,0,7,1,0,7,2,5,10
-id_702,estrés,0,2,0,0,1,0,0,3
-id_703,Ttno de Personalidad,1,1,1,1,0,1,1,0
-id_704,Ttno Bipolar,2,3,3,4,7,6,5,7
-id_705,Depresion,0,0,0,0,0,0,0,0
-id_706,Ttno Bipolar,4,3,4,3,5,4,3,4
-id_707,Ansiedad,3,9,0,8,5,2,7,5
-id_708,Depresion,5,4,8,2,3,2,3,4
-id_709,Depresion,12,24,7,12,21,13,7,30
-id_71,Ansiedad,1,1,4,0,1,2,1,1
-id_710,Ttno de Personalidad,0,2,0,1,1,0,1,1
-id_711,Ansiedad,4,4,6,7,1,7,1,4
-id_712,Ansiedad,1,1,0,0,0,1,0,1
-id_713,estrés,0,5,0,0,9,0,2,5
-id_714,Depresion,8,11,5,14,11,15,1,39
-id_715,estrés,19,25,12,24,16,37,27,24
-id_716,Depresion,5,2,3,6,0,6,2,0
-id_717,Ttno Bipolar,2,5,0,8,4,7,4,9
-id_718,estrés,10,3,10,13,2,12,5,3
-id_719,Ttno Bipolar,12,4,8,18,2,13,3,2
-id_72,estrés,0,2,0,2,0,2,0,1
-id_720,Ttno de Personalidad,1,1,2,0,1,0,0,1
-id_721,Ttno de Personalidad,6,18,6,6,19,7,8,28
-id_722,Ttno Bipolar,1,0,1,2,0,0,0,0
-id_723,Ansiedad,6,4,4,6,0,6,0,0
-id_724,Ansiedad,0,4,0,2,2,0,2,3
-id_725,Ansiedad,3,4,1,9,5,1,6,5
-id_726,estrés,0,1,0,0,0,0,0,1
-id_727,estrés,0,0,0,1,0,4,2,2
-id_728,estrés,2,2,2,4,3,8,1,2
-id_729,Depresion,2,0,1,2,0,1,0,0
-id_73,Ttno Bipolar,1,2,0,1,2,0,1,2
-id_730,Ansiedad,13,10,8,19,1,14,1,2
-id_731,estrés,0,1,0,0,1,0,1,1
-id_732,Ttno de Personalidad,3,2,6,6,2,11,0,5
-id_733,Ttno Bipolar,10,16,3,26,12,12,12,6
-id_734,Depresion,11,6,10,15,6,23,6,11
-id_735,Depresion,0,1,0,0,1,0,0,1
-id_736,Depresion,2,2,3,6,2,11,0,4
-id_737,estrés,0,2,0,0,2,3,1,3
-id_738,Ttno Bipolar,5,7,5,12,3,9,4,11
-id_739,Depresion,8,5,14,15,2,10,2,10
-id_74,Ttno Bipolar,0,0,0,0,0,0,0,1
-id_740,Ttno Bipolar,0,1,1,3,2,3,0,2
-id_741,Ttno de Personalidad,0,3,0,1,2,2,2,2
-id_742,Ansiedad,3,4,3,8,0,19,0,2
-id_743,Depresion,5,6,3,1,5,2,5,8
-id_744,Ttno Bipolar,8,3,10,10,5,18,2,5
-id_745,Ansiedad,4,7,2,5,3,6,2,6
-id_746,Depresion,0,1,3,2,1,3,0,1
-id_747,Ttno Bipolar,13,3,10,23,8,18,3,13
-id_748,Depresion,1,22,1,2,17,9,3,18
-id_749,Ansiedad,3,5,1,8,0,9,2,0
-id_75,estrés,0,0,1,0,0,0,0,2
-id_750,estrés,0,2,1,2,1,1,1,1
-id_751,Ttno de Personalidad,2,3,1,3,0,2,0,1
-id_752,Depresion,1,9,2,3,3,2,3,7
-id_753,Ttno Bipolar,2,12,3,5,5,4,4,11
-id_754,Ttno Bipolar,7,3,11,12,5,11,4,5
-id_755,Ttno de Personalidad,0,0,0,0,2,0,0,3
-id_756,Depresion,2,9,2,3,14,10,1,15
-id_758,Ttno Bipolar,11,5,7,6,2,8,3,5
-id_759,Ansiedad,5,16,0,6,10,10,4,16
-id_76,Ttno de Personalidad,0,1,0,0,0,0,0,0
-id_760,Ttno de Personalidad,0,4,0,2,2,0,1,1
-id_761,Ttno Bipolar,2,2,0,4,1,1,3,1
-id_762,Ansiedad,0,1,0,0,0,1,0,0
-id_763,Ansiedad,1,3,1,1,0,2,1,0
-id_764,Ttno Bipolar,0,0,0,0,0,0,0,0
-id_765,Ansiedad,6,3,0,8,0,4,1,1
-id_766,Ttno Bipolar,1,2,1,1,2,2,2,2
-id_767,Ttno de Personalidad,8,6,8,11,7,12,1,7
-id_768,Ttno Bipolar,1,1,0,0,0,1,0,0
-id_769,estrés,2,1,3,7,1,6,1,2
-id_77,Ansiedad,4,7,2,11,0,21,0,0
-id_770,Depresion,1,2,0,3,2,0,1,2
-id_771,Ansiedad,3,3,1,2,1,3,1,4
-id_772,estrés,1,0,1,1,0,1,0,1
-id_773,Ttno de Personalidad,1,8,6,11,5,8,2,7
-id_774,Ttno Bipolar,1,3,0,0,3,0,3,4
-id_776,Ansiedad,3,3,0,3,0,4,2,0
-id_777,Depresion,0,0,0,0,0,2,0,0
-id_778,Ttno de Personalidad,1,0,0,2,0,1,0,1
-id_779,Ttno Bipolar,0,3,1,1,1,2,1,3
-id_78,Ansiedad,1,3,1,2,0,1,0,0
-id_780,Ttno Bipolar,2,3,1,1,2,1,2,1
-id_781,estrés,7,4,6,8,2,12,6,3
-id_782,estrés,1,3,1,2,0,2,1,5
-id_783,Ansiedad,1,1,1,1,0,1,0,0
-id_784,Ttno de Personalidad,0,1,0,0,1,0,1,1
-id_785,Ansiedad,1,1,0,1,0,1,0,0
-id_786,Ansiedad,0,0,0,0,0,0,0,0
-id_787,Ttno de Personalidad,0,0,0,0,0,0,0,0
-id_788,Depresion,2,8,1,5,6,6,2,12
-id_789,Ttno de Personalidad,0,2,0,0,0,0,0,0
-id_79,Ttno de Personalidad,3,2,1,4,0,3,0,4
-id_790,Ttno de Personalidad,7,7,1,9,3,7,2,7
-id_791,Ttno de Personalidad,2,2,0,1,2,0,0,4
-id_792,Depresion,2,1,2,3,1,8,0,3
-id_793,Ttno de Personalidad,0,4,0,0,4,1,3,11
-id_794,Ttno de Personalidad,0,2,0,0,0,0,0,0
-id_795,Depresion,0,0,0,1,2,0,1,9
-id_796,Depresion,11,6,6,12,5,19,7,4
-id_797,Depresion,2,3,0,4,3,4,0,2
-id_798,Ttno de Personalidad,0,1,0,0,0,0,0,0
-id_799,Ttno Bipolar,1,2,1,2,1,1,2,3
-id_8,Ttno Bipolar,1,0,0,2,0,4,1,2
-id_80,Ttno Bipolar,0,1,0,1,3,0,0,2
-id_800,Depresion,0,2,0,3,2,4,0,4
-id_801,Ttno Bipolar,1,0,2,2,0,0,1,2
-id_802,Ansiedad,13,23,13,26,9,28,9,18
-id_803,estrés,0,5,1,0,2,0,1,3
-id_804,Ttno de Personalidad,4,8,5,6,2,7,2,4
-id_805,estrés,3,13,6,9,14,13,7,12
-id_806,estrés,0,0,0,0,0,0,0,1
-id_807,estrés,1,18,1,6,8,6,13,9
-id_808,Ttno Bipolar,8,3,4,10,2,9,1,5
-id_809,Ttno de Personalidad,0,4,0,2,2,1,2,7
-id_81,Ttno de Personalidad,1,2,0,2,1,2,1,3
-id_810,estrés,0,3,1,2,4,3,0,4
-id_811,estrés,0,0,0,0,0,0,0,2
-id_812,Ansiedad,0,1,0,0,1,0,1,1
-id_813,Ttno de Personalidad,2,3,3,4,1,1,4,4
-id_814,Ansiedad,14,11,7,22,8,22,10,11
-id_815,estrés,22,22,7,55,11,16,11,21
-id_816,Ansiedad,1,1,0,3,0,5,0,0
-id_817,Ttno de Personalidad,2,4,1,3,1,6,0,5
-id_818,Depresion,2,0,2,2,0,4,0,0
-id_819,Ttno Bipolar,4,6,4,6,5,9,3,8
-id_82,Ansiedad,4,3,4,5,1,4,4,2
-id_820,estrés,7,4,1,7,3,4,4,3
-id_821,Depresion,1,3,0,1,1,2,1,2
-id_822,Ansiedad,6,7,0,7,0,6,2,2
-id_823,Ttno Bipolar,1,6,0,2,2,2,1,3
-id_824,Ttno de Personalidad,6,12,5,9,8,8,6,15
-id_825,estrés,5,17,6,3,8,7,7,9
-id_826,Ansiedad,3,6,2,15,8,15,5,7
-id_827,estrés,6,3,6,5,1,7,1,8
-id_828,Ttno Bipolar,1,0,0,1,0,2,0,0
-id_829,Ansiedad,2,1,1,2,2,3,0,2
-id_83,Depresion,0,0,0,0,0,0,0,0
-id_830,Depresion,6,6,9,9,7,10,2,4
-id_831,Depresion,3,4,0,1,2,1,2,2
-id_832,estrés,2,0,1,0,0,0,0,0
-id_833,Ttno de Personalidad,0,2,0,1,2,1,0,6
-id_834,estrés,22,11,16,31,10,21,6,16
-id_835,estrés,2,9,2,6,8,9,5,11
-id_836,Ttno Bipolar,0,0,0,0,0,0,0,0
-id_837,Ansiedad,2,3,0,3,1,3,0,1
-id_838,estrés,0,1,1,3,1,2,1,2
-id_839,estrés,11,9,4,13,8,12,1,13
-id_84,Depresion,27,7,12,39,5,39,12,6
-id_840,estrés,0,6,0,1,3,0,1,6
-id_841,estrés,6,7,0,3,7,2,4,13
-id_842,Ttno Bipolar,1,0,1,3,0,2,0,0
-id_843,Ttno Bipolar,1,0,2,5,0,3,0,0
-id_844,Ttno de Personalidad,2,4,4,6,2,7,2,3
-id_845,Ansiedad,0,3,0,1,2,0,2,3
-id_846,Ttno Bipolar,2,0,2,2,0,3,0,1
-id_847,estrés,4,2,0,3,0,1,1,1
-id_848,Ansiedad,5,9,5,10,1,8,9,1
-id_849,estrés,0,2,0,0,2,0,1,6
-id_85,Ttno de Personalidad,0,0,0,0,0,0,0,1
-id_850,Depresion,11,7,7,16,3,19,3,8
-id_851,Ansiedad,4,1,3,10,0,12,2,2
-id_852,Ttno Bipolar,1,1,0,1,2,2,1,3
-id_853,Ansiedad,7,3,3,9,2,4,2,1
-id_854,Ttno Bipolar,0,2,0,1,1,2,1,1
-id_855,Depresion,1,3,0,1,3,1,0,2
-id_856,estrés,4,2,4,4,3,10,3,5
-id_857,Ttno de Personalidad,0,2,0,1,0,0,1,1
-id_858,estrés,1,2,2,4,2,2,2,4
-id_859,Ttno Bipolar,0,0,0,2,0,2,0,0
-id_86,estrés,6,4,5,10,0,15,7,0
-id_860,Ttno Bipolar,8,5,12,14,4,11,3,11
-id_861,Ttno Bipolar,1,2,1,5,5,6,1,7
-id_862,Ttno de Personalidad,0,5,0,0,3,1,1,3
-id_863,Ttno Bipolar,11,12,7,20,8,11,11,9
-id_864,Ttno de Personalidad,1,6,0,1,5,1,3,4
-id_865,Ttno de Personalidad,0,0,0,0,0,0,0,3
-id_866,Ttno Bipolar,10,16,8,15,10,12,11,13
-id_867,Ttno Bipolar,4,1,3,2,1,3,1,2
-id_868,estrés,1,7,1,3,5,1,3,12
-id_869,Ttno Bipolar,4,5,2,7,3,10,3,5
-id_87,estrés,0,1,1,1,0,1,0,0
-id_870,Ttno Bipolar,6,5,5,9,5,11,3,4
-id_871,Ansiedad,4,3,0,2,0,2,0,1
-id_872,Ansiedad,4,5,2,17,0,11,2,2
-id_873,Ansiedad,3,5,0,6,5,7,1,11
-id_874,Depresion,4,6,5,4,3,7,1,5
-id_875,Ttno Bipolar,1,2,0,2,7,1,1,6
-id_876,Ttno de Personalidad,0,1,1,0,2,1,1,3
-id_877,estrés,1,2,2,4,2,7,2,3
-id_878,Depresion,0,9,0,1,7,5,4,12
-id_879,Ttno de Personalidad,1,0,2,0,0,0,0,0
-id_88,Ttno de Personalidad,5,13,5,8,7,5,7,12
-id_880,Depresion,4,5,3,2,4,6,1,4
-id_881,Ansiedad,6,11,3,20,3,9,8,5
-id_882,Ansiedad,4,5,1,7,0,5,0,0
-id_883,Ttno Bipolar,0,0,1,0,0,0,0,1
-id_884,Depresion,1,1,0,3,2,0,1,1
-id_885,estrés,1,5,0,1,3,2,1,4
-id_886,Ttno de Personalidad,4,6,9,12,4,9,1,4
-id_887,estrés,0,3,0,0,1,0,0,2
-id_888,Ansiedad,6,1,6,8,1,7,3,6
-id_889,Ttno Bipolar,2,2,0,2,2,1,1,2
-id_89,Ttno Bipolar,0,1,0,0,0,0,0,2
-id_890,Ttno Bipolar,2,5,2,6,7,5,1,8
-id_891,Ansiedad,5,5,1,10,6,7,0,6
-id_892,Depresion,3,1,1,4,1,2,1,4
-id_893,estrés,1,1,0,1,0,1,0,0
-id_894,Depresion,1,0,1,2,0,1,0,1
-id_895,estrés,1,2,0,1,0,1,0,1
-id_896,estrés,0,0,0,2,4,2,0,7
-id_897,Depresion,5,6,0,7,4,5,4,4
-id_898,Ansiedad,1,2,1,1,1,3,2,2
-id_899,Depresion,0,8,0,0,9,2,7,16
-id_9,Ttno Bipolar,0,1,0,0,1,0,1,0
-id_90,Depresion,2,4,3,5,5,3,1,7
-id_900,Ttno de Personalidad,0,0,0,0,0,0,0,0
-id_901,Ttno de Personalidad,2,3,3,8,4,7,2,4
-id_902,Ttno Bipolar,1,6,1,4,1,1,2,1
-id_903,Ttno de Personalidad,1,10,1,4,6,1,4,3
-id_904,estrés,4,5,2,9,2,3,3,3
-id_905,Depresion,2,8,1,7,5,8,6,6
-id_906,Ansiedad,0,7,0,4,3,0,6,2
-id_907,Ttno de Personalidad,0,0,0,1,0,0,0,1
-id_908,estrés,0,2,0,0,0,1,0,0
-id_909,Ansiedad,1,2,0,1,1,1,1,1
-id_91,Ttno de Personalidad,4,5,2,7,3,5,4,3
-id_910,Ttno Bipolar,0,2,0,3,2,4,1,1
-id_911,Ttno de Personalidad,2,7,2,2,5,4,1,9
-id_912,Ansiedad,0,0,0,0,1,1,0,0
-id_913,Depresion,0,3,0,2,5,1,2,8
-id_914,Depresion,1,2,3,1,0,3,0,1
-id_915,estrés,0,2,0,0,0,0,0,2
-id_916,Ansiedad,5,0,5,3,0,5,0,1
-id_917,Ttno Bipolar,0,1,0,0,1,1,0,3
-id_918,Depresion,5,0,2,3,1,2,0,2
-id_919,Ttno de Personalidad,8,7,3,11,0,9,3,3
-id_92,Ansiedad,5,3,4,11,0,17,1,0
-id_920,estrés,0,0,0,1,1,1,0,2
-id_921,Depresion,0,1,2,0,0,0,0,1
-id_922,Depresion,1,1,1,1,1,2,2,1
-id_923,Ansiedad,6,10,2,13,0,13,1,5
-id_924,Ttno de Personalidad,2,5,0,1,7,2,2,9
-id_925,Ttno de Personalidad,3,2,2,3,1,6,2,4
-id_926,Depresion,3,4,2,3,3,7,2,3
-id_927,estrés,0,3,0,1,0,1,0,3
-id_928,Depresion,3,0,2,3,0,4,0,0
-id_929,Depresion,2,9,4,4,6,17,6,6
-id_93,Ansiedad,6,0,13,13,0,14,0,0
-id_930,Ttno Bipolar,2,0,1,2,0,0,0,0
-id_931,Depresion,0,0,0,0,0,0,0,0
-id_932,Depresion,6,9,7,5,9,8,4,10
-id_933,Ansiedad,4,3,1,4,1,7,3,1
-id_934,Ttno de Personalidad,4,8,3,2,8,5,2,11
-id_935,Ttno de Personalidad,0,2,0,1,2,1,3,3
-id_937,Ttno Bipolar,0,0,0,0,0,0,1,3
-id_938,Depresion,0,1,0,0,0,0,0,0
-id_939,Depresion,2,1,2,4,1,4,1,3
-id_94,Ttno Bipolar,1,5,1,2,5,2,3,3
-id_940,Ttno Bipolar,0,0,0,0,0,2,1,2
-id_941,Ttno de Personalidad,0,0,0,0,0,6,0,0
-id_942,Depresion,2,5,1,4,2,4,1,3
-id_943,Depresion,1,5,3,1,1,3,2,6
-id_944,Ansiedad,5,10,0,10,3,8,2,5
-id_945,Ansiedad,8,9,2,5,5,5,3,5
-id_946,Depresion,1,2,1,3,1,5,0,5
-id_947,Ttno de Personalidad,3,1,4,2,0,3,0,1
-id_948,Ttno de Personalidad,2,2,0,4,0,2,1,1
-id_949,Ansiedad,2,4,1,7,1,9,3,2
-id_95,Ttno de Personalidad,1,1,1,4,2,1,1,3
-id_950,Ansiedad,7,8,0,12,2,6,4,2
-id_951,estrés,5,7,2,5,4,7,1,5
-id_952,Depresion,6,3,2,8,2,10,3,8
-id_953,estrés,2,8,3,2,8,9,5,10
-id_954,Depresion,0,1,0,1,1,0,1,1
-id_955,Ttno Bipolar,0,3,0,1,1,1,1,2
-id_956,Ansiedad,1,1,0,1,0,1,0,0
-id_957,Ansiedad,3,9,0,4,12,3,0,14
-id_958,Depresion,0,0,0,1,1,0,1,1
-id_959,Depresion,0,1,0,2,0,2,0,2
-id_96,Ttno de Personalidad,8,5,8,6,7,9,2,8
-id_960,Ttno de Personalidad,0,0,0,0,0,1,1,3
-id_961,estrés,1,0,0,1,0,1,0,0
-id_962,Ttno de Personalidad,3,8,5,5,4,8,3,7
-id_963,estrés,0,0,0,0,2,0,0,1
-id_964,Depresion,1,0,0,1,0,1,0,0
-id_965,Depresion,1,1,0,3,0,0,1,0
-id_966,Ttno Bipolar,0,0,0,0,0,0,0,1
-id_967,Ttno de Personalidad,0,3,0,1,0,2,0,2
-id_968,estrés,2,5,3,6,4,4,1,2
-id_969,Ttno Bipolar,0,1,0,2,0,4,0,0
-id_97,Ttno de Personalidad,1,1,2,2,2,2,0,2
-id_970,Depresion,4,6,0,3,2,4,1,10
-id_971,Depresion,9,12,5,3,9,8,5,15
-id_972,estrés,3,8,1,5,2,4,2,8
-id_973,estrés,0,1,0,0,1,0,1,1
-id_974,estrés,1,4,0,2,3,4,3,5
-id_975,Ttno Bipolar,2,1,4,4,2,3,1,8
-id_976,Ansiedad,4,4,1,6,1,5,2,1
-id_977,Ttno Bipolar,0,2,0,0,2,1,2,3
-id_978,Ansiedad,2,6,1,4,2,3,1,5
-id_979,Ttno Bipolar,1,1,0,3,0,2,1,0
-id_98,estrés,6,17,4,9,6,14,8,11
-id_980,Ttno Bipolar,3,4,2,3,3,9,2,2
-id_981,Ansiedad,4,1,5,6,0,14,0,3
-id_982,Ttno de Personalidad,3,5,0,6,1,3,0,7
-id_983,Ttno de Personalidad,2,0,1,2,0,3,1,2
-id_984,estrés,3,3,2,4,3,4,1,5
-id_985,estrés,0,1,0,0,1,0,0,6
-id_986,estrés,1,10,1,1,9,4,1,11
-id_987,Depresion,0,0,0,0,0,0,0,0
-id_988,estrés,1,8,1,2,7,6,8,9
-id_989,Depresion,2,0,1,2,2,1,0,5
-id_99,Ansiedad,8,7,6,17,1,33,2,3
-id_990,estrés,5,7,3,14,1,14,7,8
-id_991,Depresion,4,6,5,6,12,7,3,12
-id_992,Ttno Bipolar,5,14,5,7,10,12,8,12
-id_993,Ttno de Personalidad,1,1,0,1,4,1,1,2
-id_994,Ttno de Personalidad,2,1,2,2,1,4,0,2
-id_995,Ttno de Personalidad,5,2,7,5,1,6,0,3
-id_996,Ansiedad,1,5,0,3,0,1,1,1
-id_997,Depresion,6,5,5,6,2,8,0,4
-id_998,estrés,1,3,0,1,1,1,0,4
-id_999,estrés,1,4,0,2,3,4,3,5
+id,diagnostico,anger,anticipation,disgust,fear,joy,sadness,surprise,trust,total_palabras,porc_anger,porc_anticipation,porc_disgust,porc_fear,porc_joy,porc_sadness,porc_surprise,porc_trust
+id_1,Depresion,1,2,1,1,2,2,0,2,10,0.1,0.2,0.1,0.1,0.2,0.2,0,0.2
+id_10,Depresion,11,33,8,14,26,19,13,30,244,0.045081967213114756,0.13524590163934427,0.03278688524590164,0.05737704918032787,0.10655737704918032,0.0778688524590164,0.05327868852459016,0.12295081967213115
+id_100,Depresion,1,3,0,1,3,1,0,2,61,0.01639344262295082,0.04918032786885246,0,0.01639344262295082,0.04918032786885246,0.01639344262295082,0,0.03278688524590164
+id_101,Ansiedad,0,4,0,1,3,0,1,4,44,0,0.09090909090909091,0,0.022727272727272728,0.06818181818181818,0,0.022727272727272728,0.09090909090909091
+id_102,Ttno Bipolar,1,5,1,3,2,1,2,8,111,0.009009009009009009,0.04504504504504504,0.009009009009009009,0.02702702702702703,0.018018018018018018,0.009009009009009009,0.018018018018018018,0.07207207207207207
+id_103,Ansiedad,0,0,0,2,0,2,0,0,16,0,0,0,0.125,0,0.125,0,0
+id_104,Depresion,2,7,1,5,5,8,3,10,87,0.022988505747126436,0.08045977011494253,0.011494252873563218,0.05747126436781609,0.05747126436781609,0.09195402298850575,0.034482758620689655,0.11494252873563218
+id_105,Depresion,6,7,2,14,4,9,6,6,101,0.0594059405940594,0.06930693069306931,0.019801980198019802,0.13861386138613863,0.039603960396039604,0.0891089108910891,0.0594059405940594,0.0594059405940594
+id_106,Ttno Bipolar,38,42,23,28,27,33,15,34,408,0.09313725490196079,0.10294117647058823,0.056372549019607844,0.06862745098039216,0.0661764705882353,0.08088235294117647,0.03676470588235294,0.08333333333333333
+id_107,Ttno de Personalidad,0,0,0,0,1,0,0,1,9,0,0,0,0,0.1111111111111111,0,0,0.1111111111111111
+id_108,Ansiedad,8,8,3,11,0,16,5,4,82,0.0975609756097561,0.0975609756097561,0.036585365853658534,0.13414634146341464,0,0.1951219512195122,0.06097560975609756,0.04878048780487805
+id_109,Depresion,1,2,1,1,2,2,0,4,55,0.01818181818181818,0.03636363636363636,0.01818181818181818,0.01818181818181818,0.03636363636363636,0.03636363636363636,0,0.07272727272727272
+id_11,Ansiedad,6,7,2,10,1,4,3,2,89,0.06741573033707865,0.07865168539325842,0.02247191011235955,0.11235955056179775,0.011235955056179775,0.0449438202247191,0.033707865168539325,0.02247191011235955
+id_110,Ttno Bipolar,5,4,3,7,3,10,1,5,111,0.04504504504504504,0.036036036036036036,0.02702702702702703,0.06306306306306306,0.02702702702702703,0.09009009009009009,0.009009009009009009,0.04504504504504504
+id_111,Ttno Bipolar,1,3,0,1,1,3,0,1,52,0.019230769230769232,0.057692307692307696,0,0.019230769230769232,0.019230769230769232,0.057692307692307696,0,0.019230769230769232
+id_112,Depresion,3,4,1,4,2,7,0,6,69,0.043478260869565216,0.057971014492753624,0.014492753623188406,0.057971014492753624,0.028985507246376812,0.10144927536231885,0,0.08695652173913043
+id_113,Ansiedad,4,3,0,3,1,2,1,1,38,0.10526315789473684,0.07894736842105263,0,0.07894736842105263,0.02631578947368421,0.05263157894736842,0.02631578947368421,0.02631578947368421
+id_114,Depresion,11,11,6,14,3,17,2,9,179,0.061452513966480445,0.061452513966480445,0.0335195530726257,0.0782122905027933,0.01675977653631285,0.09497206703910614,0.0111731843575419,0.05027932960893855
+id_115,Depresion,5,6,1,4,5,5,1,7,73,0.0684931506849315,0.0821917808219178,0.0136986301369863,0.0547945205479452,0.0684931506849315,0.0684931506849315,0.0136986301369863,0.0958904109589041
+id_116,Depresion,5,3,0,5,2,6,1,1,105,0.047619047619047616,0.02857142857142857,0,0.047619047619047616,0.01904761904761905,0.05714285714285714,0.009523809523809525,0.009523809523809525
+id_117,Depresion,1,3,0,4,0,1,1,1,75,0.013333333333333334,0.04,0,0.05333333333333334,0,0.013333333333333334,0.013333333333333334,0.013333333333333334
+id_118,Ansiedad,10,10,8,31,8,14,8,16,157,0.06369426751592357,0.06369426751592357,0.050955414012738856,0.19745222929936307,0.050955414012738856,0.08917197452229299,0.050955414012738856,0.10191082802547771
+id_119,estrés,3,5,1,6,1,4,1,5,103,0.02912621359223301,0.04854368932038835,0.009708737864077669,0.05825242718446602,0.009708737864077669,0.038834951456310676,0.009708737864077669,0.04854368932038835
+id_12,Depresion,2,1,2,2,2,5,0,2,51,0.0392156862745098,0.0196078431372549,0.0392156862745098,0.0392156862745098,0.0392156862745098,0.09803921568627451,0,0.0392156862745098
+id_120,Ansiedad,5,3,2,9,0,4,2,1,51,0.09803921568627451,0.058823529411764705,0.0392156862745098,0.17647058823529413,0,0.0784313725490196,0.0392156862745098,0.0196078431372549
+id_121,Ttno de Personalidad,2,2,2,2,6,4,1,10,75,0.02666666666666667,0.02666666666666667,0.02666666666666667,0.02666666666666667,0.08,0.05333333333333334,0.013333333333333334,0.13333333333333333
+id_122,Depresion,1,2,1,3,2,2,1,2,10,0.1,0.2,0.1,0.3,0.2,0.2,0.1,0.2
+id_123,Ttno Bipolar,3,6,1,3,7,3,2,8,101,0.0297029702970297,0.0594059405940594,0.009900990099009901,0.0297029702970297,0.06930693069306931,0.0297029702970297,0.019801980198019802,0.07920792079207921
+id_124,Depresion,3,5,0,4,6,5,2,9,59,0.05084745762711865,0.0847457627118644,0,0.06779661016949153,0.1016949152542373,0.0847457627118644,0.03389830508474576,0.15254237288135594
+id_125,Depresion,3,8,1,4,4,3,0,7,88,0.03409090909090909,0.09090909090909091,0.011363636363636364,0.045454545454545456,0.045454545454545456,0.03409090909090909,0,0.07954545454545454
+id_126,estrés,0,1,1,1,1,1,0,1,11,0,0.09090909090909091,0.09090909090909091,0.09090909090909091,0.09090909090909091,0.09090909090909091,0,0.09090909090909091
+id_127,Ttno de Personalidad,2,8,0,6,2,0,3,2,38,0.05263157894736842,0.21052631578947367,0,0.15789473684210525,0.05263157894736842,0,0.07894736842105263,0.05263157894736842
+id_128,Depresion,0,1,1,0,1,0,1,1,7,0,0.14285714285714285,0.14285714285714285,0,0.14285714285714285,0,0.14285714285714285,0.14285714285714285
+id_129,Ttno Bipolar,0,0,2,5,2,16,1,4,44,0,0,0.045454545454545456,0.11363636363636363,0.045454545454545456,0.36363636363636365,0.022727272727272728,0.09090909090909091
+id_13,Ttno Bipolar,0,2,1,0,1,0,2,4,62,0,0.03225806451612903,0.016129032258064516,0,0.016129032258064516,0,0.03225806451612903,0.06451612903225806
+id_130,Ttno de Personalidad,0,3,1,2,0,1,0,0,46,0,0.06521739130434782,0.021739130434782608,0.043478260869565216,0,0.021739130434782608,0,0
+id_131,Ansiedad,5,6,1,6,1,4,2,1,76,0.06578947368421052,0.07894736842105263,0.013157894736842105,0.07894736842105263,0.013157894736842105,0.05263157894736842,0.02631578947368421,0.013157894736842105
+id_132,Ansiedad,3,2,0,4,0,2,1,0,13,0.23076923076923078,0.15384615384615385,0,0.3076923076923077,0,0.15384615384615385,0.07692307692307693,0
+id_133,Ansiedad,0,0,0,0,2,0,0,2,22,0,0,0,0,0.09090909090909091,0,0,0.09090909090909091
+id_134,Depresion,1,7,3,0,2,1,2,9,128,0.0078125,0.0546875,0.0234375,0,0.015625,0.0078125,0.015625,0.0703125
+id_135,Ttno Bipolar,1,4,0,1,5,3,2,4,61,0.01639344262295082,0.06557377049180328,0,0.01639344262295082,0.08196721311475409,0.04918032786885246,0.03278688524590164,0.06557377049180328
+id_136,Ansiedad,1,1,0,1,0,1,0,0,12,0.08333333333333333,0.08333333333333333,0,0.08333333333333333,0,0.08333333333333333,0,0
+id_137,estrés,6,1,1,3,0,4,0,1,72,0.08333333333333333,0.013888888888888888,0.013888888888888888,0.041666666666666664,0,0.05555555555555555,0,0.013888888888888888
+id_138,Ttno de Personalidad,4,3,0,1,4,4,1,4,32,0.125,0.09375,0,0.03125,0.125,0.125,0.03125,0.125
+id_139,Ttno de Personalidad,2,2,1,1,2,0,0,7,106,0.018867924528301886,0.018867924528301886,0.009433962264150943,0.009433962264150943,0.018867924528301886,0,0,0.0660377358490566
+id_14,Ttno de Personalidad,12,12,3,10,12,11,9,14,127,0.09448818897637795,0.09448818897637795,0.023622047244094488,0.07874015748031496,0.09448818897637795,0.08661417322834646,0.07086614173228346,0.11023622047244094
+id_140,Ttno de Personalidad,2,3,1,3,0,2,0,1,27,0.07407407407407407,0.1111111111111111,0.037037037037037035,0.1111111111111111,0,0.07407407407407407,0,0.037037037037037035
+id_141,Ttno Bipolar,11,6,5,11,1,10,0,3,90,0.12222222222222222,0.06666666666666667,0.05555555555555555,0.12222222222222222,0.011111111111111112,0.1111111111111111,0,0.03333333333333333
+id_142,estrés,3,6,1,6,1,4,0,4,84,0.03571428571428571,0.07142857142857142,0.011904761904761904,0.07142857142857142,0.011904761904761904,0.047619047619047616,0,0.047619047619047616
+id_143,Ansiedad,0,2,0,0,1,0,1,1,20,0,0.1,0,0,0.05,0,0.05,0.05
+id_144,Ansiedad,2,4,1,4,1,2,1,4,85,0.023529411764705882,0.047058823529411764,0.011764705882352941,0.047058823529411764,0.011764705882352941,0.023529411764705882,0.011764705882352941,0.047058823529411764
+id_145,Ansiedad,5,9,0,11,3,6,2,3,100,0.05,0.09,0,0.11,0.03,0.06,0.02,0.03
+id_146,Depresion,1,1,2,0,0,1,0,0,36,0.027777777777777776,0.027777777777777776,0.05555555555555555,0,0,0.027777777777777776,0,0
+id_147,Ttno Bipolar,6,3,6,9,1,13,1,5,75,0.08,0.04,0.08,0.12,0.013333333333333334,0.17333333333333334,0.013333333333333334,0.06666666666666667
+id_148,Ansiedad,5,7,3,6,3,6,1,6,82,0.06097560975609756,0.08536585365853659,0.036585365853658534,0.07317073170731707,0.036585365853658534,0.07317073170731707,0.012195121951219513,0.07317073170731707
+id_149,Depresion,1,1,1,3,0,3,2,1,19,0.05263157894736842,0.05263157894736842,0.05263157894736842,0.15789473684210525,0,0.15789473684210525,0.10526315789473684,0.05263157894736842
+id_15,Ttno Bipolar,0,1,0,0,1,1,0,1,31,0,0.03225806451612903,0,0,0.03225806451612903,0.03225806451612903,0,0.03225806451612903
+id_150,estrés,5,11,6,7,9,7,10,11,108,0.046296296296296294,0.10185185185185185,0.05555555555555555,0.06481481481481481,0.08333333333333333,0.06481481481481481,0.09259259259259259,0.10185185185185185
+id_151,Ttno de Personalidad,1,1,2,0,2,0,0,3,31,0.03225806451612903,0.03225806451612903,0.06451612903225806,0,0.06451612903225806,0,0,0.0967741935483871
+id_152,Ttno Bipolar,8,1,6,8,0,11,1,1,64,0.125,0.015625,0.09375,0.125,0,0.171875,0.015625,0.015625
+id_153,Ansiedad,5,8,3,7,1,8,2,5,82,0.06097560975609756,0.0975609756097561,0.036585365853658534,0.08536585365853659,0.012195121951219513,0.0975609756097561,0.024390243902439025,0.06097560975609756
+id_154,Ttno de Personalidad,1,0,1,1,0,2,0,2,59,0.01694915254237288,0,0.01694915254237288,0.01694915254237288,0,0.03389830508474576,0,0.03389830508474576
+id_155,Ttno Bipolar,3,7,4,6,4,7,2,9,151,0.019867549668874173,0.046357615894039736,0.026490066225165563,0.039735099337748346,0.026490066225165563,0.046357615894039736,0.013245033112582781,0.059602649006622516
+id_157,Ttno Bipolar,0,2,0,3,0,2,0,2,37,0,0.05405405405405406,0,0.08108108108108109,0,0.05405405405405406,0,0.05405405405405406
+id_158,estrés,0,0,0,0,1,0,0,2,19,0,0,0,0,0.05263157894736842,0,0,0.10526315789473684
+id_159,Ansiedad,2,1,0,2,0,2,0,1,9,0.2222222222222222,0.1111111111111111,0,0.2222222222222222,0,0.2222222222222222,0,0.1111111111111111
+id_16,Ttno Bipolar,0,2,0,1,1,0,1,1,43,0,0.046511627906976744,0,0.023255813953488372,0.023255813953488372,0,0.023255813953488372,0.023255813953488372
+id_160,estrés,2,7,0,0,6,2,3,7,41,0.04878048780487805,0.17073170731707318,0,0,0.14634146341463414,0.04878048780487805,0.07317073170731707,0.17073170731707318
+id_161,Ttno de Personalidad,2,8,1,2,11,10,4,9,185,0.010810810810810811,0.043243243243243246,0.005405405405405406,0.010810810810810811,0.05945945945945946,0.05405405405405406,0.021621621621621623,0.04864864864864865
+id_162,Ttno Bipolar,0,3,0,5,2,3,2,6,136,0,0.022058823529411766,0,0.03676470588235294,0.014705882352941176,0.022058823529411766,0.014705882352941176,0.04411764705882353
+id_163,Depresion,6,11,3,4,9,9,9,11,125,0.048,0.088,0.024,0.032,0.072,0.072,0.072,0.088
+id_164,Depresion,6,7,5,10,3,8,2,7,71,0.08450704225352113,0.09859154929577464,0.07042253521126761,0.14084507042253522,0.04225352112676056,0.11267605633802817,0.028169014084507043,0.09859154929577464
+id_165,estrés,5,4,2,7,6,6,2,15,131,0.03816793893129771,0.030534351145038167,0.015267175572519083,0.05343511450381679,0.04580152671755725,0.04580152671755725,0.015267175572519083,0.11450381679389313
+id_166,Ttno Bipolar,3,0,3,8,0,12,0,6,72,0.041666666666666664,0,0.041666666666666664,0.1111111111111111,0,0.16666666666666666,0,0.08333333333333333
+id_167,estrés,1,0,3,1,1,4,1,1,27,0.037037037037037035,0,0.1111111111111111,0.037037037037037035,0.037037037037037035,0.14814814814814814,0.037037037037037035,0.037037037037037035
+id_168,Depresion,4,5,2,8,2,11,5,8,113,0.035398230088495575,0.04424778761061947,0.017699115044247787,0.07079646017699115,0.017699115044247787,0.09734513274336283,0.04424778761061947,0.07079646017699115
+id_169,Ttno Bipolar,5,2,3,5,2,6,0,6,91,0.054945054945054944,0.02197802197802198,0.03296703296703297,0.054945054945054944,0.02197802197802198,0.06593406593406594,0,0.06593406593406594
+id_17,Depresion,3,5,4,7,7,12,2,6,81,0.037037037037037035,0.06172839506172839,0.04938271604938271,0.08641975308641975,0.08641975308641975,0.14814814814814814,0.024691358024691357,0.07407407407407407
+id_170,Ttno Bipolar,2,3,3,1,2,2,0,3,34,0.058823529411764705,0.08823529411764706,0.08823529411764706,0.029411764705882353,0.058823529411764705,0.058823529411764705,0,0.08823529411764706
+id_171,Depresion,0,0,4,0,0,4,0,5,41,0,0,0.0975609756097561,0,0,0.0975609756097561,0,0.12195121951219512
+id_172,Depresion,3,10,2,3,11,5,8,12,57,0.05263157894736842,0.17543859649122806,0.03508771929824561,0.05263157894736842,0.19298245614035087,0.08771929824561403,0.14035087719298245,0.21052631578947367
+id_173,Depresion,1,2,0,2,1,3,1,2,88,0.011363636363636364,0.022727272727272728,0,0.022727272727272728,0.011363636363636364,0.03409090909090909,0.011363636363636364,0.022727272727272728
+id_174,Depresion,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+id_175,estrés,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
+id_176,estrés,11,20,12,24,12,27,10,17,347,0.03170028818443804,0.05763688760806916,0.0345821325648415,0.069164265129683,0.0345821325648415,0.07780979827089338,0.02881844380403458,0.04899135446685879
+id_177,Ttno Bipolar,0,0,0,1,0,1,1,4,31,0,0,0,0.03225806451612903,0,0.03225806451612903,0.03225806451612903,0.12903225806451613
+id_178,Depresion,0,1,1,0,1,0,1,1,7,0,0.14285714285714285,0.14285714285714285,0,0.14285714285714285,0,0.14285714285714285,0.14285714285714285
+id_179,Ansiedad,18,17,17,29,8,27,7,10,238,0.07563025210084033,0.07142857142857142,0.07142857142857142,0.12184873949579832,0.03361344537815126,0.1134453781512605,0.029411764705882353,0.04201680672268908
+id_18,Ttno Bipolar,2,9,2,6,8,2,7,7,221,0.00904977375565611,0.04072398190045249,0.00904977375565611,0.027149321266968326,0.03619909502262444,0.00904977375565611,0.03167420814479638,0.03167420814479638
+id_180,Ttno Bipolar,5,13,5,13,10,8,9,7,261,0.019157088122605363,0.04980842911877394,0.019157088122605363,0.04980842911877394,0.038314176245210725,0.03065134099616858,0.034482758620689655,0.02681992337164751
+id_181,Depresion,9,0,2,9,0,8,3,2,33,0.2727272727272727,0,0.06060606060606061,0.2727272727272727,0,0.24242424242424243,0.09090909090909091,0.06060606060606061
+id_182,estrés,1,0,1,3,0,10,0,0,11,0.09090909090909091,0,0.09090909090909091,0.2727272727272727,0,0.9090909090909091,0,0
+id_183,Ttno de Personalidad,4,10,2,8,7,9,3,10,112,0.03571428571428571,0.08928571428571429,0.017857142857142856,0.07142857142857142,0.0625,0.08035714285714286,0.026785714285714284,0.08928571428571429
+id_184,Ttno Bipolar,8,1,11,13,1,7,0,1,50,0.16,0.02,0.22,0.26,0.02,0.14,0,0.02
+id_185,Depresion,2,5,2,5,0,13,3,5,81,0.024691358024691357,0.06172839506172839,0.024691358024691357,0.06172839506172839,0,0.16049382716049382,0.037037037037037035,0.06172839506172839
+id_186,Ansiedad,3,11,2,7,10,6,6,15,162,0.018518518518518517,0.06790123456790123,0.012345679012345678,0.043209876543209874,0.06172839506172839,0.037037037037037035,0.037037037037037035,0.09259259259259259
+id_187,Ansiedad,5,8,5,8,1,8,4,6,94,0.05319148936170213,0.0851063829787234,0.05319148936170213,0.0851063829787234,0.010638297872340425,0.0851063829787234,0.0425531914893617,0.06382978723404255
+id_188,Depresion,10,15,6,4,13,27,3,18,194,0.05154639175257732,0.07731958762886598,0.030927835051546393,0.020618556701030927,0.06701030927835051,0.13917525773195877,0.015463917525773196,0.09278350515463918
+id_189,Depresion,1,4,0,1,1,3,0,2,91,0.01098901098901099,0.04395604395604396,0,0.01098901098901099,0.01098901098901099,0.03296703296703297,0,0.02197802197802198
+id_19,Ansiedad,3,8,1,5,7,9,4,11,78,0.038461538461538464,0.10256410256410256,0.01282051282051282,0.0641025641025641,0.08974358974358974,0.11538461538461539,0.05128205128205128,0.14102564102564102
+id_190,estrés,1,4,1,1,2,1,1,4,95,0.010526315789473684,0.042105263157894736,0.010526315789473684,0.010526315789473684,0.021052631578947368,0.010526315789473684,0.010526315789473684,0.042105263157894736
+id_191,Ttno de Personalidad,1,16,3,5,8,7,3,11,126,0.007936507936507936,0.12698412698412698,0.023809523809523808,0.03968253968253968,0.06349206349206349,0.05555555555555555,0.023809523809523808,0.0873015873015873
+id_192,Ansiedad,12,7,9,12,2,9,2,9,153,0.0784313725490196,0.0457516339869281,0.058823529411764705,0.0784313725490196,0.013071895424836602,0.058823529411764705,0.013071895424836602,0.058823529411764705
+id_193,Depresion,1,9,0,3,12,1,2,5,70,0.014285714285714285,0.12857142857142856,0,0.04285714285714286,0.17142857142857143,0.014285714285714285,0.02857142857142857,0.07142857142857142
+id_194,Ttno de Personalidad,2,0,2,2,2,2,0,3,46,0.043478260869565216,0,0.043478260869565216,0.043478260869565216,0.043478260869565216,0.043478260869565216,0,0.06521739130434782
+id_195,estrés,0,0,0,2,4,2,0,7,49,0,0,0,0.04081632653061224,0.08163265306122448,0.04081632653061224,0,0.14285714285714285
+id_196,Depresion,8,6,6,8,4,13,6,4,65,0.12307692307692308,0.09230769230769231,0.09230769230769231,0.12307692307692308,0.06153846153846154,0.2,0.09230769230769231,0.06153846153846154
+id_197,Ttno Bipolar,12,14,13,17,9,14,6,12,267,0.0449438202247191,0.052434456928838954,0.04868913857677903,0.06367041198501873,0.033707865168539325,0.052434456928838954,0.02247191011235955,0.0449438202247191
+id_198,estrés,0,3,1,0,1,2,1,3,34,0,0.08823529411764706,0.029411764705882353,0,0.029411764705882353,0.058823529411764705,0.029411764705882353,0.08823529411764706
+id_199,Ansiedad,6,5,2,5,2,7,3,1,42,0.14285714285714285,0.11904761904761904,0.047619047619047616,0.11904761904761904,0.047619047619047616,0.16666666666666666,0.07142857142857142,0.023809523809523808
+id_2,Depresion,6,7,6,6,5,8,2,8,89,0.06741573033707865,0.07865168539325842,0.06741573033707865,0.06741573033707865,0.056179775280898875,0.0898876404494382,0.02247191011235955,0.0898876404494382
+id_20,Depresion,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+id_200,Ttno de Personalidad,4,6,4,8,3,6,1,6,115,0.034782608695652174,0.05217391304347826,0.034782608695652174,0.06956521739130435,0.02608695652173913,0.05217391304347826,0.008695652173913044,0.05217391304347826
+id_201,Ansiedad,0,1,1,1,1,0,0,2,32,0,0.03125,0.03125,0.03125,0.03125,0,0,0.0625
+id_202,estrés,5,5,4,5,3,9,3,4,128,0.0390625,0.0390625,0.03125,0.0390625,0.0234375,0.0703125,0.0234375,0.03125
+id_203,Ttno Bipolar,0,2,5,1,1,3,1,1,55,0,0.03636363636363636,0.09090909090909091,0.01818181818181818,0.01818181818181818,0.05454545454545454,0.01818181818181818,0.01818181818181818
+id_204,Ansiedad,0,1,0,0,0,0,0,0,4,0,0.25,0,0,0,0,0,0
+id_205,Ansiedad,7,14,1,10,4,12,2,10,90,0.07777777777777778,0.15555555555555556,0.011111111111111112,0.1111111111111111,0.044444444444444446,0.13333333333333333,0.022222222222222223,0.1111111111111111
+id_206,Depresion,4,7,3,3,12,5,2,12,111,0.036036036036036036,0.06306306306306306,0.02702702702702703,0.02702702702702703,0.10810810810810811,0.04504504504504504,0.018018018018018018,0.10810810810810811
+id_207,Depresion,3,3,0,3,2,3,1,2,75,0.04,0.04,0,0.04,0.02666666666666667,0.04,0.013333333333333334,0.02666666666666667
+id_208,Ttno Bipolar,6,14,3,9,11,10,3,17,100,0.06,0.14,0.03,0.09,0.11,0.1,0.03,0.17
+id_209,Ttno de Personalidad,0,7,0,2,7,2,5,14,129,0,0.05426356589147287,0,0.015503875968992248,0.05426356589147287,0.015503875968992248,0.03875968992248062,0.10852713178294573
+id_21,estrés,0,1,0,0,0,1,2,1,46,0,0.021739130434782608,0,0,0,0.021739130434782608,0.043478260869565216,0.021739130434782608
+id_210,Ttno Bipolar,4,3,5,4,0,6,2,2,78,0.05128205128205128,0.038461538461538464,0.0641025641025641,0.05128205128205128,0,0.07692307692307693,0.02564102564102564,0.02564102564102564
+id_211,estrés,0,1,0,0,1,0,0,2,16,0,0.0625,0,0,0.0625,0,0,0.125
+id_212,Ansiedad,0,3,0,1,3,0,1,5,35,0,0.08571428571428572,0,0.02857142857142857,0.08571428571428572,0,0.02857142857142857,0.14285714285714285
+id_213,Ttno de Personalidad,4,8,5,6,2,7,2,4,131,0.030534351145038167,0.061068702290076333,0.03816793893129771,0.04580152671755725,0.015267175572519083,0.05343511450381679,0.015267175572519083,0.030534351145038167
+id_214,Ttno Bipolar,0,6,0,1,2,1,1,5,98,0,0.061224489795918366,0,0.01020408163265306,0.02040816326530612,0.01020408163265306,0.01020408163265306,0.05102040816326531
+id_215,estrés,1,0,4,4,1,6,1,6,65,0.015384615384615385,0,0.06153846153846154,0.06153846153846154,0.015384615384615385,0.09230769230769231,0.015384615384615385,0.09230769230769231
+id_216,Ansiedad,4,5,2,6,2,6,2,3,74,0.05405405405405406,0.06756756756756757,0.02702702702702703,0.08108108108108109,0.02702702702702703,0.08108108108108109,0.02702702702702703,0.04054054054054054
+id_217,estrés,3,1,0,0,0,0,0,1,33,0.09090909090909091,0.030303030303030304,0,0,0,0,0,0.030303030303030304
+id_218,Ttno Bipolar,0,0,0,1,0,0,0,0,20,0,0,0,0.05,0,0,0,0
+id_219,Ttno Bipolar,2,5,0,4,5,3,5,6,86,0.023255813953488372,0.05813953488372093,0,0.046511627906976744,0.05813953488372093,0.03488372093023256,0.05813953488372093,0.06976744186046512
+id_22,Depresion,4,3,5,10,0,9,2,2,79,0.05063291139240506,0.0379746835443038,0.06329113924050633,0.12658227848101267,0,0.11392405063291139,0.02531645569620253,0.02531645569620253
+id_220,Ttno Bipolar,0,6,0,5,2,2,3,5,93,0,0.06451612903225806,0,0.053763440860215055,0.021505376344086023,0.021505376344086023,0.03225806451612903,0.053763440860215055
+id_221,Ansiedad,0,0,0,0,0,1,1,0,7,0,0,0,0,0,0.14285714285714285,0.14285714285714285,0
+id_222,Ttno Bipolar,0,1,0,2,0,4,0,0,40,0,0.025,0,0.05,0,0.1,0,0
+id_223,Ansiedad,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+id_224,Ttno de Personalidad,0,1,0,1,0,0,0,1,16,0,0.0625,0,0.0625,0,0,0,0.0625
+id_225,Ttno Bipolar,2,1,2,4,1,3,1,0,35,0.05714285714285714,0.02857142857142857,0.05714285714285714,0.11428571428571428,0.02857142857142857,0.08571428571428572,0.02857142857142857,0
+id_226,Ttno Bipolar,2,1,0,5,0,2,0,1,71,0.028169014084507043,0.014084507042253521,0,0.07042253521126761,0,0.028169014084507043,0,0.014084507042253521
+id_227,estrés,0,0,0,0,0,0,0,1,10,0,0,0,0,0,0,0,0.1
+id_228,Ansiedad,0,0,0,0,0,1,1,0,7,0,0,0,0,0,0.14285714285714285,0.14285714285714285,0
+id_229,Ttno Bipolar,1,1,1,1,1,4,1,1,40,0.025,0.025,0.025,0.025,0.025,0.1,0.025,0.025
+id_23,estrés,3,1,0,2,0,1,0,1,32,0.09375,0.03125,0,0.0625,0,0.03125,0,0.03125
+id_230,estrés,3,7,2,6,2,10,3,3,106,0.02830188679245283,0.0660377358490566,0.018867924528301886,0.05660377358490566,0.018867924528301886,0.09433962264150944,0.02830188679245283,0.02830188679245283
+id_231,Ttno Bipolar,3,2,2,3,0,4,0,0,53,0.05660377358490566,0.03773584905660377,0.03773584905660377,0.05660377358490566,0,0.07547169811320754,0,0
+id_232,Ansiedad,3,2,2,3,2,6,1,2,29,0.10344827586206896,0.06896551724137931,0.06896551724137931,0.10344827586206896,0.06896551724137931,0.20689655172413793,0.034482758620689655,0.06896551724137931
+id_233,Ansiedad,0,5,0,0,4,0,2,7,27,0,0.18518518518518517,0,0,0.14814814814814814,0,0.07407407407407407,0.25925925925925924
+id_234,Depresion,2,4,1,4,1,2,1,4,85,0.023529411764705882,0.047058823529411764,0.011764705882352941,0.047058823529411764,0.011764705882352941,0.023529411764705882,0.011764705882352941,0.047058823529411764
+id_235,Ttno Bipolar,10,31,4,23,27,19,8,26,215,0.046511627906976744,0.14418604651162792,0.018604651162790697,0.10697674418604651,0.12558139534883722,0.08837209302325581,0.037209302325581395,0.12093023255813953
+id_236,Depresion,1,1,0,1,1,0,0,4,44,0.022727272727272728,0.022727272727272728,0,0.022727272727272728,0.022727272727272728,0,0,0.09090909090909091
+id_237,Ttno de Personalidad,10,11,6,15,15,8,1,23,178,0.056179775280898875,0.06179775280898876,0.033707865168539325,0.08426966292134831,0.08426966292134831,0.0449438202247191,0.0056179775280898875,0.12921348314606743
+id_238,Depresion,7,5,6,7,2,6,3,6,111,0.06306306306306306,0.04504504504504504,0.05405405405405406,0.06306306306306306,0.018018018018018018,0.05405405405405406,0.02702702702702703,0.05405405405405406
+id_239,Ansiedad,0,1,0,1,0,0,2,0,25,0,0.04,0,0.04,0,0,0.08,0
+id_24,Ansiedad,3,1,0,6,0,6,2,3,95,0.031578947368421054,0.010526315789473684,0,0.06315789473684211,0,0.06315789473684211,0.021052631578947368,0.031578947368421054
+id_240,Ttno de Personalidad,0,1,0,0,6,0,1,8,47,0,0.02127659574468085,0,0,0.1276595744680851,0,0.02127659574468085,0.1702127659574468
+id_241,Ansiedad,1,1,1,1,1,2,1,0,27,0.037037037037037035,0.037037037037037035,0.037037037037037035,0.037037037037037035,0.037037037037037035,0.07407407407407407,0.037037037037037035,0
+id_242,estrés,2,24,2,6,18,16,14,20,199,0.010050251256281407,0.12060301507537688,0.010050251256281407,0.03015075376884422,0.09045226130653267,0.08040201005025126,0.07035175879396985,0.10050251256281408
+id_243,Ttno Bipolar,2,11,3,7,7,8,4,9,109,0.01834862385321101,0.10091743119266056,0.027522935779816515,0.06422018348623854,0.06422018348623854,0.07339449541284404,0.03669724770642202,0.08256880733944955
+id_244,Ansiedad,5,6,4,9,2,19,1,5,103,0.04854368932038835,0.05825242718446602,0.038834951456310676,0.08737864077669903,0.019417475728155338,0.18446601941747573,0.009708737864077669,0.04854368932038835
+id_245,Ttno Bipolar,3,1,1,2,1,1,0,0,42,0.07142857142857142,0.023809523809523808,0.023809523809523808,0.047619047619047616,0.023809523809523808,0.023809523809523808,0,0
+id_246,Ttno de Personalidad,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+id_247,Depresion,5,16,0,6,10,10,4,16,104,0.04807692307692308,0.15384615384615385,0,0.057692307692307696,0.09615384615384616,0.09615384615384616,0.038461538461538464,0.15384615384615385
+id_248,Ttno Bipolar,0,1,0,2,2,0,1,3,31,0,0.03225806451612903,0,0.06451612903225806,0.06451612903225806,0,0.03225806451612903,0.0967741935483871
+id_249,Depresion,5,7,5,4,5,9,4,7,40,0.125,0.175,0.125,0.1,0.125,0.225,0.1,0.175
+id_25,Ttno Bipolar,8,8,3,5,9,14,5,7,88,0.09090909090909091,0.09090909090909091,0.03409090909090909,0.056818181818181816,0.10227272727272728,0.1590909090909091,0.056818181818181816,0.07954545454545454
+id_250,Ttno de Personalidad,7,20,13,18,14,21,13,20,336,0.020833333333333332,0.05952380952380952,0.03869047619047619,0.05357142857142857,0.041666666666666664,0.0625,0.03869047619047619,0.05952380952380952
+id_251,Ansiedad,3,4,1,9,0,4,2,4,36,0.08333333333333333,0.1111111111111111,0.027777777777777776,0.25,0,0.1111111111111111,0.05555555555555555,0.1111111111111111
+id_252,Depresion,2,1,1,3,0,1,1,0,18,0.1111111111111111,0.05555555555555555,0.05555555555555555,0.16666666666666666,0,0.05555555555555555,0.05555555555555555,0
+id_253,Ttno de Personalidad,4,8,3,2,8,5,2,11,133,0.03007518796992481,0.06015037593984962,0.022556390977443608,0.015037593984962405,0.06015037593984962,0.03759398496240601,0.015037593984962405,0.08270676691729323
+id_254,Depresion,1,3,3,1,0,2,1,2,24,0.041666666666666664,0.125,0.125,0.041666666666666664,0,0.08333333333333333,0.041666666666666664,0.08333333333333333
+id_255,Ansiedad,4,6,1,5,5,7,1,6,127,0.031496062992125984,0.047244094488188976,0.007874015748031496,0.03937007874015748,0.03937007874015748,0.05511811023622047,0.007874015748031496,0.047244094488188976
+id_256,Ttno de Personalidad,5,1,2,7,1,4,3,5,100,0.05,0.01,0.02,0.07,0.01,0.04,0.03,0.05
+id_257,Ansiedad,0,1,0,0,0,0,0,2,21,0,0.047619047619047616,0,0,0,0,0,0.09523809523809523
+id_258,estrés,1,0,1,1,0,3,0,1,26,0.038461538461538464,0,0.038461538461538464,0.038461538461538464,0,0.11538461538461539,0,0.038461538461538464
+id_259,estrés,5,6,2,6,1,6,0,3,59,0.0847457627118644,0.1016949152542373,0.03389830508474576,0.1016949152542373,0.01694915254237288,0.1016949152542373,0,0.05084745762711865
+id_26,Ttno Bipolar,1,4,1,2,5,2,4,5,100,0.01,0.04,0.01,0.02,0.05,0.02,0.04,0.05
+id_260,estrés,1,0,0,1,0,1,0,2,15,0.06666666666666667,0,0,0.06666666666666667,0,0.06666666666666667,0,0.13333333333333333
+id_261,Ttno de Personalidad,3,11,3,2,8,3,9,12,60,0.05,0.18333333333333332,0.05,0.03333333333333333,0.13333333333333333,0.05,0.15,0.2
+id_262,estrés,3,28,2,8,7,9,5,19,244,0.012295081967213115,0.11475409836065574,0.00819672131147541,0.03278688524590164,0.028688524590163935,0.036885245901639344,0.020491803278688523,0.0778688524590164
+id_263,Ansiedad,2,2,0,3,1,3,0,3,52,0.038461538461538464,0.038461538461538464,0,0.057692307692307696,0.019230769230769232,0.057692307692307696,0,0.057692307692307696
+id_264,estrés,0,2,0,0,0,0,0,2,29,0,0.06896551724137931,0,0,0,0,0,0.06896551724137931
+id_265,estrés,1,7,0,4,4,1,4,7,71,0.014084507042253521,0.09859154929577464,0,0.056338028169014086,0.056338028169014086,0.014084507042253521,0.056338028169014086,0.09859154929577464
+id_266,Ansiedad,1,3,2,1,2,3,1,2,41,0.024390243902439025,0.07317073170731707,0.04878048780487805,0.024390243902439025,0.04878048780487805,0.07317073170731707,0.024390243902439025,0.04878048780487805
+id_267,Ttno Bipolar,6,22,3,10,18,12,6,32,273,0.02197802197802198,0.08058608058608059,0.01098901098901099,0.03663003663003663,0.06593406593406594,0.04395604395604396,0.02197802197802198,0.11721611721611722
+id_268,Depresion,1,3,2,0,3,3,2,2,26,0.038461538461538464,0.11538461538461539,0.07692307692307693,0,0.11538461538461539,0.11538461538461539,0.07692307692307693,0.07692307692307693
+id_269,Ttno de Personalidad,2,0,2,3,3,2,0,3,35,0.05714285714285714,0,0.05714285714285714,0.08571428571428572,0.08571428571428572,0.05714285714285714,0,0.08571428571428572
+id_27,estrés,1,0,1,3,0,2,1,0,30,0.03333333333333333,0,0.03333333333333333,0.1,0,0.06666666666666667,0.03333333333333333,0
+id_270,Ansiedad,1,2,0,3,0,1,1,0,10,0.1,0.2,0,0.3,0,0.1,0.1,0
+id_271,Ansiedad,0,1,0,1,0,0,0,0,10,0,0.1,0,0.1,0,0,0,0
+id_272,Depresion,1,5,1,2,3,4,0,6,69,0.014492753623188406,0.07246376811594203,0.014492753623188406,0.028985507246376812,0.043478260869565216,0.057971014492753624,0,0.08695652173913043
+id_273,Ansiedad,3,2,1,9,2,4,2,3,57,0.05263157894736842,0.03508771929824561,0.017543859649122806,0.15789473684210525,0.03508771929824561,0.07017543859649122,0.03508771929824561,0.05263157894736842
+id_274,Ttno de Personalidad,1,1,2,0,2,0,0,3,31,0.03225806451612903,0.03225806451612903,0.06451612903225806,0,0.06451612903225806,0,0,0.0967741935483871
+id_275,Ansiedad,1,2,0,1,1,2,0,1,55,0.01818181818181818,0.03636363636363636,0,0.01818181818181818,0.01818181818181818,0.03636363636363636,0,0.01818181818181818
+id_276,estrés,1,1,0,2,0,2,0,3,15,0.06666666666666667,0.06666666666666667,0,0.13333333333333333,0,0.13333333333333333,0,0.2
+id_277,Ansiedad,10,12,1,5,5,7,2,7,153,0.06535947712418301,0.0784313725490196,0.006535947712418301,0.032679738562091505,0.032679738562091505,0.0457516339869281,0.013071895424836602,0.0457516339869281
+id_278,estrés,1,1,0,1,0,1,0,4,20,0.05,0.05,0,0.05,0,0.05,0,0.2
+id_279,Ttno de Personalidad,4,7,1,8,3,7,4,5,79,0.05063291139240506,0.08860759493670886,0.012658227848101266,0.10126582278481013,0.0379746835443038,0.08860759493670886,0.05063291139240506,0.06329113924050633
+id_28,Ansiedad,1,1,0,1,1,0,1,1,19,0.05263157894736842,0.05263157894736842,0,0.05263157894736842,0.05263157894736842,0,0.05263157894736842,0.05263157894736842
+id_280,Ansiedad,6,5,2,8,1,5,3,1,97,0.061855670103092786,0.05154639175257732,0.020618556701030927,0.08247422680412371,0.010309278350515464,0.05154639175257732,0.030927835051546393,0.010309278350515464
+id_281,Ansiedad,5,4,2,6,1,6,1,2,52,0.09615384615384616,0.07692307692307693,0.038461538461538464,0.11538461538461539,0.019230769230769232,0.11538461538461539,0.019230769230769232,0.038461538461538464
+id_282,Ttno Bipolar,4,4,1,10,3,7,3,9,91,0.04395604395604396,0.04395604395604396,0.01098901098901099,0.10989010989010989,0.03296703296703297,0.07692307692307693,0.03296703296703297,0.0989010989010989
+id_283,Ttno de Personalidad,2,3,1,3,1,5,2,1,61,0.03278688524590164,0.04918032786885246,0.01639344262295082,0.04918032786885246,0.01639344262295082,0.08196721311475409,0.03278688524590164,0.01639344262295082
+id_284,Ansiedad,1,1,0,2,0,1,0,0,18,0.05555555555555555,0.05555555555555555,0,0.1111111111111111,0,0.05555555555555555,0,0
+id_285,Ttno de Personalidad,6,6,9,10,5,9,3,6,101,0.0594059405940594,0.0594059405940594,0.0891089108910891,0.09900990099009901,0.04950495049504951,0.0891089108910891,0.0297029702970297,0.0594059405940594
+id_286,Depresion,1,3,0,2,1,6,1,5,81,0.012345679012345678,0.037037037037037035,0,0.024691358024691357,0.012345679012345678,0.07407407407407407,0.012345679012345678,0.06172839506172839
+id_287,Ttno Bipolar,0,0,0,0,1,0,0,0,9,0,0,0,0,0.1111111111111111,0,0,0
+id_288,Ansiedad,1,1,0,1,0,1,0,0,13,0.07692307692307693,0.07692307692307693,0,0.07692307692307693,0,0.07692307692307693,0,0
+id_289,Ttno Bipolar,0,1,0,1,0,0,0,0,31,0,0.03225806451612903,0,0.03225806451612903,0,0,0,0
+id_29,estrés,2,4,0,6,0,0,2,2,29,0.06896551724137931,0.13793103448275862,0,0.20689655172413793,0,0,0.06896551724137931,0.06896551724137931
+id_290,Ttno Bipolar,0,1,0,0,0,0,0,0,26,0,0.038461538461538464,0,0,0,0,0,0
+id_291,Ttno de Personalidad,9,19,2,16,9,13,7,16,188,0.047872340425531915,0.10106382978723404,0.010638297872340425,0.0851063829787234,0.047872340425531915,0.06914893617021277,0.03723404255319149,0.0851063829787234
+id_292,Ttno Bipolar,8,10,9,21,5,21,8,9,209,0.03827751196172249,0.04784688995215311,0.0430622009569378,0.10047846889952153,0.023923444976076555,0.10047846889952153,0.03827751196172249,0.0430622009569378
+id_293,Ansiedad,5,3,2,3,1,5,2,2,117,0.042735042735042736,0.02564102564102564,0.017094017094017096,0.02564102564102564,0.008547008547008548,0.042735042735042736,0.017094017094017096,0.017094017094017096
+id_294,Ttno Bipolar,1,6,4,5,2,2,2,3,91,0.01098901098901099,0.06593406593406594,0.04395604395604396,0.054945054945054944,0.02197802197802198,0.02197802197802198,0.02197802197802198,0.03296703296703297
+id_295,estrés,5,15,2,6,20,7,5,28,235,0.02127659574468085,0.06382978723404255,0.00851063829787234,0.02553191489361702,0.0851063829787234,0.029787234042553193,0.02127659574468085,0.11914893617021277
+id_296,estrés,1,2,0,1,0,1,0,2,17,0.058823529411764705,0.11764705882352941,0,0.058823529411764705,0,0.058823529411764705,0,0.11764705882352941
+id_297,Ttno Bipolar,3,4,3,6,2,8,2,4,109,0.027522935779816515,0.03669724770642202,0.027522935779816515,0.05504587155963303,0.01834862385321101,0.07339449541284404,0.01834862385321101,0.03669724770642202
+id_298,Ansiedad,0,2,0,0,1,1,0,2,46,0,0.043478260869565216,0,0,0.021739130434782608,0.021739130434782608,0,0.043478260869565216
+id_299,Depresion,3,1,1,5,1,7,1,1,70,0.04285714285714286,0.014285714285714285,0.014285714285714285,0.07142857142857142,0.014285714285714285,0.1,0.014285714285714285,0.014285714285714285
+id_3,estrés,5,11,2,7,6,10,2,10,237,0.02109704641350211,0.046413502109704644,0.008438818565400843,0.029535864978902954,0.02531645569620253,0.04219409282700422,0.008438818565400843,0.04219409282700422
+id_30,Ttno de Personalidad,7,5,6,16,0,19,3,5,162,0.043209876543209874,0.030864197530864196,0.037037037037037035,0.09876543209876543,0,0.11728395061728394,0.018518518518518517,0.030864197530864196
+id_300,estrés,3,2,3,3,1,3,3,2,28,0.10714285714285714,0.07142857142857142,0.10714285714285714,0.10714285714285714,0.03571428571428571,0.10714285714285714,0.10714285714285714,0.07142857142857142
+id_301,estrés,1,2,0,1,0,1,0,2,17,0.058823529411764705,0.11764705882352941,0,0.058823529411764705,0,0.058823529411764705,0,0.11764705882352941
+id_302,Depresion,2,4,1,4,1,2,1,4,85,0.023529411764705882,0.047058823529411764,0.011764705882352941,0.047058823529411764,0.011764705882352941,0.023529411764705882,0.011764705882352941,0.047058823529411764
+id_303,Ansiedad,4,6,1,4,2,4,1,5,69,0.057971014492753624,0.08695652173913043,0.014492753623188406,0.057971014492753624,0.028985507246376812,0.057971014492753624,0.014492753623188406,0.07246376811594203
+id_304,Depresion,7,9,7,11,5,10,3,7,139,0.050359712230215826,0.06474820143884892,0.050359712230215826,0.07913669064748201,0.03597122302158273,0.07194244604316546,0.02158273381294964,0.050359712230215826
+id_305,Ttno de Personalidad,0,0,0,1,0,0,0,0,16,0,0,0,0.0625,0,0,0,0
+id_306,estrés,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+id_307,Ttno Bipolar,0,1,0,0,0,0,0,2,27,0,0.037037037037037035,0,0,0,0,0,0.07407407407407407
+id_308,Ttno de Personalidad,0,1,1,1,0,1,0,6,116,0,0.008620689655172414,0.008620689655172414,0.008620689655172414,0,0.008620689655172414,0,0.05172413793103448
+id_309,Depresion,4,7,5,11,5,15,6,7,114,0.03508771929824561,0.06140350877192982,0.043859649122807015,0.09649122807017543,0.043859649122807015,0.13157894736842105,0.05263157894736842,0.06140350877192982
+id_31,Depresion,2,10,1,6,5,4,2,8,99,0.020202020202020204,0.10101010101010101,0.010101010101010102,0.06060606060606061,0.050505050505050504,0.04040404040404041,0.020202020202020204,0.08080808080808081
+id_310,Ttno de Personalidad,4,4,1,10,2,6,4,2,69,0.057971014492753624,0.057971014492753624,0.014492753623188406,0.14492753623188406,0.028985507246376812,0.08695652173913043,0.057971014492753624,0.028985507246376812
+id_311,Depresion,4,12,2,2,10,7,6,8,127,0.031496062992125984,0.09448818897637795,0.015748031496062992,0.015748031496062992,0.07874015748031496,0.05511811023622047,0.047244094488188976,0.06299212598425197
+id_312,Depresion,1,0,1,1,0,2,0,0,7,0.14285714285714285,0,0.14285714285714285,0.14285714285714285,0,0.2857142857142857,0,0
+id_313,Ttno Bipolar,0,5,0,1,4,3,2,6,69,0,0.07246376811594203,0,0.014492753623188406,0.057971014492753624,0.043478260869565216,0.028985507246376812,0.08695652173913043
+id_314,Depresion,38,15,18,35,11,30,14,25,272,0.13970588235294118,0.05514705882352941,0.0661764705882353,0.12867647058823528,0.04044117647058824,0.11029411764705882,0.051470588235294115,0.09191176470588236
+id_315,Ttno de Personalidad,1,4,0,1,4,1,3,4,47,0.02127659574468085,0.0851063829787234,0,0.02127659574468085,0.0851063829787234,0.02127659574468085,0.06382978723404255,0.0851063829787234
+id_316,Ansiedad,0,0,0,1,0,0,1,1,23,0,0,0,0.043478260869565216,0,0,0.043478260869565216,0.043478260869565216
+id_317,Depresion,9,0,2,9,0,8,3,2,33,0.2727272727272727,0,0.06060606060606061,0.2727272727272727,0,0.24242424242424243,0.09090909090909091,0.06060606060606061
+id_318,Ttno Bipolar,0,1,0,0,1,0,1,1,29,0,0.034482758620689655,0,0,0.034482758620689655,0,0.034482758620689655,0.034482758620689655
+id_319,Depresion,0,1,0,0,0,1,0,0,27,0,0.037037037037037035,0,0,0,0.037037037037037035,0,0
+id_32,Depresion,1,5,3,1,3,5,1,7,67,0.014925373134328358,0.07462686567164178,0.04477611940298507,0.014925373134328358,0.04477611940298507,0.07462686567164178,0.014925373134328358,0.1044776119402985
+id_320,estrés,7,5,3,7,2,6,3,2,55,0.12727272727272726,0.09090909090909091,0.05454545454545454,0.12727272727272726,0.03636363636363636,0.10909090909090909,0.05454545454545454,0.03636363636363636
+id_321,Ttno de Personalidad,1,2,0,2,1,1,0,3,30,0.03333333333333333,0.06666666666666667,0,0.06666666666666667,0.03333333333333333,0.03333333333333333,0,0.1
+id_322,Ansiedad,2,3,0,2,3,3,1,4,42,0.047619047619047616,0.07142857142857142,0,0.047619047619047616,0.07142857142857142,0.07142857142857142,0.023809523809523808,0.09523809523809523
+id_323,estrés,3,2,6,8,1,6,2,3,51,0.058823529411764705,0.0392156862745098,0.11764705882352941,0.1568627450980392,0.0196078431372549,0.11764705882352941,0.0392156862745098,0.058823529411764705
+id_324,estrés,0,6,0,1,3,0,1,6,80,0,0.075,0,0.0125,0.0375,0,0.0125,0.075
+id_325,estrés,4,8,0,9,1,4,0,2,81,0.04938271604938271,0.09876543209876543,0,0.1111111111111111,0.012345679012345678,0.04938271604938271,0,0.024691358024691357
+id_326,Ttno de Personalidad,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+id_327,Ansiedad,2,2,0,2,0,2,0,0,17,0.11764705882352941,0.11764705882352941,0,0.11764705882352941,0,0.11764705882352941,0,0
+id_328,Ttno de Personalidad,2,6,3,1,7,2,1,12,70,0.02857142857142857,0.08571428571428572,0.04285714285714286,0.014285714285714285,0.1,0.02857142857142857,0.014285714285714285,0.17142857142857143
+id_329,Depresion,0,1,0,0,0,0,0,0,47,0,0.02127659574468085,0,0,0,0,0,0
+id_33,Ttno de Personalidad,10,5,14,7,7,9,2,13,228,0.043859649122807015,0.021929824561403508,0.06140350877192982,0.03070175438596491,0.03070175438596491,0.039473684210526314,0.008771929824561403,0.05701754385964912
+id_330,Depresion,0,5,2,4,3,3,2,3,20,0,0.25,0.1,0.2,0.15,0.15,0.1,0.15
+id_331,Ttno Bipolar,5,11,6,3,6,5,3,13,132,0.03787878787878788,0.08333333333333333,0.045454545454545456,0.022727272727272728,0.045454545454545456,0.03787878787878788,0.022727272727272728,0.09848484848484848
+id_332,Depresion,0,6,0,1,4,1,1,7,63,0,0.09523809523809523,0,0.015873015873015872,0.06349206349206349,0.015873015873015872,0.015873015873015872,0.1111111111111111
+id_334,Ansiedad,3,4,1,6,3,9,1,3,65,0.046153846153846156,0.06153846153846154,0.015384615384615385,0.09230769230769231,0.046153846153846156,0.13846153846153847,0.015384615384615385,0.046153846153846156
+id_335,Ttno de Personalidad,21,38,5,26,19,22,8,21,336,0.0625,0.1130952380952381,0.01488095238095238,0.07738095238095238,0.05654761904761905,0.06547619047619048,0.023809523809523808,0.0625
+id_336,Ansiedad,2,4,2,8,1,1,2,1,37,0.05405405405405406,0.10810810810810811,0.05405405405405406,0.21621621621621623,0.02702702702702703,0.02702702702702703,0.05405405405405406,0.02702702702702703
+id_337,Ansiedad,1,1,0,1,0,1,0,0,20,0.05,0.05,0,0.05,0,0.05,0,0
+id_338,Ttno de Personalidad,1,2,1,1,2,1,1,6,60,0.016666666666666666,0.03333333333333333,0.016666666666666666,0.016666666666666666,0.03333333333333333,0.016666666666666666,0.016666666666666666,0.1
+id_339,Ansiedad,2,3,3,6,1,2,2,2,60,0.03333333333333333,0.05,0.05,0.1,0.016666666666666666,0.03333333333333333,0.03333333333333333,0.03333333333333333
+id_34,estrés,2,9,2,2,9,4,3,16,173,0.011560693641618497,0.05202312138728324,0.011560693641618497,0.011560693641618497,0.05202312138728324,0.023121387283236993,0.017341040462427744,0.09248554913294797
+id_340,Ttno Bipolar,2,3,2,6,1,5,1,1,41,0.04878048780487805,0.07317073170731707,0.04878048780487805,0.14634146341463414,0.024390243902439025,0.12195121951219512,0.024390243902439025,0.024390243902439025
+id_341,Ttno de Personalidad,6,6,0,5,6,3,6,6,73,0.0821917808219178,0.0821917808219178,0,0.0684931506849315,0.0821917808219178,0.0410958904109589,0.0821917808219178,0.0821917808219178
+id_342,Ttno Bipolar,2,3,0,2,2,2,2,2,46,0.043478260869565216,0.06521739130434782,0,0.043478260869565216,0.043478260869565216,0.043478260869565216,0.043478260869565216,0.043478260869565216
+id_343,Ttno de Personalidad,0,3,0,0,4,1,1,5,69,0,0.043478260869565216,0,0,0.057971014492753624,0.014492753623188406,0.014492753623188406,0.07246376811594203
+id_344,estrés,5,2,9,8,1,16,0,3,76,0.06578947368421052,0.02631578947368421,0.11842105263157894,0.10526315789473684,0.013157894736842105,0.21052631578947367,0,0.039473684210526314
+id_345,Depresion,13,4,10,10,1,12,1,3,158,0.08227848101265822,0.02531645569620253,0.06329113924050633,0.06329113924050633,0.006329113924050633,0.0759493670886076,0.006329113924050633,0.0189873417721519
+id_346,Depresion,4,3,0,7,5,3,0,24,225,0.017777777777777778,0.013333333333333334,0,0.03111111111111111,0.022222222222222223,0.013333333333333334,0,0.10666666666666667
+id_347,Ttno Bipolar,4,4,0,11,0,3,2,1,72,0.05555555555555555,0.05555555555555555,0,0.1527777777777778,0,0.041666666666666664,0.027777777777777776,0.013888888888888888
+id_348,estrés,3,3,6,6,2,3,2,2,43,0.06976744186046512,0.06976744186046512,0.13953488372093023,0.13953488372093023,0.046511627906976744,0.06976744186046512,0.046511627906976744,0.046511627906976744
+id_349,Ansiedad,0,6,1,2,3,3,1,4,57,0,0.10526315789473684,0.017543859649122806,0.03508771929824561,0.05263157894736842,0.05263157894736842,0.017543859649122806,0.07017543859649122
+id_35,Ttno de Personalidad,2,2,0,4,1,0,1,1,18,0.1111111111111111,0.1111111111111111,0,0.2222222222222222,0.05555555555555555,0,0.05555555555555555,0.05555555555555555
+id_350,Depresion,1,4,1,1,3,4,3,5,57,0.017543859649122806,0.07017543859649122,0.017543859649122806,0.017543859649122806,0.05263157894736842,0.07017543859649122,0.05263157894736842,0.08771929824561403
+id_351,Ttno de Personalidad,19,24,21,26,11,29,5,15,201,0.0945273631840796,0.11940298507462686,0.1044776119402985,0.12935323383084577,0.05472636815920398,0.14427860696517414,0.024875621890547265,0.07462686567164178
+id_352,Ttno Bipolar,1,2,0,4,1,1,1,2,41,0.024390243902439025,0.04878048780487805,0,0.0975609756097561,0.024390243902439025,0.024390243902439025,0.024390243902439025,0.04878048780487805
+id_353,Ansiedad,0,11,1,1,15,2,7,11,140,0,0.07857142857142857,0.007142857142857143,0.007142857142857143,0.10714285714285714,0.014285714285714285,0.05,0.07857142857142857
+id_354,estrés,0,0,0,0,2,1,0,3,50,0,0,0,0,0.04,0.02,0,0.06
+id_355,Ansiedad,1,4,7,11,3,32,6,8,199,0.005025125628140704,0.020100502512562814,0.035175879396984924,0.05527638190954774,0.01507537688442211,0.16080402010050251,0.03015075376884422,0.04020100502512563
+id_356,estrés,3,13,0,6,6,2,8,7,74,0.04054054054054054,0.17567567567567569,0,0.08108108108108109,0.08108108108108109,0.02702702702702703,0.10810810810810811,0.0945945945945946
+id_357,estrés,14,9,5,13,6,12,5,10,106,0.1320754716981132,0.08490566037735849,0.04716981132075472,0.12264150943396226,0.05660377358490566,0.11320754716981132,0.04716981132075472,0.09433962264150944
+id_358,Ansiedad,6,10,2,13,0,13,1,5,132,0.045454545454545456,0.07575757575757576,0.015151515151515152,0.09848484848484848,0,0.09848484848484848,0.007575757575757576,0.03787878787878788
+id_359,Depresion,9,19,8,11,14,16,1,15,190,0.04736842105263158,0.1,0.042105263157894736,0.05789473684210526,0.07368421052631578,0.08421052631578947,0.005263157894736842,0.07894736842105263
+id_36,Ansiedad,6,0,1,4,0,3,0,2,33,0.18181818181818182,0,0.030303030303030304,0.12121212121212122,0,0.09090909090909091,0,0.06060606060606061
+id_360,Ttno Bipolar,6,3,4,12,1,16,2,1,64,0.09375,0.046875,0.0625,0.1875,0.015625,0.25,0.03125,0.015625
+id_361,Ansiedad,1,3,1,2,0,1,0,0,30,0.03333333333333333,0.1,0.03333333333333333,0.06666666666666667,0,0.03333333333333333,0,0
+id_362,estrés,3,6,3,4,5,6,3,6,73,0.0410958904109589,0.0821917808219178,0.0410958904109589,0.0547945205479452,0.0684931506849315,0.0821917808219178,0.0410958904109589,0.0821917808219178
+id_363,Ansiedad,7,2,3,8,0,7,2,5,164,0.042682926829268296,0.012195121951219513,0.018292682926829267,0.04878048780487805,0,0.042682926829268296,0.012195121951219513,0.03048780487804878
+id_364,Ttno de Personalidad,0,0,1,0,0,3,1,0,19,0,0,0.05263157894736842,0,0,0.15789473684210525,0.05263157894736842,0
+id_365,Ttno Bipolar,3,1,2,8,0,3,2,1,26,0.11538461538461539,0.038461538461538464,0.07692307692307693,0.3076923076923077,0,0.11538461538461539,0.07692307692307693,0.038461538461538464
+id_366,Ttno de Personalidad,0,7,0,2,15,0,2,20,94,0,0.07446808510638298,0,0.02127659574468085,0.1595744680851064,0,0.02127659574468085,0.2127659574468085
+id_367,Ansiedad,5,3,3,6,0,6,1,2,42,0.11904761904761904,0.07142857142857142,0.07142857142857142,0.14285714285714285,0,0.14285714285714285,0.023809523809523808,0.047619047619047616
+id_368,Ttno Bipolar,0,0,0,0,0,2,0,0,19,0,0,0,0,0,0.10526315789473684,0,0
+id_369,Depresion,5,8,5,8,1,8,4,6,94,0.05319148936170213,0.0851063829787234,0.05319148936170213,0.0851063829787234,0.010638297872340425,0.0851063829787234,0.0425531914893617,0.06382978723404255
+id_37,Ansiedad,5,0,1,3,0,2,0,1,48,0.10416666666666667,0,0.020833333333333332,0.0625,0,0.041666666666666664,0,0.020833333333333332
+id_370,estrés,0,4,0,1,2,2,2,3,32,0,0.125,0,0.03125,0.0625,0.0625,0.0625,0.09375
+id_371,Ttno de Personalidad,1,1,0,2,0,2,0,1,21,0.047619047619047616,0.047619047619047616,0,0.09523809523809523,0,0.09523809523809523,0,0.047619047619047616
+id_372,Ansiedad,4,8,2,9,4,5,7,4,81,0.04938271604938271,0.09876543209876543,0.024691358024691357,0.1111111111111111,0.04938271604938271,0.06172839506172839,0.08641975308641975,0.04938271604938271
+id_373,estrés,2,5,1,2,0,5,0,1,105,0.01904761904761905,0.047619047619047616,0.009523809523809525,0.01904761904761905,0,0.047619047619047616,0,0.009523809523809525
+id_374,Ansiedad,2,3,1,2,1,3,2,2,109,0.01834862385321101,0.027522935779816515,0.009174311926605505,0.01834862385321101,0.009174311926605505,0.027522935779816515,0.01834862385321101,0.01834862385321101
+id_375,Ttno de Personalidad,0,0,0,0,1,0,0,1,31,0,0,0,0,0.03225806451612903,0,0,0.03225806451612903
+id_376,Ansiedad,5,5,1,5,0,4,0,1,45,0.1111111111111111,0.1111111111111111,0.022222222222222223,0.1111111111111111,0,0.08888888888888889,0,0.022222222222222223
+id_377,Ansiedad,3,2,1,3,1,3,1,3,59,0.05084745762711865,0.03389830508474576,0.01694915254237288,0.05084745762711865,0.01694915254237288,0.05084745762711865,0.01694915254237288,0.05084745762711865
+id_378,Ttno de Personalidad,1,3,1,2,1,1,2,1,83,0.012048192771084338,0.03614457831325301,0.012048192771084338,0.024096385542168676,0.012048192771084338,0.012048192771084338,0.024096385542168676,0.012048192771084338
+id_379,Ttno de Personalidad,3,4,1,5,3,4,1,3,93,0.03225806451612903,0.043010752688172046,0.010752688172043012,0.053763440860215055,0.03225806451612903,0.043010752688172046,0.010752688172043012,0.03225806451612903
+id_38,Depresion,0,2,0,1,0,1,1,0,29,0,0.06896551724137931,0,0.034482758620689655,0,0.034482758620689655,0.034482758620689655,0
+id_380,estrés,0,3,0,0,4,1,2,2,19,0,0.15789473684210525,0,0,0.21052631578947367,0.05263157894736842,0.10526315789473684,0.10526315789473684
+id_381,Depresion,11,11,4,14,11,22,5,13,136,0.08088235294117647,0.08088235294117647,0.029411764705882353,0.10294117647058823,0.08088235294117647,0.16176470588235295,0.03676470588235294,0.09558823529411764
+id_382,Ttno de Personalidad,8,2,8,15,0,8,3,0,49,0.16326530612244897,0.04081632653061224,0.16326530612244897,0.30612244897959184,0,0.16326530612244897,0.061224489795918366,0
+id_383,estrés,0,0,0,0,0,1,0,0,15,0,0,0,0,0,0.06666666666666667,0,0
+id_384,Ansiedad,0,2,0,1,0,0,1,0,10,0,0.2,0,0.1,0,0,0.1,0
+id_385,Ttno Bipolar,0,1,0,1,0,0,0,1,48,0,0.020833333333333332,0,0.020833333333333332,0,0,0,0.020833333333333332
+id_386,estrés,0,2,0,1,2,1,0,1,51,0,0.0392156862745098,0,0.0196078431372549,0.0392156862745098,0.0196078431372549,0,0.0196078431372549
+id_387,Ttno Bipolar,6,0,7,10,0,8,0,1,54,0.1111111111111111,0,0.12962962962962962,0.18518518518518517,0,0.14814814814814814,0,0.018518518518518517
+id_388,Depresion,5,7,5,4,4,6,1,5,105,0.047619047619047616,0.06666666666666667,0.047619047619047616,0.0380952380952381,0.0380952380952381,0.05714285714285714,0.009523809523809525,0.047619047619047616
+id_389,Ansiedad,15,7,2,15,2,14,3,5,197,0.07614213197969544,0.03553299492385787,0.01015228426395939,0.07614213197969544,0.01015228426395939,0.07106598984771574,0.015228426395939087,0.025380710659898477
+id_39,Ansiedad,0,0,0,1,0,1,0,3,9,0,0,0,0.1111111111111111,0,0.1111111111111111,0,0.3333333333333333
+id_390,Depresion,1,3,1,2,4,3,1,8,44,0.022727272727272728,0.06818181818181818,0.022727272727272728,0.045454545454545456,0.09090909090909091,0.06818181818181818,0.022727272727272728,0.18181818181818182
+id_391,Ttno Bipolar,5,2,1,5,1,5,3,3,22,0.22727272727272727,0.09090909090909091,0.045454545454545456,0.22727272727272727,0.045454545454545456,0.22727272727272727,0.13636363636363635,0.13636363636363635
+id_392,estrés,2,1,3,2,1,4,2,1,15,0.13333333333333333,0.06666666666666667,0.2,0.13333333333333333,0.06666666666666667,0.26666666666666666,0.13333333333333333,0.06666666666666667
+id_393,Ttno Bipolar,1,2,2,3,1,9,0,2,18,0.05555555555555555,0.1111111111111111,0.1111111111111111,0.16666666666666666,0.05555555555555555,0.5,0,0.1111111111111111
+id_394,Ansiedad,7,7,6,13,1,9,2,4,61,0.11475409836065574,0.11475409836065574,0.09836065573770492,0.21311475409836064,0.01639344262295082,0.14754098360655737,0.03278688524590164,0.06557377049180328
+id_395,Ttno Bipolar,5,6,2,13,2,7,4,3,94,0.05319148936170213,0.06382978723404255,0.02127659574468085,0.13829787234042554,0.02127659574468085,0.07446808510638298,0.0425531914893617,0.031914893617021274
+id_396,Ttno de Personalidad,0,2,0,1,2,0,1,3,80,0,0.025,0,0.0125,0.025,0,0.0125,0.0375
+id_397,Ttno Bipolar,2,4,0,3,2,4,0,3,50,0.04,0.08,0,0.06,0.04,0.08,0,0.06
+id_398,Depresion,9,11,12,8,10,12,5,14,165,0.05454545454545454,0.06666666666666667,0.07272727272727272,0.048484848484848485,0.06060606060606061,0.07272727272727272,0.030303030303030304,0.08484848484848485
+id_399,Ttno Bipolar,3,1,3,5,1,2,1,1,28,0.10714285714285714,0.03571428571428571,0.10714285714285714,0.17857142857142858,0.03571428571428571,0.07142857142857142,0.03571428571428571,0.03571428571428571
+id_4,Depresion,0,1,0,0,0,3,0,3,87,0,0.011494252873563218,0,0,0,0.034482758620689655,0,0.034482758620689655
+id_40,Depresion,1,6,1,1,5,6,5,5,68,0.014705882352941176,0.08823529411764706,0.014705882352941176,0.014705882352941176,0.07352941176470588,0.08823529411764706,0.07352941176470588,0.07352941176470588
+id_400,Ttno de Personalidad,1,4,0,2,5,3,1,6,72,0.013888888888888888,0.05555555555555555,0,0.027777777777777776,0.06944444444444445,0.041666666666666664,0.013888888888888888,0.08333333333333333
+id_401,Depresion,1,1,0,4,0,0,1,0,37,0.02702702702702703,0.02702702702702703,0,0.10810810810810811,0,0,0.02702702702702703,0
+id_402,estrés,8,15,3,8,13,11,4,15,396,0.020202020202020204,0.03787878787878788,0.007575757575757576,0.020202020202020204,0.03282828282828283,0.027777777777777776,0.010101010101010102,0.03787878787878788
+id_403,Depresion,0,0,1,1,0,0,1,0,22,0,0,0.045454545454545456,0.045454545454545456,0,0,0.045454545454545456,0
+id_404,Depresion,3,3,1,6,4,5,3,3,65,0.046153846153846156,0.046153846153846156,0.015384615384615385,0.09230769230769231,0.06153846153846154,0.07692307692307693,0.046153846153846156,0.046153846153846156
+id_405,Ansiedad,1,3,0,1,1,1,1,1,26,0.038461538461538464,0.11538461538461539,0,0.038461538461538464,0.038461538461538464,0.038461538461538464,0.038461538461538464,0.038461538461538464
+id_406,Ttno Bipolar,1,4,1,2,5,2,4,5,100,0.01,0.04,0.01,0.02,0.05,0.02,0.04,0.05
+id_407,Ttno Bipolar,0,1,0,0,0,0,1,2,15,0,0.06666666666666667,0,0,0,0,0.06666666666666667,0.13333333333333333
+id_408,estrés,17,15,21,31,9,34,11,15,295,0.0576271186440678,0.05084745762711865,0.0711864406779661,0.10508474576271186,0.030508474576271188,0.1152542372881356,0.03728813559322034,0.05084745762711865
+id_409,Ttno de Personalidad,2,5,1,6,2,3,4,3,71,0.028169014084507043,0.07042253521126761,0.014084507042253521,0.08450704225352113,0.028169014084507043,0.04225352112676056,0.056338028169014086,0.04225352112676056
+id_41,Ttno de Personalidad,9,11,7,15,8,13,2,14,104,0.08653846153846154,0.10576923076923077,0.0673076923076923,0.14423076923076922,0.07692307692307693,0.125,0.019230769230769232,0.1346153846153846
+id_410,Depresion,3,2,2,5,1,9,1,2,77,0.03896103896103896,0.025974025974025976,0.025974025974025976,0.06493506493506493,0.012987012987012988,0.11688311688311688,0.012987012987012988,0.025974025974025976
+id_411,Ansiedad,5,5,3,5,4,5,3,4,50,0.1,0.1,0.06,0.1,0.08,0.1,0.06,0.08
+id_412,Ttno de Personalidad,1,1,1,1,1,3,0,2,93,0.010752688172043012,0.010752688172043012,0.010752688172043012,0.010752688172043012,0.010752688172043012,0.03225806451612903,0,0.021505376344086023
+id_413,Ansiedad,0,3,0,1,0,1,0,2,47,0,0.06382978723404255,0,0.02127659574468085,0,0.02127659574468085,0,0.0425531914893617
+id_414,estrés,1,1,2,3,3,7,2,2,41,0.024390243902439025,0.024390243902439025,0.04878048780487805,0.07317073170731707,0.07317073170731707,0.17073170731707318,0.04878048780487805,0.04878048780487805
+id_415,Depresion,1,1,0,1,0,1,0,0,9,0.1111111111111111,0.1111111111111111,0,0.1111111111111111,0,0.1111111111111111,0,0
+id_416,Ttno Bipolar,2,2,0,6,0,3,2,0,62,0.03225806451612903,0.03225806451612903,0,0.0967741935483871,0,0.04838709677419355,0.03225806451612903,0
+id_417,Ttno de Personalidad,1,7,1,2,2,4,3,4,118,0.00847457627118644,0.059322033898305086,0.00847457627118644,0.01694915254237288,0.01694915254237288,0.03389830508474576,0.025423728813559324,0.03389830508474576
+id_418,Depresion,0,2,0,1,0,1,0,0,39,0,0.05128205128205128,0,0.02564102564102564,0,0.02564102564102564,0,0
+id_419,Ttno de Personalidad,0,0,0,1,1,0,0,0,22,0,0,0,0.045454545454545456,0.045454545454545456,0,0,0
+id_42,Ansiedad,6,7,3,16,6,20,3,15,156,0.038461538461538464,0.04487179487179487,0.019230769230769232,0.10256410256410256,0.038461538461538464,0.1282051282051282,0.019230769230769232,0.09615384615384616
+id_420,Ansiedad,2,2,4,5,1,9,1,5,64,0.03125,0.03125,0.0625,0.078125,0.015625,0.140625,0.015625,0.078125
+id_421,estrés,1,2,0,1,0,1,0,2,61,0.01639344262295082,0.03278688524590164,0,0.01639344262295082,0,0.01639344262295082,0,0.03278688524590164
+id_422,Ttno Bipolar,2,0,1,2,2,2,0,3,19,0.10526315789473684,0,0.05263157894736842,0.10526315789473684,0.10526315789473684,0.10526315789473684,0,0.15789473684210525
+id_423,Ansiedad,11,8,0,10,2,10,2,5,114,0.09649122807017543,0.07017543859649122,0,0.08771929824561403,0.017543859649122806,0.08771929824561403,0.017543859649122806,0.043859649122807015
+id_424,Ttno Bipolar,1,5,0,2,1,1,2,8,63,0.015873015873015872,0.07936507936507936,0,0.031746031746031744,0.015873015873015872,0.015873015873015872,0.031746031746031744,0.12698412698412698
+id_425,estrés,7,9,12,12,7,11,4,13,70,0.1,0.12857142857142856,0.17142857142857143,0.17142857142857143,0.1,0.15714285714285714,0.05714285714285714,0.18571428571428572
+id_426,Ansiedad,2,1,0,1,0,1,0,0,12,0.16666666666666666,0.08333333333333333,0,0.08333333333333333,0,0.08333333333333333,0,0
+id_427,Ttno Bipolar,13,6,13,17,6,12,6,12,147,0.08843537414965986,0.04081632653061224,0.08843537414965986,0.11564625850340136,0.04081632653061224,0.08163265306122448,0.04081632653061224,0.08163265306122448
+id_428,estrés,1,6,1,1,2,1,2,11,90,0.011111111111111112,0.06666666666666667,0.011111111111111112,0.011111111111111112,0.022222222222222223,0.011111111111111112,0.022222222222222223,0.12222222222222222
+id_429,Ttno Bipolar,2,3,2,6,1,5,1,1,41,0.04878048780487805,0.07317073170731707,0.04878048780487805,0.14634146341463414,0.024390243902439025,0.12195121951219512,0.024390243902439025,0.024390243902439025
+id_43,Ttno de Personalidad,2,2,2,3,2,3,3,2,38,0.05263157894736842,0.05263157894736842,0.05263157894736842,0.07894736842105263,0.05263157894736842,0.07894736842105263,0.07894736842105263,0.05263157894736842
+id_430,Ttno Bipolar,2,6,0,4,5,5,2,8,106,0.018867924528301886,0.05660377358490566,0,0.03773584905660377,0.04716981132075472,0.04716981132075472,0.018867924528301886,0.07547169811320754
+id_431,Ttno de Personalidad,0,2,0,2,1,1,1,4,95,0,0.021052631578947368,0,0.021052631578947368,0.010526315789473684,0.010526315789473684,0.010526315789473684,0.042105263157894736
+id_432,Ttno Bipolar,2,0,3,5,0,6,0,0,26,0.07692307692307693,0,0.11538461538461539,0.19230769230769232,0,0.23076923076923078,0,0
+id_433,estrés,1,7,1,5,5,1,4,4,49,0.02040816326530612,0.14285714285714285,0.02040816326530612,0.10204081632653061,0.10204081632653061,0.02040816326530612,0.08163265306122448,0.08163265306122448
+id_434,Ttno Bipolar,0,0,0,1,2,1,1,3,38,0,0,0,0.02631578947368421,0.05263157894736842,0.02631578947368421,0.02631578947368421,0.07894736842105263
+id_435,estrés,0,2,0,0,2,1,0,4,50,0,0.04,0,0,0.04,0.02,0,0.08
+id_436,Depresion,1,0,0,1,0,0,0,0,4,0.25,0,0,0.25,0,0,0,0
+id_437,Ttno de Personalidad,1,1,1,1,0,1,1,3,47,0.02127659574468085,0.02127659574468085,0.02127659574468085,0.02127659574468085,0,0.02127659574468085,0.02127659574468085,0.06382978723404255
+id_438,estrés,3,1,1,4,0,6,1,3,101,0.0297029702970297,0.009900990099009901,0.009900990099009901,0.039603960396039604,0,0.0594059405940594,0.009900990099009901,0.0297029702970297
+id_439,Depresion,0,1,1,1,2,1,1,3,48,0,0.020833333333333332,0.020833333333333332,0.020833333333333332,0.041666666666666664,0.020833333333333332,0.020833333333333332,0.0625
+id_44,Depresion,19,11,26,15,8,21,6,9,188,0.10106382978723404,0.05851063829787234,0.13829787234042554,0.0797872340425532,0.0425531914893617,0.11170212765957446,0.031914893617021274,0.047872340425531915
+id_440,Depresion,10,21,5,22,8,21,6,15,229,0.043668122270742356,0.09170305676855896,0.021834061135371178,0.09606986899563319,0.034934497816593885,0.09170305676855896,0.026200873362445413,0.06550218340611354
+id_441,Ttno Bipolar,2,2,3,5,0,3,0,6,90,0.022222222222222223,0.022222222222222223,0.03333333333333333,0.05555555555555555,0,0.03333333333333333,0,0.06666666666666667
+id_442,Ttno de Personalidad,3,5,5,8,3,5,2,11,113,0.02654867256637168,0.04424778761061947,0.04424778761061947,0.07079646017699115,0.02654867256637168,0.04424778761061947,0.017699115044247787,0.09734513274336283
+id_443,Ttno de Personalidad,13,12,8,15,8,16,9,14,185,0.07027027027027027,0.06486486486486487,0.043243243243243246,0.08108108108108109,0.043243243243243246,0.08648648648648649,0.04864864864864865,0.07567567567567568
+id_444,Ttno de Personalidad,1,8,1,5,8,4,6,7,128,0.0078125,0.0625,0.0078125,0.0390625,0.0625,0.03125,0.046875,0.0546875
+id_445,estrés,6,2,8,10,0,7,1,2,48,0.125,0.041666666666666664,0.16666666666666666,0.20833333333333334,0,0.14583333333333334,0.020833333333333332,0.041666666666666664
+id_446,Ttno de Personalidad,0,1,0,0,0,1,0,0,21,0,0.047619047619047616,0,0,0,0.047619047619047616,0,0
+id_447,Depresion,1,1,2,0,1,1,0,0,15,0.06666666666666667,0.06666666666666667,0.13333333333333333,0,0.06666666666666667,0.06666666666666667,0,0
+id_448,Ttno de Personalidad,2,0,0,3,3,3,0,3,43,0.046511627906976744,0,0,0.06976744186046512,0.06976744186046512,0.06976744186046512,0,0.06976744186046512
+id_449,Ttno Bipolar,2,4,2,7,1,1,0,5,125,0.016,0.032,0.016,0.056,0.008,0.008,0,0.04
+id_45,Ansiedad,9,6,2,8,5,5,5,5,58,0.15517241379310345,0.10344827586206896,0.034482758620689655,0.13793103448275862,0.08620689655172414,0.08620689655172414,0.08620689655172414,0.08620689655172414
+id_450,estrés,1,2,2,1,3,2,1,12,93,0.010752688172043012,0.021505376344086023,0.021505376344086023,0.010752688172043012,0.03225806451612903,0.021505376344086023,0.010752688172043012,0.12903225806451613
+id_451,Ttno Bipolar,1,1,0,3,0,1,0,4,56,0.017857142857142856,0.017857142857142856,0,0.05357142857142857,0,0.017857142857142856,0,0.07142857142857142
+id_453,estrés,1,1,0,2,3,0,1,9,48,0.020833333333333332,0.020833333333333332,0,0.041666666666666664,0.0625,0,0.020833333333333332,0.1875
+id_454,Ansiedad,11,24,8,11,26,22,12,37,401,0.02743142144638404,0.059850374064837904,0.0199501246882793,0.02743142144638404,0.06483790523690773,0.05486284289276808,0.029925187032418952,0.09226932668329177
+id_455,Depresion,0,1,0,0,1,1,1,1,10,0,0.1,0,0,0.1,0.1,0.1,0.1
+id_456,Ansiedad,4,0,5,11,0,29,0,0,82,0.04878048780487805,0,0.06097560975609756,0.13414634146341464,0,0.35365853658536583,0,0
+id_457,Ansiedad,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0
+id_458,Ttno Bipolar,10,5,6,10,5,10,3,5,118,0.0847457627118644,0.0423728813559322,0.05084745762711865,0.0847457627118644,0.0423728813559322,0.0847457627118644,0.025423728813559324,0.0423728813559322
+id_459,Ansiedad,18,18,7,25,6,20,6,13,277,0.06498194945848375,0.06498194945848375,0.02527075812274368,0.09025270758122744,0.021660649819494584,0.07220216606498195,0.021660649819494584,0.04693140794223827
+id_46,Ttno Bipolar,4,8,0,6,3,6,4,8,134,0.029850746268656716,0.05970149253731343,0,0.04477611940298507,0.022388059701492536,0.04477611940298507,0.029850746268656716,0.05970149253731343
+id_460,Depresion,1,0,2,3,0,4,0,2,33,0.030303030303030304,0,0.06060606060606061,0.09090909090909091,0,0.12121212121212122,0,0.06060606060606061
+id_461,Ttno Bipolar,0,2,1,0,1,0,2,4,62,0,0.03225806451612903,0.016129032258064516,0,0.016129032258064516,0,0.03225806451612903,0.06451612903225806
+id_462,Ttno de Personalidad,13,27,8,16,19,24,12,26,432,0.03009259259259259,0.0625,0.018518518518518517,0.037037037037037035,0.04398148148148148,0.05555555555555555,0.027777777777777776,0.06018518518518518
+id_463,Ansiedad,5,3,4,9,3,14,2,7,129,0.03875968992248062,0.023255813953488372,0.031007751937984496,0.06976744186046512,0.023255813953488372,0.10852713178294573,0.015503875968992248,0.05426356589147287
+id_464,Ansiedad,0,0,0,0,1,1,0,1,23,0,0,0,0,0.043478260869565216,0.043478260869565216,0,0.043478260869565216
+id_465,Ansiedad,2,6,1,7,1,2,2,5,37,0.05405405405405406,0.16216216216216217,0.02702702702702703,0.1891891891891892,0.02702702702702703,0.05405405405405406,0.05405405405405406,0.13513513513513514
+id_466,Depresion,0,3,0,0,1,1,0,1,7,0,0.42857142857142855,0,0,0.14285714285714285,0.14285714285714285,0,0.14285714285714285
+id_467,Ttno de Personalidad,0,3,0,4,0,1,1,1,25,0,0.12,0,0.16,0,0.04,0.04,0.04
+id_468,estrés,6,8,1,18,2,3,6,2,77,0.07792207792207792,0.1038961038961039,0.012987012987012988,0.23376623376623376,0.025974025974025976,0.03896103896103896,0.07792207792207792,0.025974025974025976
+id_469,Ansiedad,2,3,0,2,0,3,0,2,24,0.08333333333333333,0.125,0,0.08333333333333333,0,0.125,0,0.08333333333333333
+id_47,Depresion,0,1,0,2,1,2,3,2,41,0,0.024390243902439025,0,0.04878048780487805,0.024390243902439025,0.04878048780487805,0.07317073170731707,0.04878048780487805
+id_470,Ttno Bipolar,8,12,4,13,2,8,5,4,107,0.07476635514018691,0.11214953271028037,0.037383177570093455,0.12149532710280374,0.018691588785046728,0.07476635514018691,0.04672897196261682,0.037383177570093455
+id_471,Ttno Bipolar,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+id_472,Ttno Bipolar,2,3,0,7,0,0,2,0,52,0.038461538461538464,0.057692307692307696,0,0.1346153846153846,0,0,0.038461538461538464,0
+id_473,Ttno de Personalidad,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+id_474,Ttno Bipolar,8,6,5,17,6,20,4,14,158,0.05063291139240506,0.0379746835443038,0.03164556962025317,0.10759493670886076,0.0379746835443038,0.12658227848101267,0.02531645569620253,0.08860759493670886
+id_475,Ttno Bipolar,5,2,1,4,4,3,2,6,76,0.06578947368421052,0.02631578947368421,0.013157894736842105,0.05263157894736842,0.05263157894736842,0.039473684210526314,0.02631578947368421,0.07894736842105263
+id_476,Ansiedad,3,2,0,3,0,2,0,2,27,0.1111111111111111,0.07407407407407407,0,0.1111111111111111,0,0.07407407407407407,0,0.07407407407407407
+id_477,estrés,0,2,0,0,0,0,0,2,13,0,0.15384615384615385,0,0,0,0,0,0.15384615384615385
+id_478,Depresion,3,5,1,7,4,7,1,6,61,0.04918032786885246,0.08196721311475409,0.01639344262295082,0.11475409836065574,0.06557377049180328,0.11475409836065574,0.01639344262295082,0.09836065573770492
+id_479,Depresion,5,7,1,8,3,3,1,3,62,0.08064516129032258,0.11290322580645161,0.016129032258064516,0.12903225806451613,0.04838709677419355,0.04838709677419355,0.016129032258064516,0.04838709677419355
+id_48,Ansiedad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+id_480,Depresion,7,7,6,11,5,12,1,7,176,0.03977272727272727,0.03977272727272727,0.03409090909090909,0.0625,0.028409090909090908,0.06818181818181818,0.005681818181818182,0.03977272727272727
+id_481,Depresion,4,7,7,2,9,5,3,11,159,0.025157232704402517,0.0440251572327044,0.0440251572327044,0.012578616352201259,0.05660377358490566,0.031446540880503145,0.018867924528301886,0.06918238993710692
+id_482,Depresion,5,11,2,13,4,4,7,9,147,0.034013605442176874,0.07482993197278912,0.013605442176870748,0.08843537414965986,0.027210884353741496,0.027210884353741496,0.047619047619047616,0.061224489795918366
+id_483,Ttno Bipolar,0,4,0,0,1,0,3,4,45,0,0.08888888888888889,0,0,0.022222222222222223,0,0.06666666666666667,0.08888888888888889
+id_484,Ttno de Personalidad,9,17,6,6,15,8,9,18,236,0.038135593220338986,0.07203389830508475,0.025423728813559324,0.025423728813559324,0.0635593220338983,0.03389830508474576,0.038135593220338986,0.07627118644067797
+id_485,Depresion,9,6,7,13,6,9,3,8,142,0.06338028169014084,0.04225352112676056,0.04929577464788732,0.09154929577464789,0.04225352112676056,0.06338028169014084,0.02112676056338028,0.056338028169014086
+id_486,estrés,0,0,0,1,0,3,1,1,26,0,0,0,0.038461538461538464,0,0.11538461538461539,0.038461538461538464,0.038461538461538464
+id_487,Ttno Bipolar,1,4,1,1,3,2,0,3,25,0.04,0.16,0.04,0.04,0.12,0.08,0,0.12
+id_488,Ttno de Personalidad,5,4,4,5,8,6,6,8,71,0.07042253521126761,0.056338028169014086,0.056338028169014086,0.07042253521126761,0.11267605633802817,0.08450704225352113,0.08450704225352113,0.11267605633802817
+id_489,Ttno de Personalidad,0,0,0,0,0,0,0,1,19,0,0,0,0,0,0,0,0.05263157894736842
+id_49,estrés,4,3,0,6,2,5,0,4,61,0.06557377049180328,0.04918032786885246,0,0.09836065573770492,0.03278688524590164,0.08196721311475409,0,0.06557377049180328
+id_490,estrés,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+id_491,Depresion,1,0,1,2,0,2,0,0,18,0.05555555555555555,0,0.05555555555555555,0.1111111111111111,0,0.1111111111111111,0,0
+id_492,estrés,0,2,0,0,0,0,0,3,46,0,0.043478260869565216,0,0,0,0,0,0.06521739130434782
+id_493,Ttno Bipolar,2,2,4,9,1,6,1,2,41,0.04878048780487805,0.04878048780487805,0.0975609756097561,0.21951219512195122,0.024390243902439025,0.14634146341463414,0.024390243902439025,0.04878048780487805
+id_494,Depresion,3,3,4,8,2,6,1,5,33,0.09090909090909091,0.09090909090909091,0.12121212121212122,0.24242424242424243,0.06060606060606061,0.18181818181818182,0.030303030303030304,0.15151515151515152
+id_495,Ttno Bipolar,0,2,0,0,2,1,3,2,37,0,0.05405405405405406,0,0,0.05405405405405406,0.02702702702702703,0.08108108108108109,0.05405405405405406
+id_496,Ttno Bipolar,4,6,0,5,3,3,5,9,95,0.042105263157894736,0.06315789473684211,0,0.05263157894736842,0.031578947368421054,0.031578947368421054,0.05263157894736842,0.09473684210526316
+id_497,Ansiedad,3,1,2,2,0,4,1,5,45,0.06666666666666667,0.022222222222222223,0.044444444444444446,0.044444444444444446,0,0.08888888888888889,0.022222222222222223,0.1111111111111111
+id_498,Ansiedad,0,1,0,0,1,0,1,2,46,0,0.021739130434782608,0,0,0.021739130434782608,0,0.021739130434782608,0.043478260869565216
+id_499,estrés,0,3,1,0,1,2,1,2,44,0,0.06818181818181818,0.022727272727272728,0,0.022727272727272728,0.045454545454545456,0.022727272727272728,0.045454545454545456
+id_5,Ttno de Personalidad,8,6,5,11,1,10,1,3,93,0.08602150537634409,0.06451612903225806,0.053763440860215055,0.11827956989247312,0.010752688172043012,0.10752688172043011,0.010752688172043012,0.03225806451612903
+id_50,Depresion,1,0,2,3,0,13,0,0,37,0.02702702702702703,0,0.05405405405405406,0.08108108108108109,0,0.35135135135135137,0,0
+id_500,Ansiedad,3,1,2,3,0,5,0,3,55,0.05454545454545454,0.01818181818181818,0.03636363636363636,0.05454545454545454,0,0.09090909090909091,0,0.05454545454545454
+id_501,Ansiedad,0,0,0,1,0,0,0,1,5,0,0,0,0.2,0,0,0,0.2
+id_502,Ansiedad,5,10,3,12,9,15,4,14,205,0.024390243902439025,0.04878048780487805,0.014634146341463415,0.05853658536585366,0.04390243902439024,0.07317073170731707,0.01951219512195122,0.06829268292682927
+id_503,Ttno Bipolar,0,1,0,2,0,0,0,1,20,0,0.05,0,0.1,0,0,0,0.05
+id_504,Ttno Bipolar,0,1,0,1,0,0,0,0,30,0,0.03333333333333333,0,0.03333333333333333,0,0,0,0
+id_505,Ttno de Personalidad,3,4,4,6,4,5,2,10,110,0.02727272727272727,0.03636363636363636,0.03636363636363636,0.05454545454545454,0.03636363636363636,0.045454545454545456,0.01818181818181818,0.09090909090909091
+id_506,estrés,1,3,0,1,0,1,0,1,34,0.029411764705882353,0.08823529411764706,0,0.029411764705882353,0,0.029411764705882353,0,0.029411764705882353
+id_507,Ttno Bipolar,3,1,1,6,2,6,1,6,82,0.036585365853658534,0.012195121951219513,0.012195121951219513,0.07317073170731707,0.024390243902439025,0.07317073170731707,0.012195121951219513,0.07317073170731707
+id_508,Ttno de Personalidad,3,7,1,7,3,3,3,2,34,0.08823529411764706,0.20588235294117646,0.029411764705882353,0.20588235294117646,0.08823529411764706,0.08823529411764706,0.08823529411764706,0.058823529411764705
+id_509,Ttno Bipolar,6,10,0,13,1,3,5,6,68,0.08823529411764706,0.14705882352941177,0,0.19117647058823528,0.014705882352941176,0.04411764705882353,0.07352941176470588,0.08823529411764706
+id_51,Depresion,4,6,8,6,5,13,4,5,92,0.043478260869565216,0.06521739130434782,0.08695652173913043,0.06521739130434782,0.05434782608695652,0.14130434782608695,0.043478260869565216,0.05434782608695652
+id_510,estrés,0,1,2,3,0,1,0,3,35,0,0.02857142857142857,0.05714285714285714,0.08571428571428572,0,0.02857142857142857,0,0.08571428571428572
+id_511,estrés,1,2,0,3,0,0,1,1,20,0.05,0.1,0,0.15,0,0,0.05,0.05
+id_512,Ansiedad,0,4,0,0,0,0,1,1,19,0,0.21052631578947367,0,0,0,0,0.05263157894736842,0.05263157894736842
+id_513,estrés,7,3,4,3,2,6,3,2,16,0.4375,0.1875,0.25,0.1875,0.125,0.375,0.1875,0.125
+id_514,estrés,1,1,0,1,0,1,0,0,30,0.03333333333333333,0.03333333333333333,0,0.03333333333333333,0,0.03333333333333333,0,0
+id_515,Ansiedad,2,2,1,4,1,1,1,2,68,0.029411764705882353,0.029411764705882353,0.014705882352941176,0.058823529411764705,0.014705882352941176,0.014705882352941176,0.014705882352941176,0.029411764705882353
+id_516,Ansiedad,7,7,6,13,1,9,2,4,61,0.11475409836065574,0.11475409836065574,0.09836065573770492,0.21311475409836064,0.01639344262295082,0.14754098360655737,0.03278688524590164,0.06557377049180328
+id_517,Depresion,0,4,3,1,3,3,3,5,74,0,0.05405405405405406,0.04054054054054054,0.013513513513513514,0.04054054054054054,0.04054054054054054,0.04054054054054054,0.06756756756756757
+id_518,Ttno Bipolar,2,0,4,4,0,6,2,4,89,0.02247191011235955,0,0.0449438202247191,0.0449438202247191,0,0.06741573033707865,0.02247191011235955,0.0449438202247191
+id_519,estrés,1,2,2,1,0,0,0,0,32,0.03125,0.0625,0.0625,0.03125,0,0,0,0
+id_52,estrés,2,7,6,2,1,2,2,5,94,0.02127659574468085,0.07446808510638298,0.06382978723404255,0.02127659574468085,0.010638297872340425,0.02127659574468085,0.02127659574468085,0.05319148936170213
+id_520,estrés,3,0,2,3,0,2,0,0,12,0.25,0,0.16666666666666666,0.25,0,0.16666666666666666,0,0
+id_521,estrés,5,11,9,9,8,13,7,8,124,0.04032258064516129,0.08870967741935484,0.07258064516129033,0.07258064516129033,0.06451612903225806,0.10483870967741936,0.056451612903225805,0.06451612903225806
+id_522,Ansiedad,5,11,3,10,7,13,4,6,341,0.01466275659824047,0.03225806451612903,0.008797653958944282,0.02932551319648094,0.020527859237536656,0.03812316715542522,0.011730205278592375,0.017595307917888565
+id_523,Ttno Bipolar,7,5,4,12,2,17,3,5,81,0.08641975308641975,0.06172839506172839,0.04938271604938271,0.14814814814814814,0.024691358024691357,0.20987654320987653,0.037037037037037035,0.06172839506172839
+id_524,Ansiedad,1,1,0,1,0,1,0,0,11,0.09090909090909091,0.09090909090909091,0,0.09090909090909091,0,0.09090909090909091,0,0
+id_525,Depresion,8,5,4,9,2,11,2,4,100,0.08,0.05,0.04,0.09,0.02,0.11,0.02,0.04
+id_526,estrés,2,9,3,9,2,4,1,17,123,0.016260162601626018,0.07317073170731707,0.024390243902439025,0.07317073170731707,0.016260162601626018,0.032520325203252036,0.008130081300813009,0.13821138211382114
+id_527,Depresion,3,7,2,1,6,4,1,8,84,0.03571428571428571,0.08333333333333333,0.023809523809523808,0.011904761904761904,0.07142857142857142,0.047619047619047616,0.011904761904761904,0.09523809523809523
+id_528,Ttno de Personalidad,0,1,0,1,1,0,0,1,14,0,0.07142857142857142,0,0.07142857142857142,0.07142857142857142,0,0,0.07142857142857142
+id_529,Depresion,0,7,0,0,3,0,1,3,34,0,0.20588235294117646,0,0,0.08823529411764706,0,0.029411764705882353,0.08823529411764706
+id_53,Depresion,9,7,0,16,1,3,8,6,101,0.0891089108910891,0.06930693069306931,0,0.15841584158415842,0.009900990099009901,0.0297029702970297,0.07920792079207921,0.0594059405940594
+id_530,Ttno de Personalidad,2,12,0,2,1,2,4,6,99,0.020202020202020204,0.12121212121212122,0,0.020202020202020204,0.010101010101010102,0.020202020202020204,0.04040404040404041,0.06060606060606061
+id_531,estrés,0,5,1,0,2,0,1,3,35,0,0.14285714285714285,0.02857142857142857,0,0.05714285714285714,0,0.02857142857142857,0.08571428571428572
+id_532,Ttno Bipolar,6,10,5,9,6,9,7,9,179,0.0335195530726257,0.055865921787709494,0.027932960893854747,0.05027932960893855,0.0335195530726257,0.05027932960893855,0.03910614525139665,0.05027932960893855
+id_533,Ttno de Personalidad,5,7,7,8,5,18,3,6,99,0.050505050505050504,0.0707070707070707,0.0707070707070707,0.08080808080808081,0.050505050505050504,0.18181818181818182,0.030303030303030304,0.06060606060606061
+id_534,Ttno Bipolar,0,1,0,0,2,0,1,1,9,0,0.1111111111111111,0,0,0.2222222222222222,0,0.1111111111111111,0.1111111111111111
+id_535,Depresion,1,5,0,0,7,0,1,11,78,0.01282051282051282,0.0641025641025641,0,0,0.08974358974358974,0,0.01282051282051282,0.14102564102564102
+id_536,Ttno Bipolar,5,5,1,8,6,2,4,10,94,0.05319148936170213,0.05319148936170213,0.010638297872340425,0.0851063829787234,0.06382978723404255,0.02127659574468085,0.0425531914893617,0.10638297872340426
+id_537,Ttno de Personalidad,2,3,6,1,4,5,2,1,23,0.08695652173913043,0.13043478260869565,0.2608695652173913,0.043478260869565216,0.17391304347826086,0.21739130434782608,0.08695652173913043,0.043478260869565216
+id_538,Ttno Bipolar,0,0,1,0,0,0,0,1,36,0,0,0.027777777777777776,0,0,0,0,0.027777777777777776
+id_539,Ansiedad,6,7,1,11,3,5,3,4,82,0.07317073170731707,0.08536585365853659,0.012195121951219513,0.13414634146341464,0.036585365853658534,0.06097560975609756,0.036585365853658534,0.04878048780487805
+id_54,estrés,2,1,2,3,0,3,0,1,34,0.058823529411764705,0.029411764705882353,0.058823529411764705,0.08823529411764706,0,0.08823529411764706,0,0.029411764705882353
+id_540,estrés,0,1,0,0,0,0,0,3,46,0,0.021739130434782608,0,0,0,0,0,0.06521739130434782
+id_542,Ansiedad,0,7,0,4,3,0,6,2,32,0,0.21875,0,0.125,0.09375,0,0.1875,0.0625
+id_543,Ansiedad,0,0,0,0,2,1,0,3,15,0,0,0,0,0.13333333333333333,0.06666666666666667,0,0.2
+id_544,Ttno de Personalidad,4,9,0,12,0,0,5,2,95,0.042105263157894736,0.09473684210526316,0,0.12631578947368421,0,0,0.05263157894736842,0.021052631578947368
+id_545,Ansiedad,10,6,2,11,6,4,6,6,96,0.10416666666666667,0.0625,0.020833333333333332,0.11458333333333333,0.0625,0.041666666666666664,0.0625,0.0625
+id_546,Ttno de Personalidad,2,3,0,4,1,1,2,2,31,0.06451612903225806,0.0967741935483871,0,0.12903225806451613,0.03225806451612903,0.03225806451612903,0.06451612903225806,0.06451612903225806
+id_547,estrés,4,4,4,5,0,4,1,8,113,0.035398230088495575,0.035398230088495575,0.035398230088495575,0.04424778761061947,0,0.035398230088495575,0.008849557522123894,0.07079646017699115
+id_548,Depresion,6,4,4,11,0,15,1,2,62,0.0967741935483871,0.06451612903225806,0.06451612903225806,0.1774193548387097,0,0.24193548387096775,0.016129032258064516,0.03225806451612903
+id_549,Ttno de Personalidad,3,5,2,3,3,5,0,3,102,0.029411764705882353,0.049019607843137254,0.0196078431372549,0.029411764705882353,0.029411764705882353,0.049019607843137254,0,0.029411764705882353
+id_55,Depresion,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+id_550,Ttno Bipolar,0,1,0,0,0,0,0,0,27,0,0.037037037037037035,0,0,0,0,0,0
+id_551,Ttno Bipolar,0,3,0,0,3,0,2,2,25,0,0.12,0,0,0.12,0,0.08,0.08
+id_552,Ttno de Personalidad,0,0,0,0,0,0,0,2,25,0,0,0,0,0,0,0,0.08
+id_553,Ansiedad,2,3,0,2,0,2,0,2,20,0.1,0.15,0,0.1,0,0.1,0,0.1
+id_554,Depresion,6,12,2,7,12,7,3,9,89,0.06741573033707865,0.1348314606741573,0.02247191011235955,0.07865168539325842,0.1348314606741573,0.07865168539325842,0.033707865168539325,0.10112359550561797
+id_555,estrés,6,11,3,6,15,9,7,14,183,0.03278688524590164,0.060109289617486336,0.01639344262295082,0.03278688524590164,0.08196721311475409,0.04918032786885246,0.03825136612021858,0.07650273224043716
+id_556,Ttno Bipolar,5,4,2,5,4,6,2,3,92,0.05434782608695652,0.043478260869565216,0.021739130434782608,0.05434782608695652,0.043478260869565216,0.06521739130434782,0.021739130434782608,0.03260869565217391
+id_557,Ttno de Personalidad,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0
+id_558,estrés,0,1,0,0,0,0,0,1,41,0,0.024390243902439025,0,0,0,0,0,0.024390243902439025
+id_559,Ansiedad,1,3,0,1,1,1,1,2,22,0.045454545454545456,0.13636363636363635,0,0.045454545454545456,0.045454545454545456,0.045454545454545456,0.045454545454545456,0.09090909090909091
+id_56,estrés,0,1,1,1,2,1,2,0,65,0,0.015384615384615385,0.015384615384615385,0.015384615384615385,0.03076923076923077,0.015384615384615385,0.03076923076923077,0
+id_560,Depresion,0,0,0,1,0,0,1,2,22,0,0,0,0.045454545454545456,0,0,0.045454545454545456,0.09090909090909091
+id_561,Ttno de Personalidad,7,4,1,12,0,5,1,1,69,0.10144927536231885,0.057971014492753624,0.014492753623188406,0.17391304347826086,0,0.07246376811594203,0.014492753623188406,0.014492753623188406
+id_562,estrés,6,7,4,9,2,16,2,8,66,0.09090909090909091,0.10606060606060606,0.06060606060606061,0.13636363636363635,0.030303030303030304,0.24242424242424243,0.030303030303030304,0.12121212121212122
+id_563,Ansiedad,4,11,1,4,6,3,4,9,130,0.03076923076923077,0.08461538461538462,0.007692307692307693,0.03076923076923077,0.046153846153846156,0.023076923076923078,0.03076923076923077,0.06923076923076923
+id_564,Ttno Bipolar,4,9,8,7,4,9,3,6,83,0.04819277108433735,0.10843373493975904,0.0963855421686747,0.08433734939759036,0.04819277108433735,0.10843373493975904,0.03614457831325301,0.07228915662650602
+id_565,Ttno Bipolar,2,1,0,5,0,3,0,0,30,0.06666666666666667,0.03333333333333333,0,0.16666666666666666,0,0.1,0,0
+id_566,Depresion,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+id_567,Ttno Bipolar,1,0,0,3,0,2,0,1,41,0.024390243902439025,0,0,0.07317073170731707,0,0.04878048780487805,0,0.024390243902439025
+id_568,Depresion,0,0,0,0,0,2,0,0,17,0,0,0,0,0,0.11764705882352941,0,0
+id_569,Ttno de Personalidad,0,0,2,1,0,2,1,3,91,0,0,0.02197802197802198,0.01098901098901099,0,0.02197802197802198,0.01098901098901099,0.03296703296703297
+id_57,estrés,1,2,1,1,2,1,0,3,24,0.041666666666666664,0.08333333333333333,0.041666666666666664,0.041666666666666664,0.08333333333333333,0.041666666666666664,0,0.125
+id_570,Ttno Bipolar,3,1,2,3,4,4,2,7,93,0.03225806451612903,0.010752688172043012,0.021505376344086023,0.03225806451612903,0.043010752688172046,0.043010752688172046,0.021505376344086023,0.07526881720430108
+id_571,estrés,1,1,0,1,0,1,0,0,28,0.03571428571428571,0.03571428571428571,0,0.03571428571428571,0,0.03571428571428571,0,0
+id_572,estrés,2,1,1,1,0,1,0,1,29,0.06896551724137931,0.034482758620689655,0.034482758620689655,0.034482758620689655,0,0.034482758620689655,0,0.034482758620689655
+id_573,estrés,10,13,5,13,9,9,8,8,199,0.05025125628140704,0.06532663316582915,0.02512562814070352,0.06532663316582915,0.04522613065326633,0.04522613065326633,0.04020100502512563,0.04020100502512563
+id_574,Ttno de Personalidad,3,15,2,6,9,14,5,21,302,0.009933774834437087,0.04966887417218543,0.006622516556291391,0.019867549668874173,0.029801324503311258,0.046357615894039736,0.016556291390728478,0.0695364238410596
+id_575,Ttno de Personalidad,3,2,3,7,2,3,2,1,60,0.05,0.03333333333333333,0.05,0.11666666666666667,0.03333333333333333,0.05,0.03333333333333333,0.016666666666666666
+id_576,estrés,3,11,1,2,11,7,5,13,110,0.02727272727272727,0.1,0.00909090909090909,0.01818181818181818,0.1,0.06363636363636363,0.045454545454545456,0.11818181818181818
+id_577,estrés,0,5,1,2,3,1,3,11,82,0,0.06097560975609756,0.012195121951219513,0.024390243902439025,0.036585365853658534,0.012195121951219513,0.036585365853658534,0.13414634146341464
+id_578,Ttno Bipolar,5,0,2,6,1,4,1,0,36,0.1388888888888889,0,0.05555555555555555,0.16666666666666666,0.027777777777777776,0.1111111111111111,0.027777777777777776,0
+id_579,Ttno de Personalidad,3,11,3,2,8,3,9,12,60,0.05,0.18333333333333332,0.05,0.03333333333333333,0.13333333333333333,0.05,0.15,0.2
+id_58,estrés,0,7,0,0,5,1,3,8,60,0,0.11666666666666667,0,0,0.08333333333333333,0.016666666666666666,0.05,0.13333333333333333
+id_580,Ttno de Personalidad,0,0,0,0,0,0,0,1,13,0,0,0,0,0,0,0,0.07692307692307693
+id_581,Ttno Bipolar,0,0,0,0,2,0,0,5,49,0,0,0,0,0.04081632653061224,0,0,0.10204081632653061
+id_582,Ttno de Personalidad,1,0,1,2,0,4,0,0,16,0.0625,0,0.0625,0.125,0,0.25,0,0
+id_583,Ttno de Personalidad,0,4,0,0,0,1,0,1,125,0,0.032,0,0,0,0.008,0,0.008
+id_584,Depresion,0,0,0,0,2,0,0,2,31,0,0,0,0,0.06451612903225806,0,0,0.06451612903225806
+id_585,Ansiedad,4,3,3,10,0,15,1,1,101,0.039603960396039604,0.0297029702970297,0.0297029702970297,0.09900990099009901,0,0.1485148514851485,0.009900990099009901,0.009900990099009901
+id_586,Depresion,3,6,2,1,6,2,1,5,50,0.06,0.12,0.04,0.02,0.12,0.04,0.02,0.1
+id_587,Ansiedad,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+id_588,Ttno de Personalidad,4,8,5,10,8,22,5,26,407,0.009828009828009828,0.019656019656019656,0.012285012285012284,0.02457002457002457,0.019656019656019656,0.05405405405405406,0.012285012285012284,0.06388206388206388
+id_589,Ansiedad,4,10,2,9,6,5,5,5,94,0.0425531914893617,0.10638297872340426,0.02127659574468085,0.09574468085106383,0.06382978723404255,0.05319148936170213,0.05319148936170213,0.05319148936170213
+id_59,Depresion,1,1,1,0,1,1,1,1,17,0.058823529411764705,0.058823529411764705,0.058823529411764705,0,0.058823529411764705,0.058823529411764705,0.058823529411764705,0.058823529411764705
+id_590,estrés,3,2,0,2,2,4,0,2,66,0.045454545454545456,0.030303030303030304,0,0.030303030303030304,0.030303030303030304,0.06060606060606061,0,0.030303030303030304
+id_591,Ttno Bipolar,4,14,2,8,11,5,5,10,118,0.03389830508474576,0.11864406779661017,0.01694915254237288,0.06779661016949153,0.09322033898305085,0.0423728813559322,0.0423728813559322,0.0847457627118644
+id_592,estrés,3,13,3,2,7,6,7,12,159,0.018867924528301886,0.08176100628930817,0.018867924528301886,0.012578616352201259,0.0440251572327044,0.03773584905660377,0.0440251572327044,0.07547169811320754
+id_593,Ansiedad,8,8,1,9,2,7,0,4,90,0.08888888888888889,0.08888888888888889,0.011111111111111112,0.1,0.022222222222222223,0.07777777777777778,0,0.044444444444444446
+id_594,Ansiedad,7,4,6,15,1,4,3,0,53,0.1320754716981132,0.07547169811320754,0.11320754716981132,0.2830188679245283,0.018867924528301886,0.07547169811320754,0.05660377358490566,0
+id_595,Ttno de Personalidad,3,9,2,7,2,7,4,2,45,0.06666666666666667,0.2,0.044444444444444446,0.15555555555555556,0.044444444444444446,0.15555555555555556,0.08888888888888889,0.044444444444444446
+id_596,Depresion,8,5,7,5,7,12,4,4,154,0.05194805194805195,0.032467532467532464,0.045454545454545456,0.032467532467532464,0.045454545454545456,0.07792207792207792,0.025974025974025976,0.025974025974025976
+id_597,estrés,0,0,0,0,1,0,0,0,6,0,0,0,0,0.16666666666666666,0,0,0
+id_598,Depresion,1,5,0,3,4,1,2,4,27,0.037037037037037035,0.18518518518518517,0,0.1111111111111111,0.14814814814814814,0.037037037037037035,0.07407407407407407,0.14814814814814814
+id_599,estrés,7,8,7,17,4,25,2,7,233,0.030042918454935622,0.034334763948497854,0.030042918454935622,0.07296137339055794,0.017167381974248927,0.1072961373390558,0.008583690987124463,0.030042918454935622
+id_6,Depresion,4,1,2,3,1,3,3,2,58,0.06896551724137931,0.017241379310344827,0.034482758620689655,0.05172413793103448,0.017241379310344827,0.05172413793103448,0.05172413793103448,0.034482758620689655
+id_60,Depresion,9,1,14,10,4,18,3,5,156,0.057692307692307696,0.00641025641025641,0.08974358974358974,0.0641025641025641,0.02564102564102564,0.11538461538461539,0.019230769230769232,0.03205128205128205
+id_600,Depresion,2,7,4,6,3,4,3,5,71,0.028169014084507043,0.09859154929577464,0.056338028169014086,0.08450704225352113,0.04225352112676056,0.056338028169014086,0.04225352112676056,0.07042253521126761
+id_601,Depresion,1,5,2,5,3,9,1,5,121,0.008264462809917356,0.04132231404958678,0.01652892561983471,0.04132231404958678,0.024793388429752067,0.0743801652892562,0.008264462809917356,0.04132231404958678
+id_602,estrés,1,13,2,4,7,4,4,7,111,0.009009009009009009,0.11711711711711711,0.018018018018018018,0.036036036036036036,0.06306306306306306,0.036036036036036036,0.036036036036036036,0.06306306306306306
+id_603,Ttno de Personalidad,12,12,6,10,11,12,7,10,147,0.08163265306122448,0.08163265306122448,0.04081632653061224,0.06802721088435375,0.07482993197278912,0.08163265306122448,0.047619047619047616,0.06802721088435375
+id_604,estrés,2,3,2,3,1,6,1,11,86,0.023255813953488372,0.03488372093023256,0.023255813953488372,0.03488372093023256,0.011627906976744186,0.06976744186046512,0.011627906976744186,0.12790697674418605
+id_605,Ansiedad,0,3,1,3,2,9,0,2,44,0,0.06818181818181818,0.022727272727272728,0.06818181818181818,0.045454545454545456,0.20454545454545456,0,0.045454545454545456
+id_606,Ttno de Personalidad,0,4,0,0,1,0,0,5,48,0,0.08333333333333333,0,0,0.020833333333333332,0,0,0.10416666666666667
+id_607,Ansiedad,10,10,4,13,6,11,7,11,97,0.10309278350515463,0.10309278350515463,0.041237113402061855,0.13402061855670103,0.061855670103092786,0.1134020618556701,0.07216494845360824,0.1134020618556701
+id_608,Depresion,0,0,0,1,0,2,0,1,15,0,0,0,0.06666666666666667,0,0.13333333333333333,0,0.06666666666666667
+id_609,Ansiedad,8,9,5,9,8,9,7,11,204,0.0392156862745098,0.04411764705882353,0.024509803921568627,0.04411764705882353,0.0392156862745098,0.04411764705882353,0.03431372549019608,0.05392156862745098
+id_61,estrés,0,0,0,0,1,1,0,0,20,0,0,0,0,0.05,0.05,0,0
+id_610,estrés,0,2,0,1,0,1,1,3,50,0,0.04,0,0.02,0,0.02,0.02,0.06
+id_611,Depresion,2,2,1,7,1,1,2,1,29,0.06896551724137931,0.06896551724137931,0.034482758620689655,0.2413793103448276,0.034482758620689655,0.034482758620689655,0.06896551724137931,0.034482758620689655
+id_612,Ttno de Personalidad,6,4,3,7,3,9,0,8,123,0.04878048780487805,0.032520325203252036,0.024390243902439025,0.056910569105691054,0.024390243902439025,0.07317073170731707,0,0.06504065040650407
+id_613,Ansiedad,7,3,6,10,0,6,1,3,48,0.14583333333333334,0.0625,0.125,0.20833333333333334,0,0.125,0.020833333333333332,0.0625
+id_614,Ttno Bipolar,0,1,0,0,0,0,1,2,15,0,0.06666666666666667,0,0,0,0,0.06666666666666667,0.13333333333333333
+id_615,Ttno de Personalidad,3,4,3,2,3,2,3,3,36,0.08333333333333333,0.1111111111111111,0.08333333333333333,0.05555555555555555,0.08333333333333333,0.05555555555555555,0.08333333333333333,0.08333333333333333
+id_616,Ttno de Personalidad,0,3,0,2,3,0,1,2,47,0,0.06382978723404255,0,0.0425531914893617,0.06382978723404255,0,0.02127659574468085,0.0425531914893617
+id_617,Ansiedad,4,4,1,6,1,5,2,1,32,0.125,0.125,0.03125,0.1875,0.03125,0.15625,0.0625,0.03125
+id_618,Ansiedad,2,2,0,1,1,1,0,1,25,0.08,0.08,0,0.04,0.04,0.04,0,0.04
+id_619,Ttno de Personalidad,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+id_62,Depresion,1,1,2,1,0,1,0,4,36,0.027777777777777776,0.027777777777777776,0.05555555555555555,0.027777777777777776,0,0.027777777777777776,0,0.1111111111111111
+id_620,Ttno de Personalidad,0,0,0,0,0,0,0,1,36,0,0,0,0,0,0,0,0.027777777777777776
+id_621,estrés,8,8,5,6,12,15,4,22,280,0.02857142857142857,0.02857142857142857,0.017857142857142856,0.02142857142857143,0.04285714285714286,0.05357142857142857,0.014285714285714285,0.07857142857142857
+id_622,Ttno Bipolar,0,3,0,0,1,0,1,1,13,0,0.23076923076923078,0,0,0.07692307692307693,0,0.07692307692307693,0.07692307692307693
+id_623,Ttno Bipolar,6,9,6,10,13,19,3,19,138,0.043478260869565216,0.06521739130434782,0.043478260869565216,0.07246376811594203,0.09420289855072464,0.13768115942028986,0.021739130434782608,0.13768115942028986
+id_624,Ttno de Personalidad,9,19,2,16,9,13,7,16,188,0.047872340425531915,0.10106382978723404,0.010638297872340425,0.0851063829787234,0.047872340425531915,0.06914893617021277,0.03723404255319149,0.0851063829787234
+id_625,Ttno de Personalidad,2,5,0,2,0,2,0,5,134,0.014925373134328358,0.03731343283582089,0,0.014925373134328358,0,0.014925373134328358,0,0.03731343283582089
+id_626,estrés,1,0,2,4,1,4,0,2,58,0.017241379310344827,0,0.034482758620689655,0.06896551724137931,0.017241379310344827,0.06896551724137931,0,0.034482758620689655
+id_627,Depresion,0,0,0,0,0,1,1,0,9,0,0,0,0,0,0.1111111111111111,0.1111111111111111,0
+id_628,Ttno de Personalidad,3,1,2,3,0,6,2,0,21,0.14285714285714285,0.047619047619047616,0.09523809523809523,0.14285714285714285,0,0.2857142857142857,0.09523809523809523,0
+id_629,Ttno de Personalidad,2,3,2,2,3,2,2,5,113,0.017699115044247787,0.02654867256637168,0.017699115044247787,0.017699115044247787,0.02654867256637168,0.017699115044247787,0.017699115044247787,0.04424778761061947
+id_63,Depresion,6,9,4,7,4,15,2,16,274,0.021897810218978103,0.032846715328467155,0.014598540145985401,0.025547445255474453,0.014598540145985401,0.05474452554744526,0.0072992700729927005,0.058394160583941604
+id_630,estrés,1,6,0,4,4,4,2,6,67,0.014925373134328358,0.08955223880597014,0,0.05970149253731343,0.05970149253731343,0.05970149253731343,0.029850746268656716,0.08955223880597014
+id_631,Ansiedad,3,4,0,5,1,1,2,2,40,0.075,0.1,0,0.125,0.025,0.025,0.05,0.05
+id_632,Depresion,2,6,1,4,3,8,0,8,83,0.024096385542168676,0.07228915662650602,0.012048192771084338,0.04819277108433735,0.03614457831325301,0.0963855421686747,0,0.0963855421686747
+id_633,Depresion,11,4,8,11,3,8,1,6,77,0.14285714285714285,0.05194805194805195,0.1038961038961039,0.14285714285714285,0.03896103896103896,0.1038961038961039,0.012987012987012988,0.07792207792207792
+id_634,estrés,2,1,0,3,0,1,1,0,65,0.03076923076923077,0.015384615384615385,0,0.046153846153846156,0,0.015384615384615385,0.015384615384615385,0
+id_635,Ttno Bipolar,3,4,1,4,1,6,2,2,64,0.046875,0.0625,0.015625,0.0625,0.015625,0.09375,0.03125,0.03125
+id_636,Ttno Bipolar,0,1,0,3,1,0,1,3,44,0,0.022727272727272728,0,0.06818181818181818,0.022727272727272728,0,0.022727272727272728,0.06818181818181818
+id_637,estrés,1,2,1,3,2,8,0,4,19,0.05263157894736842,0.10526315789473684,0.05263157894736842,0.15789473684210525,0.10526315789473684,0.42105263157894735,0,0.21052631578947367
+id_638,Depresion,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+id_639,Ttno de Personalidad,0,0,0,0,1,0,0,1,6,0,0,0,0,0.16666666666666666,0,0,0.16666666666666666
+id_64,Ttno de Personalidad,3,15,2,6,9,14,5,21,302,0.009933774834437087,0.04966887417218543,0.006622516556291391,0.019867549668874173,0.029801324503311258,0.046357615894039736,0.016556291390728478,0.0695364238410596
+id_640,estrés,0,0,0,0,0,1,0,3,15,0,0,0,0,0,0.06666666666666667,0,0.2
+id_641,Ansiedad,0,1,1,3,0,8,2,1,41,0,0.024390243902439025,0.024390243902439025,0.07317073170731707,0,0.1951219512195122,0.04878048780487805,0.024390243902439025
+id_642,estrés,3,8,1,5,2,4,2,8,112,0.026785714285714284,0.07142857142857142,0.008928571428571428,0.044642857142857144,0.017857142857142856,0.03571428571428571,0.017857142857142856,0.07142857142857142
+id_643,Ansiedad,2,1,2,1,1,0,0,2,59,0.03389830508474576,0.01694915254237288,0.03389830508474576,0.01694915254237288,0.01694915254237288,0,0,0.03389830508474576
+id_644,estrés,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+id_645,Ansiedad,2,2,0,4,0,3,1,1,23,0.08695652173913043,0.08695652173913043,0,0.17391304347826086,0,0.13043478260869565,0.043478260869565216,0.043478260869565216
+id_646,Ansiedad,13,20,1,21,5,14,9,6,278,0.046762589928057555,0.07194244604316546,0.0035971223021582736,0.07553956834532374,0.017985611510791366,0.050359712230215826,0.03237410071942446,0.02158273381294964
+id_647,Ansiedad,3,5,0,4,1,4,2,4,64,0.046875,0.078125,0,0.0625,0.015625,0.0625,0.03125,0.0625
+id_648,Depresion,0,1,0,0,0,0,0,0,13,0,0.07692307692307693,0,0,0,0,0,0
+id_649,Ttno Bipolar,0,1,0,2,3,0,0,3,64,0,0.015625,0,0.03125,0.046875,0,0,0.046875
+id_65,Ansiedad,3,2,0,2,0,1,0,3,43,0.06976744186046512,0.046511627906976744,0,0.046511627906976744,0,0.023255813953488372,0,0.06976744186046512
+id_650,Ttno de Personalidad,1,3,0,3,5,3,1,3,102,0.00980392156862745,0.029411764705882353,0,0.029411764705882353,0.049019607843137254,0.029411764705882353,0.00980392156862745,0.029411764705882353
+id_651,Ttno Bipolar,3,4,2,4,2,5,1,6,64,0.046875,0.0625,0.03125,0.0625,0.03125,0.078125,0.015625,0.09375
+id_652,estrés,0,1,0,0,0,0,0,1,10,0,0.1,0,0,0,0,0,0.1
+id_653,Ansiedad,1,3,0,2,2,1,1,3,18,0.05555555555555555,0.16666666666666666,0,0.1111111111111111,0.1111111111111111,0.05555555555555555,0.05555555555555555,0.16666666666666666
+id_654,Ttno de Personalidad,1,5,3,4,3,4,1,5,119,0.008403361344537815,0.04201680672268908,0.025210084033613446,0.03361344537815126,0.025210084033613446,0.03361344537815126,0.008403361344537815,0.04201680672268908
+id_655,Ansiedad,1,0,0,1,0,0,0,2,24,0.041666666666666664,0,0,0.041666666666666664,0,0,0,0.08333333333333333
+id_656,Ansiedad,4,8,2,5,5,4,3,6,127,0.031496062992125984,0.06299212598425197,0.015748031496062992,0.03937007874015748,0.03937007874015748,0.031496062992125984,0.023622047244094488,0.047244094488188976
+id_657,Depresion,4,6,3,5,3,4,2,2,50,0.08,0.12,0.06,0.1,0.06,0.08,0.04,0.04
+id_658,Ttno de Personalidad,4,1,6,6,1,4,1,1,25,0.16,0.04,0.24,0.24,0.04,0.16,0.04,0.04
+id_659,Depresion,5,1,4,5,2,0,1,3,45,0.1111111111111111,0.022222222222222223,0.08888888888888889,0.1111111111111111,0.044444444444444446,0,0.022222222222222223,0.06666666666666667
+id_66,Ttno de Personalidad,2,4,0,7,0,2,1,1,82,0.024390243902439025,0.04878048780487805,0,0.08536585365853659,0,0.024390243902439025,0.012195121951219513,0.012195121951219513
+id_660,Ttno Bipolar,4,5,2,7,3,10,3,5,67,0.05970149253731343,0.07462686567164178,0.029850746268656716,0.1044776119402985,0.04477611940298507,0.14925373134328357,0.04477611940298507,0.07462686567164178
+id_661,Ansiedad,6,2,8,7,2,8,6,1,64,0.09375,0.03125,0.125,0.109375,0.03125,0.125,0.09375,0.015625
+id_662,Ttno de Personalidad,2,2,3,8,0,2,2,1,31,0.06451612903225806,0.06451612903225806,0.0967741935483871,0.25806451612903225,0,0.06451612903225806,0.06451612903225806,0.03225806451612903
+id_663,Ansiedad,9,13,4,9,12,15,5,10,108,0.08333333333333333,0.12037037037037036,0.037037037037037035,0.08333333333333333,0.1111111111111111,0.1388888888888889,0.046296296296296294,0.09259259259259259
+id_664,estrés,3,0,0,1,0,1,0,0,20,0.15,0,0,0.05,0,0.05,0,0
+id_665,estrés,3,5,3,3,4,3,1,8,70,0.04285714285714286,0.07142857142857142,0.04285714285714286,0.04285714285714286,0.05714285714285714,0.04285714285714286,0.014285714285714285,0.11428571428571428
+id_666,Ansiedad,1,1,0,1,0,1,0,1,9,0.1111111111111111,0.1111111111111111,0,0.1111111111111111,0,0.1111111111111111,0,0.1111111111111111
+id_667,estrés,3,5,0,5,2,3,3,3,13,0.23076923076923078,0.38461538461538464,0,0.38461538461538464,0.15384615384615385,0.23076923076923078,0.23076923076923078,0.23076923076923078
+id_668,estrés,6,6,4,13,1,11,4,2,87,0.06896551724137931,0.06896551724137931,0.04597701149425287,0.14942528735632185,0.011494252873563218,0.12643678160919541,0.04597701149425287,0.022988505747126436
+id_669,estrés,0,1,1,1,1,1,0,1,11,0,0.09090909090909091,0.09090909090909091,0.09090909090909091,0.09090909090909091,0.09090909090909091,0,0.09090909090909091
+id_67,Depresion,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,0,0.14285714285714285
+id_670,Ttno Bipolar,4,3,3,6,4,6,2,5,95,0.042105263157894736,0.031578947368421054,0.031578947368421054,0.06315789473684211,0.042105263157894736,0.06315789473684211,0.021052631578947368,0.05263157894736842
+id_671,Depresion,1,1,1,1,1,1,1,4,29,0.034482758620689655,0.034482758620689655,0.034482758620689655,0.034482758620689655,0.034482758620689655,0.034482758620689655,0.034482758620689655,0.13793103448275862
+id_672,Ansiedad,1,2,0,1,3,1,1,2,25,0.04,0.08,0,0.04,0.12,0.04,0.04,0.08
+id_673,Ttno Bipolar,2,8,4,6,5,3,5,7,70,0.02857142857142857,0.11428571428571428,0.05714285714285714,0.08571428571428572,0.07142857142857142,0.04285714285714286,0.07142857142857142,0.1
+id_674,Depresion,7,5,2,7,5,9,0,6,87,0.08045977011494253,0.05747126436781609,0.022988505747126436,0.08045977011494253,0.05747126436781609,0.10344827586206896,0,0.06896551724137931
+id_675,Depresion,0,0,0,0,1,1,0,1,27,0,0,0,0,0.037037037037037035,0.037037037037037035,0,0.037037037037037035
+id_676,Ttno de Personalidad,1,0,1,1,0,2,0,0,37,0.02702702702702703,0,0.02702702702702703,0.02702702702702703,0,0.05405405405405406,0,0
+id_677,Depresion,5,0,9,11,0,14,0,0,25,0.2,0,0.36,0.44,0,0.56,0,0
+id_678,Ansiedad,0,1,1,2,0,7,0,1,34,0,0.029411764705882353,0.029411764705882353,0.058823529411764705,0,0.20588235294117646,0,0.029411764705882353
+id_679,Depresion,1,7,0,3,4,3,2,2,161,0.006211180124223602,0.043478260869565216,0,0.018633540372670808,0.024844720496894408,0.018633540372670808,0.012422360248447204,0.012422360248447204
+id_68,estrés,1,2,2,3,0,4,0,5,87,0.011494252873563218,0.022988505747126436,0.022988505747126436,0.034482758620689655,0,0.04597701149425287,0,0.05747126436781609
+id_680,Ttno de Personalidad,0,0,1,0,0,0,0,1,19,0,0,0.05263157894736842,0,0,0,0,0.05263157894736842
+id_681,Depresion,3,9,3,5,12,6,8,9,44,0.06818181818181818,0.20454545454545456,0.06818181818181818,0.11363636363636363,0.2727272727272727,0.13636363636363635,0.18181818181818182,0.20454545454545456
+id_682,Ttno Bipolar,3,3,0,4,2,1,2,2,60,0.05,0.05,0,0.06666666666666667,0.03333333333333333,0.016666666666666666,0.03333333333333333,0.03333333333333333
+id_683,Depresion,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+id_684,Ttno de Personalidad,5,1,2,7,0,5,2,2,122,0.040983606557377046,0.00819672131147541,0.01639344262295082,0.05737704918032787,0,0.040983606557377046,0.01639344262295082,0.01639344262295082
+id_685,Ansiedad,2,5,0,9,0,2,2,2,54,0.037037037037037035,0.09259259259259259,0,0.16666666666666666,0,0.037037037037037035,0.037037037037037035,0.037037037037037035
+id_686,Ansiedad,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+id_687,estrés,0,4,0,0,1,2,0,2,14,0,0.2857142857142857,0,0,0.07142857142857142,0.14285714285714285,0,0.14285714285714285
+id_688,Depresion,5,2,6,11,0,5,2,0,39,0.1282051282051282,0.05128205128205128,0.15384615384615385,0.28205128205128205,0,0.1282051282051282,0.05128205128205128,0
+id_69,Ttno Bipolar,5,22,1,9,17,7,8,19,201,0.024875621890547265,0.10945273631840796,0.004975124378109453,0.04477611940298507,0.0845771144278607,0.03482587064676617,0.03980099502487562,0.0945273631840796
+id_690,Ansiedad,4,5,2,7,1,7,1,1,37,0.10810810810810811,0.13513513513513514,0.05405405405405406,0.1891891891891892,0.02702702702702703,0.1891891891891892,0.02702702702702703,0.02702702702702703
+id_691,estrés,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+id_692,Ansiedad,6,6,3,7,2,14,3,6,86,0.06976744186046512,0.06976744186046512,0.03488372093023256,0.08139534883720931,0.023255813953488372,0.16279069767441862,0.03488372093023256,0.06976744186046512
+id_693,Ttno Bipolar,4,5,3,9,0,5,3,2,59,0.06779661016949153,0.0847457627118644,0.05084745762711865,0.15254237288135594,0,0.0847457627118644,0.05084745762711865,0.03389830508474576
+id_694,Depresion,1,0,1,1,0,1,0,5,51,0.0196078431372549,0,0.0196078431372549,0.0196078431372549,0,0.0196078431372549,0,0.09803921568627451
+id_695,Depresion,4,3,0,7,5,3,1,0,42,0.09523809523809523,0.07142857142857142,0,0.16666666666666666,0.11904761904761904,0.07142857142857142,0.023809523809523808,0
+id_696,Ansiedad,7,3,7,13,0,4,1,1,65,0.1076923076923077,0.046153846153846156,0.1076923076923077,0.2,0,0.06153846153846154,0.015384615384615385,0.015384615384615385
+id_697,estrés,0,0,3,4,1,14,0,2,44,0,0,0.06818181818181818,0.09090909090909091,0.022727272727272728,0.3181818181818182,0,0.045454545454545456
+id_698,Ttno Bipolar,0,2,0,1,2,1,1,3,57,0,0.03508771929824561,0,0.017543859649122806,0.03508771929824561,0.017543859649122806,0.017543859649122806,0.05263157894736842
+id_699,Depresion,0,4,0,2,4,0,0,5,11,0,0.36363636363636365,0,0.18181818181818182,0.36363636363636365,0,0,0.45454545454545453
+id_7,estrés,5,3,1,9,0,4,4,2,136,0.03676470588235294,0.022058823529411766,0.007352941176470588,0.0661764705882353,0,0.029411764705882353,0.029411764705882353,0.014705882352941176
+id_70,Depresion,2,1,1,2,0,4,0,4,66,0.030303030303030304,0.015151515151515152,0.015151515151515152,0.030303030303030304,0,0.06060606060606061,0,0.06060606060606061
+id_700,Ttno de Personalidad,4,5,4,5,3,7,1,4,61,0.06557377049180328,0.08196721311475409,0.06557377049180328,0.08196721311475409,0.04918032786885246,0.11475409836065574,0.01639344262295082,0.06557377049180328
+id_701,Ttno de Personalidad,0,7,1,0,7,2,5,10,147,0,0.047619047619047616,0.006802721088435374,0,0.047619047619047616,0.013605442176870748,0.034013605442176874,0.06802721088435375
+id_702,estrés,0,2,0,0,1,0,0,3,36,0,0.05555555555555555,0,0,0.027777777777777776,0,0,0.08333333333333333
+id_703,Ttno de Personalidad,1,1,1,1,0,1,1,0,13,0.07692307692307693,0.07692307692307693,0.07692307692307693,0.07692307692307693,0,0.07692307692307693,0.07692307692307693,0
+id_704,Ttno Bipolar,2,3,3,4,7,6,5,7,82,0.024390243902439025,0.036585365853658534,0.036585365853658534,0.04878048780487805,0.08536585365853659,0.07317073170731707,0.06097560975609756,0.08536585365853659
+id_705,Depresion,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+id_706,Ttno Bipolar,4,3,4,3,5,4,3,4,60,0.06666666666666667,0.05,0.06666666666666667,0.05,0.08333333333333333,0.06666666666666667,0.05,0.06666666666666667
+id_707,Ansiedad,3,9,0,8,5,2,7,5,56,0.05357142857142857,0.16071428571428573,0,0.14285714285714285,0.08928571428571429,0.03571428571428571,0.125,0.08928571428571429
+id_708,Depresion,5,4,8,2,3,2,3,4,39,0.1282051282051282,0.10256410256410256,0.20512820512820512,0.05128205128205128,0.07692307692307693,0.05128205128205128,0.07692307692307693,0.10256410256410256
+id_709,Depresion,12,24,7,12,21,13,7,30,211,0.05687203791469194,0.11374407582938388,0.03317535545023697,0.05687203791469194,0.0995260663507109,0.061611374407582936,0.03317535545023697,0.14218009478672985
+id_71,Ansiedad,1,1,4,0,1,2,1,1,61,0.01639344262295082,0.01639344262295082,0.06557377049180328,0,0.01639344262295082,0.03278688524590164,0.01639344262295082,0.01639344262295082
+id_710,Ttno de Personalidad,0,2,0,1,1,0,1,1,31,0,0.06451612903225806,0,0.03225806451612903,0.03225806451612903,0,0.03225806451612903,0.03225806451612903
+id_711,Ansiedad,4,4,6,7,1,7,1,4,98,0.04081632653061224,0.04081632653061224,0.061224489795918366,0.07142857142857142,0.01020408163265306,0.07142857142857142,0.01020408163265306,0.04081632653061224
+id_712,Ansiedad,1,1,0,0,0,1,0,1,40,0.025,0.025,0,0,0,0.025,0,0.025
+id_713,estrés,0,5,0,0,9,0,2,5,65,0,0.07692307692307693,0,0,0.13846153846153847,0,0.03076923076923077,0.07692307692307693
+id_714,Depresion,8,11,5,14,11,15,1,39,435,0.01839080459770115,0.02528735632183908,0.011494252873563218,0.03218390804597701,0.02528735632183908,0.034482758620689655,0.0022988505747126436,0.0896551724137931
+id_715,estrés,19,25,12,24,16,37,27,24,406,0.046798029556650245,0.06157635467980296,0.029556650246305417,0.059113300492610835,0.03940886699507389,0.09113300492610837,0.0665024630541872,0.059113300492610835
+id_716,Depresion,5,2,3,6,0,6,2,0,35,0.14285714285714285,0.05714285714285714,0.08571428571428572,0.17142857142857143,0,0.17142857142857143,0.05714285714285714,0
+id_717,Ttno Bipolar,2,5,0,8,4,7,4,9,133,0.015037593984962405,0.03759398496240601,0,0.06015037593984962,0.03007518796992481,0.05263157894736842,0.03007518796992481,0.06766917293233082
+id_718,estrés,10,3,10,13,2,12,5,3,82,0.12195121951219512,0.036585365853658534,0.12195121951219512,0.15853658536585366,0.024390243902439025,0.14634146341463414,0.06097560975609756,0.036585365853658534
+id_719,Ttno Bipolar,12,4,8,18,2,13,3,2,99,0.12121212121212122,0.04040404040404041,0.08080808080808081,0.18181818181818182,0.020202020202020204,0.13131313131313133,0.030303030303030304,0.020202020202020204
+id_72,estrés,0,2,0,2,0,2,0,1,74,0,0.02702702702702703,0,0.02702702702702703,0,0.02702702702702703,0,0.013513513513513514
+id_720,Ttno de Personalidad,1,1,2,0,1,0,0,1,9,0.1111111111111111,0.1111111111111111,0.2222222222222222,0,0.1111111111111111,0,0,0.1111111111111111
+id_721,Ttno de Personalidad,6,18,6,6,19,7,8,28,194,0.030927835051546393,0.09278350515463918,0.030927835051546393,0.030927835051546393,0.0979381443298969,0.03608247422680412,0.041237113402061855,0.14432989690721648
+id_722,Ttno Bipolar,1,0,1,2,0,0,0,0,23,0.043478260869565216,0,0.043478260869565216,0.08695652173913043,0,0,0,0
+id_723,Ansiedad,6,4,4,6,0,6,0,0,20,0.3,0.2,0.2,0.3,0,0.3,0,0
+id_724,Ansiedad,0,4,0,2,2,0,2,3,15,0,0.26666666666666666,0,0.13333333333333333,0.13333333333333333,0,0.13333333333333333,0.2
+id_725,Ansiedad,3,4,1,9,5,1,6,5,132,0.022727272727272728,0.030303030303030304,0.007575757575757576,0.06818181818181818,0.03787878787878788,0.007575757575757576,0.045454545454545456,0.03787878787878788
+id_726,estrés,0,1,0,0,0,0,0,1,41,0,0.024390243902439025,0,0,0,0,0,0.024390243902439025
+id_727,estrés,0,0,0,1,0,4,2,2,45,0,0,0,0.022222222222222223,0,0.08888888888888889,0.044444444444444446,0.044444444444444446
+id_728,estrés,2,2,2,4,3,8,1,2,35,0.05714285714285714,0.05714285714285714,0.05714285714285714,0.11428571428571428,0.08571428571428572,0.22857142857142856,0.02857142857142857,0.05714285714285714
+id_729,Depresion,2,0,1,2,0,1,0,0,7,0.2857142857142857,0,0.14285714285714285,0.2857142857142857,0,0.14285714285714285,0,0
+id_73,Ttno Bipolar,1,2,0,1,2,0,1,2,41,0.024390243902439025,0.04878048780487805,0,0.024390243902439025,0.04878048780487805,0,0.024390243902439025,0.04878048780487805
+id_730,Ansiedad,13,10,8,19,1,14,1,2,143,0.09090909090909091,0.06993006993006994,0.055944055944055944,0.13286713286713286,0.006993006993006993,0.0979020979020979,0.006993006993006993,0.013986013986013986
+id_731,estrés,0,1,0,0,1,0,1,1,15,0,0.06666666666666667,0,0,0.06666666666666667,0,0.06666666666666667,0.06666666666666667
+id_732,Ttno de Personalidad,3,2,6,6,2,11,0,5,56,0.05357142857142857,0.03571428571428571,0.10714285714285714,0.10714285714285714,0.03571428571428571,0.19642857142857142,0,0.08928571428571429
+id_733,Ttno Bipolar,10,16,3,26,12,12,12,6,180,0.05555555555555555,0.08888888888888889,0.016666666666666666,0.14444444444444443,0.06666666666666667,0.06666666666666667,0.06666666666666667,0.03333333333333333
+id_734,Depresion,11,6,10,15,6,23,6,11,102,0.10784313725490197,0.058823529411764705,0.09803921568627451,0.14705882352941177,0.058823529411764705,0.22549019607843138,0.058823529411764705,0.10784313725490197
+id_735,Depresion,0,1,0,0,1,0,0,1,22,0,0.045454545454545456,0,0,0.045454545454545456,0,0,0.045454545454545456
+id_736,Depresion,2,2,3,6,2,11,0,4,30,0.06666666666666667,0.06666666666666667,0.1,0.2,0.06666666666666667,0.36666666666666664,0,0.13333333333333333
+id_737,estrés,0,2,0,0,2,3,1,3,69,0,0.028985507246376812,0,0,0.028985507246376812,0.043478260869565216,0.014492753623188406,0.043478260869565216
+id_738,Ttno Bipolar,5,7,5,12,3,9,4,11,190,0.02631578947368421,0.03684210526315789,0.02631578947368421,0.06315789473684211,0.015789473684210527,0.04736842105263158,0.021052631578947368,0.05789473684210526
+id_739,Depresion,8,5,14,15,2,10,2,10,232,0.034482758620689655,0.021551724137931036,0.0603448275862069,0.06465517241379311,0.008620689655172414,0.04310344827586207,0.008620689655172414,0.04310344827586207
+id_74,Ttno Bipolar,0,0,0,0,0,0,0,1,20,0,0,0,0,0,0,0,0.05
+id_740,Ttno Bipolar,0,1,1,3,2,3,0,2,39,0,0.02564102564102564,0.02564102564102564,0.07692307692307693,0.05128205128205128,0.07692307692307693,0,0.05128205128205128
+id_741,Ttno de Personalidad,0,3,0,1,2,2,2,2,15,0,0.2,0,0.06666666666666667,0.13333333333333333,0.13333333333333333,0.13333333333333333,0.13333333333333333
+id_742,Ansiedad,3,4,3,8,0,19,0,2,90,0.03333333333333333,0.044444444444444446,0.03333333333333333,0.08888888888888889,0,0.2111111111111111,0,0.022222222222222223
+id_743,Depresion,5,6,3,1,5,2,5,8,110,0.045454545454545456,0.05454545454545454,0.02727272727272727,0.00909090909090909,0.045454545454545456,0.01818181818181818,0.045454545454545456,0.07272727272727272
+id_744,Ttno Bipolar,8,3,10,10,5,18,2,5,93,0.08602150537634409,0.03225806451612903,0.10752688172043011,0.10752688172043011,0.053763440860215055,0.1935483870967742,0.021505376344086023,0.053763440860215055
+id_745,Ansiedad,4,7,2,5,3,6,2,6,54,0.07407407407407407,0.12962962962962962,0.037037037037037035,0.09259259259259259,0.05555555555555555,0.1111111111111111,0.037037037037037035,0.1111111111111111
+id_746,Depresion,0,1,3,2,1,3,0,1,43,0,0.023255813953488372,0.06976744186046512,0.046511627906976744,0.023255813953488372,0.06976744186046512,0,0.023255813953488372
+id_747,Ttno Bipolar,13,3,10,23,8,18,3,13,283,0.045936395759717315,0.01060070671378092,0.0353356890459364,0.0812720848056537,0.028268551236749116,0.0636042402826855,0.01060070671378092,0.045936395759717315
+id_748,Depresion,1,22,1,2,17,9,3,18,216,0.004629629629629629,0.10185185185185185,0.004629629629629629,0.009259259259259259,0.0787037037037037,0.041666666666666664,0.013888888888888888,0.08333333333333333
+id_749,Ansiedad,3,5,1,8,0,9,2,0,31,0.0967741935483871,0.16129032258064516,0.03225806451612903,0.25806451612903225,0,0.2903225806451613,0.06451612903225806,0
+id_75,estrés,0,0,1,0,0,0,0,2,60,0,0,0.016666666666666666,0,0,0,0,0.03333333333333333
+id_750,estrés,0,2,1,2,1,1,1,1,14,0,0.14285714285714285,0.07142857142857142,0.14285714285714285,0.07142857142857142,0.07142857142857142,0.07142857142857142,0.07142857142857142
+id_751,Ttno de Personalidad,2,3,1,3,0,2,0,1,27,0.07407407407407407,0.1111111111111111,0.037037037037037035,0.1111111111111111,0,0.07407407407407407,0,0.037037037037037035
+id_752,Depresion,1,9,2,3,3,2,3,7,113,0.008849557522123894,0.07964601769911504,0.017699115044247787,0.02654867256637168,0.02654867256637168,0.017699115044247787,0.02654867256637168,0.061946902654867256
+id_753,Ttno Bipolar,2,12,3,5,5,4,4,11,97,0.020618556701030927,0.12371134020618557,0.030927835051546393,0.05154639175257732,0.05154639175257732,0.041237113402061855,0.041237113402061855,0.1134020618556701
+id_754,Ttno Bipolar,7,3,11,12,5,11,4,5,83,0.08433734939759036,0.03614457831325301,0.13253012048192772,0.14457831325301204,0.060240963855421686,0.13253012048192772,0.04819277108433735,0.060240963855421686
+id_755,Ttno de Personalidad,0,0,0,0,2,0,0,3,7,0,0,0,0,0.2857142857142857,0,0,0.42857142857142855
+id_756,Depresion,2,9,2,3,14,10,1,15,114,0.017543859649122806,0.07894736842105263,0.017543859649122806,0.02631578947368421,0.12280701754385964,0.08771929824561403,0.008771929824561403,0.13157894736842105
+id_758,Ttno Bipolar,11,5,7,6,2,8,3,5,72,0.1527777777777778,0.06944444444444445,0.09722222222222222,0.08333333333333333,0.027777777777777776,0.1111111111111111,0.041666666666666664,0.06944444444444445
+id_759,Ansiedad,5,16,0,6,10,10,4,16,104,0.04807692307692308,0.15384615384615385,0,0.057692307692307696,0.09615384615384616,0.09615384615384616,0.038461538461538464,0.15384615384615385
+id_76,Ttno de Personalidad,0,1,0,0,0,0,0,0,27,0,0.037037037037037035,0,0,0,0,0,0
+id_760,Ttno de Personalidad,0,4,0,2,2,0,1,1,44,0,0.09090909090909091,0,0.045454545454545456,0.045454545454545456,0,0.022727272727272728,0.022727272727272728
+id_761,Ttno Bipolar,2,2,0,4,1,1,3,1,63,0.031746031746031744,0.031746031746031744,0,0.06349206349206349,0.015873015873015872,0.015873015873015872,0.047619047619047616,0.015873015873015872
+id_762,Ansiedad,0,1,0,0,0,1,0,0,37,0,0.02702702702702703,0,0,0,0.02702702702702703,0,0
+id_763,Ansiedad,1,3,1,1,0,2,1,0,66,0.015151515151515152,0.045454545454545456,0.015151515151515152,0.015151515151515152,0,0.030303030303030304,0.015151515151515152,0
+id_764,Ttno Bipolar,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
+id_765,Ansiedad,6,3,0,8,0,4,1,1,39,0.15384615384615385,0.07692307692307693,0,0.20512820512820512,0,0.10256410256410256,0.02564102564102564,0.02564102564102564
+id_766,Ttno Bipolar,1,2,1,1,2,2,2,2,31,0.03225806451612903,0.06451612903225806,0.03225806451612903,0.03225806451612903,0.06451612903225806,0.06451612903225806,0.06451612903225806,0.06451612903225806
+id_767,Ttno de Personalidad,8,6,8,11,7,12,1,7,151,0.052980132450331126,0.039735099337748346,0.052980132450331126,0.0728476821192053,0.046357615894039736,0.07947019867549669,0.006622516556291391,0.046357615894039736
+id_768,Ttno Bipolar,1,1,0,0,0,1,0,0,26,0.038461538461538464,0.038461538461538464,0,0,0,0.038461538461538464,0,0
+id_769,estrés,2,1,3,7,1,6,1,2,41,0.04878048780487805,0.024390243902439025,0.07317073170731707,0.17073170731707318,0.024390243902439025,0.14634146341463414,0.024390243902439025,0.04878048780487805
+id_77,Ansiedad,4,7,2,11,0,21,0,0,91,0.04395604395604396,0.07692307692307693,0.02197802197802198,0.12087912087912088,0,0.23076923076923078,0,0
+id_770,Depresion,1,2,0,3,2,0,1,2,25,0.04,0.08,0,0.12,0.08,0,0.04,0.08
+id_771,Ansiedad,3,3,1,2,1,3,1,4,130,0.023076923076923078,0.023076923076923078,0.007692307692307693,0.015384615384615385,0.007692307692307693,0.023076923076923078,0.007692307692307693,0.03076923076923077
+id_772,estrés,1,0,1,1,0,1,0,1,37,0.02702702702702703,0,0.02702702702702703,0.02702702702702703,0,0.02702702702702703,0,0.02702702702702703
+id_773,Ttno de Personalidad,1,8,6,11,5,8,2,7,116,0.008620689655172414,0.06896551724137931,0.05172413793103448,0.09482758620689655,0.04310344827586207,0.06896551724137931,0.017241379310344827,0.0603448275862069
+id_774,Ttno Bipolar,1,3,0,0,3,0,3,4,12,0.08333333333333333,0.25,0,0,0.25,0,0.25,0.3333333333333333
+id_776,Ansiedad,3,3,0,3,0,4,2,0,90,0.03333333333333333,0.03333333333333333,0,0.03333333333333333,0,0.044444444444444446,0.022222222222222223,0
+id_777,Depresion,0,0,0,0,0,2,0,0,7,0,0,0,0,0,0.2857142857142857,0,0
+id_778,Ttno de Personalidad,1,0,0,2,0,1,0,1,28,0.03571428571428571,0,0,0.07142857142857142,0,0.03571428571428571,0,0.03571428571428571
+id_779,Ttno Bipolar,0,3,1,1,1,2,1,3,83,0,0.03614457831325301,0.012048192771084338,0.012048192771084338,0.012048192771084338,0.024096385542168676,0.012048192771084338,0.03614457831325301
+id_78,Ansiedad,1,3,1,2,0,1,0,0,30,0.03333333333333333,0.1,0.03333333333333333,0.06666666666666667,0,0.03333333333333333,0,0
+id_780,Ttno Bipolar,2,3,1,1,2,1,2,1,24,0.08333333333333333,0.125,0.041666666666666664,0.041666666666666664,0.08333333333333333,0.041666666666666664,0.08333333333333333,0.041666666666666664
+id_781,estrés,7,4,6,8,2,12,6,3,65,0.1076923076923077,0.06153846153846154,0.09230769230769231,0.12307692307692308,0.03076923076923077,0.18461538461538463,0.09230769230769231,0.046153846153846156
+id_782,estrés,1,3,1,2,0,2,1,5,95,0.010526315789473684,0.031578947368421054,0.010526315789473684,0.021052631578947368,0,0.021052631578947368,0.010526315789473684,0.05263157894736842
+id_783,Ansiedad,1,1,1,1,0,1,0,0,17,0.058823529411764705,0.058823529411764705,0.058823529411764705,0.058823529411764705,0,0.058823529411764705,0,0
+id_784,Ttno de Personalidad,0,1,0,0,1,0,1,1,18,0,0.05555555555555555,0,0,0.05555555555555555,0,0.05555555555555555,0.05555555555555555
+id_785,Ansiedad,1,1,0,1,0,1,0,0,6,0.16666666666666666,0.16666666666666666,0,0.16666666666666666,0,0.16666666666666666,0,0
+id_786,Ansiedad,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+id_787,Ttno de Personalidad,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+id_788,Depresion,2,8,1,5,6,6,2,12,115,0.017391304347826087,0.06956521739130435,0.008695652173913044,0.043478260869565216,0.05217391304347826,0.05217391304347826,0.017391304347826087,0.10434782608695652
+id_789,Ttno de Personalidad,0,2,0,0,0,0,0,0,16,0,0.125,0,0,0,0,0,0
+id_79,Ttno de Personalidad,3,2,1,4,0,3,0,4,82,0.036585365853658534,0.024390243902439025,0.012195121951219513,0.04878048780487805,0,0.036585365853658534,0,0.04878048780487805
+id_790,Ttno de Personalidad,7,7,1,9,3,7,2,7,127,0.05511811023622047,0.05511811023622047,0.007874015748031496,0.07086614173228346,0.023622047244094488,0.05511811023622047,0.015748031496062992,0.05511811023622047
+id_791,Ttno de Personalidad,2,2,0,1,2,0,0,4,19,0.10526315789473684,0.10526315789473684,0,0.05263157894736842,0.10526315789473684,0,0,0.21052631578947367
+id_792,Depresion,2,1,2,3,1,8,0,3,22,0.09090909090909091,0.045454545454545456,0.09090909090909091,0.13636363636363635,0.045454545454545456,0.36363636363636365,0,0.13636363636363635
+id_793,Ttno de Personalidad,0,4,0,0,4,1,3,11,97,0,0.041237113402061855,0,0,0.041237113402061855,0.010309278350515464,0.030927835051546393,0.1134020618556701
+id_794,Ttno de Personalidad,0,2,0,0,0,0,0,0,41,0,0.04878048780487805,0,0,0,0,0,0
+id_795,Depresion,0,0,0,1,2,0,1,9,85,0,0,0,0.011764705882352941,0.023529411764705882,0,0.011764705882352941,0.10588235294117647
+id_796,Depresion,11,6,6,12,5,19,7,4,99,0.1111111111111111,0.06060606060606061,0.06060606060606061,0.12121212121212122,0.050505050505050504,0.1919191919191919,0.0707070707070707,0.04040404040404041
+id_797,Depresion,2,3,0,4,3,4,0,2,41,0.04878048780487805,0.07317073170731707,0,0.0975609756097561,0.07317073170731707,0.0975609756097561,0,0.04878048780487805
+id_798,Ttno de Personalidad,0,1,0,0,0,0,0,0,17,0,0.058823529411764705,0,0,0,0,0,0
+id_799,Ttno Bipolar,1,2,1,2,1,1,2,3,33,0.030303030303030304,0.06060606060606061,0.030303030303030304,0.06060606060606061,0.030303030303030304,0.030303030303030304,0.06060606060606061,0.09090909090909091
+id_8,Ttno Bipolar,1,0,0,2,0,4,1,2,39,0.02564102564102564,0,0,0.05128205128205128,0,0.10256410256410256,0.02564102564102564,0.05128205128205128
+id_80,Ttno Bipolar,0,1,0,1,3,0,0,2,37,0,0.02702702702702703,0,0.02702702702702703,0.08108108108108109,0,0,0.05405405405405406
+id_800,Depresion,0,2,0,3,2,4,0,4,33,0,0.06060606060606061,0,0.09090909090909091,0.06060606060606061,0.12121212121212122,0,0.12121212121212122
+id_801,Ttno Bipolar,1,0,2,2,0,0,1,2,58,0.017241379310344827,0,0.034482758620689655,0.034482758620689655,0,0,0.017241379310344827,0.034482758620689655
+id_802,Ansiedad,13,23,13,26,9,28,9,18,395,0.03291139240506329,0.05822784810126582,0.03291139240506329,0.06582278481012659,0.02278481012658228,0.07088607594936709,0.02278481012658228,0.04556962025316456
+id_803,estrés,0,5,1,0,2,0,1,3,35,0,0.14285714285714285,0.02857142857142857,0,0.05714285714285714,0,0.02857142857142857,0.08571428571428572
+id_804,Ttno de Personalidad,4,8,5,6,2,7,2,4,131,0.030534351145038167,0.061068702290076333,0.03816793893129771,0.04580152671755725,0.015267175572519083,0.05343511450381679,0.015267175572519083,0.030534351145038167
+id_805,estrés,3,13,6,9,14,13,7,12,284,0.01056338028169014,0.045774647887323945,0.02112676056338028,0.03169014084507042,0.04929577464788732,0.045774647887323945,0.02464788732394366,0.04225352112676056
+id_806,estrés,0,0,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0.05555555555555555
+id_807,estrés,1,18,1,6,8,6,13,9,55,0.01818181818181818,0.32727272727272727,0.01818181818181818,0.10909090909090909,0.14545454545454545,0.10909090909090909,0.23636363636363636,0.16363636363636364
+id_808,Ttno Bipolar,8,3,4,10,2,9,1,5,139,0.05755395683453238,0.02158273381294964,0.02877697841726619,0.07194244604316546,0.014388489208633094,0.06474820143884892,0.007194244604316547,0.03597122302158273
+id_809,Ttno de Personalidad,0,4,0,2,2,1,2,7,62,0,0.06451612903225806,0,0.03225806451612903,0.03225806451612903,0.016129032258064516,0.03225806451612903,0.11290322580645161
+id_81,Ttno de Personalidad,1,2,0,2,1,2,1,3,33,0.030303030303030304,0.06060606060606061,0,0.06060606060606061,0.030303030303030304,0.06060606060606061,0.030303030303030304,0.09090909090909091
+id_810,estrés,0,3,1,2,4,3,0,4,71,0,0.04225352112676056,0.014084507042253521,0.028169014084507043,0.056338028169014086,0.04225352112676056,0,0.056338028169014086
+id_811,estrés,0,0,0,0,0,0,0,2,46,0,0,0,0,0,0,0,0.043478260869565216
+id_812,Ansiedad,0,1,0,0,1,0,1,1,18,0,0.05555555555555555,0,0,0.05555555555555555,0,0.05555555555555555,0.05555555555555555
+id_813,Ttno de Personalidad,2,3,3,4,1,1,4,4,143,0.013986013986013986,0.02097902097902098,0.02097902097902098,0.027972027972027972,0.006993006993006993,0.006993006993006993,0.027972027972027972,0.027972027972027972
+id_814,Ansiedad,14,11,7,22,8,22,10,11,153,0.0915032679738562,0.0718954248366013,0.0457516339869281,0.1437908496732026,0.05228758169934641,0.1437908496732026,0.06535947712418301,0.0718954248366013
+id_815,estrés,22,22,7,55,11,16,11,21,420,0.05238095238095238,0.05238095238095238,0.016666666666666666,0.13095238095238096,0.02619047619047619,0.0380952380952381,0.02619047619047619,0.05
+id_816,Ansiedad,1,1,0,3,0,5,0,0,13,0.07692307692307693,0.07692307692307693,0,0.23076923076923078,0,0.38461538461538464,0,0
+id_817,Ttno de Personalidad,2,4,1,3,1,6,0,5,62,0.03225806451612903,0.06451612903225806,0.016129032258064516,0.04838709677419355,0.016129032258064516,0.0967741935483871,0,0.08064516129032258
+id_818,Depresion,2,0,2,2,0,4,0,0,19,0.10526315789473684,0,0.10526315789473684,0.10526315789473684,0,0.21052631578947367,0,0
+id_819,Ttno Bipolar,4,6,4,6,5,9,3,8,148,0.02702702702702703,0.04054054054054054,0.02702702702702703,0.04054054054054054,0.033783783783783786,0.060810810810810814,0.02027027027027027,0.05405405405405406
+id_82,Ansiedad,4,3,4,5,1,4,4,2,44,0.09090909090909091,0.06818181818181818,0.09090909090909091,0.11363636363636363,0.022727272727272728,0.09090909090909091,0.09090909090909091,0.045454545454545456
+id_820,estrés,7,4,1,7,3,4,4,3,133,0.05263157894736842,0.03007518796992481,0.007518796992481203,0.05263157894736842,0.022556390977443608,0.03007518796992481,0.03007518796992481,0.022556390977443608
+id_821,Depresion,1,3,0,1,1,2,1,2,42,0.023809523809523808,0.07142857142857142,0,0.023809523809523808,0.023809523809523808,0.047619047619047616,0.023809523809523808,0.047619047619047616
+id_822,Ansiedad,6,7,0,7,0,6,2,2,85,0.07058823529411765,0.08235294117647059,0,0.08235294117647059,0,0.07058823529411765,0.023529411764705882,0.023529411764705882
+id_823,Ttno Bipolar,1,6,0,2,2,2,1,3,40,0.025,0.15,0,0.05,0.05,0.05,0.025,0.075
+id_824,Ttno de Personalidad,6,12,5,9,8,8,6,15,148,0.04054054054054054,0.08108108108108109,0.033783783783783786,0.060810810810810814,0.05405405405405406,0.05405405405405406,0.04054054054054054,0.10135135135135136
+id_825,estrés,5,17,6,3,8,7,7,9,189,0.026455026455026454,0.08994708994708994,0.031746031746031744,0.015873015873015872,0.042328042328042326,0.037037037037037035,0.037037037037037035,0.047619047619047616
+id_826,Ansiedad,3,6,2,15,8,15,5,7,42,0.07142857142857142,0.14285714285714285,0.047619047619047616,0.35714285714285715,0.19047619047619047,0.35714285714285715,0.11904761904761904,0.16666666666666666
+id_827,estrés,6,3,6,5,1,7,1,8,119,0.05042016806722689,0.025210084033613446,0.05042016806722689,0.04201680672268908,0.008403361344537815,0.058823529411764705,0.008403361344537815,0.06722689075630252
+id_828,Ttno Bipolar,1,0,0,1,0,2,0,0,21,0.047619047619047616,0,0,0.047619047619047616,0,0.09523809523809523,0,0
+id_829,Ansiedad,2,1,1,2,2,3,0,2,32,0.0625,0.03125,0.03125,0.0625,0.0625,0.09375,0,0.0625
+id_83,Depresion,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+id_830,Depresion,6,6,9,9,7,10,2,4,99,0.06060606060606061,0.06060606060606061,0.09090909090909091,0.09090909090909091,0.0707070707070707,0.10101010101010101,0.020202020202020204,0.04040404040404041
+id_831,Depresion,3,4,0,1,2,1,2,2,33,0.09090909090909091,0.12121212121212122,0,0.030303030303030304,0.06060606060606061,0.030303030303030304,0.06060606060606061,0.06060606060606061
+id_832,estrés,2,0,1,0,0,0,0,0,11,0.18181818181818182,0,0.09090909090909091,0,0,0,0,0
+id_833,Ttno de Personalidad,0,2,0,1,2,1,0,6,52,0,0.038461538461538464,0,0.019230769230769232,0.038461538461538464,0.019230769230769232,0,0.11538461538461539
+id_834,estrés,22,11,16,31,10,21,6,16,358,0.061452513966480445,0.030726256983240222,0.0446927374301676,0.08659217877094973,0.027932960893854747,0.05865921787709497,0.01675977653631285,0.0446927374301676
+id_835,estrés,2,9,2,6,8,9,5,11,137,0.014598540145985401,0.06569343065693431,0.014598540145985401,0.043795620437956206,0.058394160583941604,0.06569343065693431,0.0364963503649635,0.08029197080291971
+id_836,Ttno Bipolar,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+id_837,Ansiedad,2,3,0,3,1,3,0,1,34,0.058823529411764705,0.08823529411764706,0,0.08823529411764706,0.029411764705882353,0.08823529411764706,0,0.029411764705882353
+id_838,estrés,0,1,1,3,1,2,1,2,38,0,0.02631578947368421,0.02631578947368421,0.07894736842105263,0.02631578947368421,0.05263157894736842,0.02631578947368421,0.05263157894736842
+id_839,estrés,11,9,4,13,8,12,1,13,145,0.07586206896551724,0.06206896551724138,0.027586206896551724,0.0896551724137931,0.05517241379310345,0.08275862068965517,0.006896551724137931,0.0896551724137931
+id_84,Depresion,27,7,12,39,5,39,12,6,189,0.14285714285714285,0.037037037037037035,0.06349206349206349,0.20634920634920634,0.026455026455026454,0.20634920634920634,0.06349206349206349,0.031746031746031744
+id_840,estrés,0,6,0,1,3,0,1,6,80,0,0.075,0,0.0125,0.0375,0,0.0125,0.075
+id_841,estrés,6,7,0,3,7,2,4,13,120,0.05,0.058333333333333334,0,0.025,0.058333333333333334,0.016666666666666666,0.03333333333333333,0.10833333333333334
+id_842,Ttno Bipolar,1,0,1,3,0,2,0,0,38,0.02631578947368421,0,0.02631578947368421,0.07894736842105263,0,0.05263157894736842,0,0
+id_843,Ttno Bipolar,1,0,2,5,0,3,0,0,14,0.07142857142857142,0,0.14285714285714285,0.35714285714285715,0,0.21428571428571427,0,0
+id_844,Ttno de Personalidad,2,4,4,6,2,7,2,3,100,0.02,0.04,0.04,0.06,0.02,0.07,0.02,0.03
+id_845,Ansiedad,0,3,0,1,2,0,2,3,53,0,0.05660377358490566,0,0.018867924528301886,0.03773584905660377,0,0.03773584905660377,0.05660377358490566
+id_846,Ttno Bipolar,2,0,2,2,0,3,0,1,13,0.15384615384615385,0,0.15384615384615385,0.15384615384615385,0,0.23076923076923078,0,0.07692307692307693
+id_847,estrés,4,2,0,3,0,1,1,1,46,0.08695652173913043,0.043478260869565216,0,0.06521739130434782,0,0.021739130434782608,0.021739130434782608,0.021739130434782608
+id_848,Ansiedad,5,9,5,10,1,8,9,1,74,0.06756756756756757,0.12162162162162163,0.06756756756756757,0.13513513513513514,0.013513513513513514,0.10810810810810811,0.12162162162162163,0.013513513513513514
+id_849,estrés,0,2,0,0,2,0,1,6,62,0,0.03225806451612903,0,0,0.03225806451612903,0,0.016129032258064516,0.0967741935483871
+id_85,Ttno de Personalidad,0,0,0,0,0,0,0,1,24,0,0,0,0,0,0,0,0.041666666666666664
+id_850,Depresion,11,7,7,16,3,19,3,8,134,0.08208955223880597,0.05223880597014925,0.05223880597014925,0.11940298507462686,0.022388059701492536,0.1417910447761194,0.022388059701492536,0.05970149253731343
+id_851,Ansiedad,4,1,3,10,0,12,2,2,59,0.06779661016949153,0.01694915254237288,0.05084745762711865,0.1694915254237288,0,0.2033898305084746,0.03389830508474576,0.03389830508474576
+id_852,Ttno Bipolar,1,1,0,1,2,2,1,3,32,0.03125,0.03125,0,0.03125,0.0625,0.0625,0.03125,0.09375
+id_853,Ansiedad,7,3,3,9,2,4,2,1,51,0.13725490196078433,0.058823529411764705,0.058823529411764705,0.17647058823529413,0.0392156862745098,0.0784313725490196,0.0392156862745098,0.0196078431372549
+id_854,Ttno Bipolar,0,2,0,1,1,2,1,1,26,0,0.07692307692307693,0,0.038461538461538464,0.038461538461538464,0.07692307692307693,0.038461538461538464,0.038461538461538464
+id_855,Depresion,1,3,0,1,3,1,0,2,61,0.01639344262295082,0.04918032786885246,0,0.01639344262295082,0.04918032786885246,0.01639344262295082,0,0.03278688524590164
+id_856,estrés,4,2,4,4,3,10,3,5,117,0.03418803418803419,0.017094017094017096,0.03418803418803419,0.03418803418803419,0.02564102564102564,0.08547008547008547,0.02564102564102564,0.042735042735042736
+id_857,Ttno de Personalidad,0,2,0,1,0,0,1,1,13,0,0.15384615384615385,0,0.07692307692307693,0,0,0.07692307692307693,0.07692307692307693
+id_858,estrés,1,2,2,4,2,2,2,4,38,0.02631578947368421,0.05263157894736842,0.05263157894736842,0.10526315789473684,0.05263157894736842,0.05263157894736842,0.05263157894736842,0.10526315789473684
+id_859,Ttno Bipolar,0,0,0,2,0,2,0,0,35,0,0,0,0.05714285714285714,0,0.05714285714285714,0,0
+id_86,estrés,6,4,5,10,0,15,7,0,76,0.07894736842105263,0.05263157894736842,0.06578947368421052,0.13157894736842105,0,0.19736842105263158,0.09210526315789473,0
+id_860,Ttno Bipolar,8,5,12,14,4,11,3,11,109,0.07339449541284404,0.045871559633027525,0.11009174311926606,0.12844036697247707,0.03669724770642202,0.10091743119266056,0.027522935779816515,0.10091743119266056
+id_861,Ttno Bipolar,1,2,1,5,5,6,1,7,135,0.007407407407407408,0.014814814814814815,0.007407407407407408,0.037037037037037035,0.037037037037037035,0.044444444444444446,0.007407407407407408,0.05185185185185185
+id_862,Ttno de Personalidad,0,5,0,0,3,1,1,3,19,0,0.2631578947368421,0,0,0.15789473684210525,0.05263157894736842,0.05263157894736842,0.15789473684210525
+id_863,Ttno Bipolar,11,12,7,20,8,11,11,9,112,0.09821428571428571,0.10714285714285714,0.0625,0.17857142857142858,0.07142857142857142,0.09821428571428571,0.09821428571428571,0.08035714285714286
+id_864,Ttno de Personalidad,1,6,0,1,5,1,3,4,51,0.0196078431372549,0.11764705882352941,0,0.0196078431372549,0.09803921568627451,0.0196078431372549,0.058823529411764705,0.0784313725490196
+id_865,Ttno de Personalidad,0,0,0,0,0,0,0,3,28,0,0,0,0,0,0,0,0.10714285714285714
+id_866,Ttno Bipolar,10,16,8,15,10,12,11,13,179,0.055865921787709494,0.0893854748603352,0.0446927374301676,0.08379888268156424,0.055865921787709494,0.0670391061452514,0.061452513966480445,0.07262569832402235
+id_867,Ttno Bipolar,4,1,3,2,1,3,1,2,26,0.15384615384615385,0.038461538461538464,0.11538461538461539,0.07692307692307693,0.038461538461538464,0.11538461538461539,0.038461538461538464,0.07692307692307693
+id_868,estrés,1,7,1,3,5,1,3,12,78,0.01282051282051282,0.08974358974358974,0.01282051282051282,0.038461538461538464,0.0641025641025641,0.01282051282051282,0.038461538461538464,0.15384615384615385
+id_869,Ttno Bipolar,4,5,2,7,3,10,3,5,67,0.05970149253731343,0.07462686567164178,0.029850746268656716,0.1044776119402985,0.04477611940298507,0.14925373134328357,0.04477611940298507,0.07462686567164178
+id_87,estrés,0,1,1,1,0,1,0,0,21,0,0.047619047619047616,0.047619047619047616,0.047619047619047616,0,0.047619047619047616,0,0
+id_870,Ttno Bipolar,6,5,5,9,5,11,3,4,60,0.1,0.08333333333333333,0.08333333333333333,0.15,0.08333333333333333,0.18333333333333332,0.05,0.06666666666666667
+id_871,Ansiedad,4,3,0,2,0,2,0,1,84,0.047619047619047616,0.03571428571428571,0,0.023809523809523808,0,0.023809523809523808,0,0.011904761904761904
+id_872,Ansiedad,4,5,2,17,0,11,2,2,130,0.03076923076923077,0.038461538461538464,0.015384615384615385,0.13076923076923078,0,0.08461538461538462,0.015384615384615385,0.015384615384615385
+id_873,Ansiedad,3,5,0,6,5,7,1,11,105,0.02857142857142857,0.047619047619047616,0,0.05714285714285714,0.047619047619047616,0.06666666666666667,0.009523809523809525,0.10476190476190476
+id_874,Depresion,4,6,5,4,3,7,1,5,84,0.047619047619047616,0.07142857142857142,0.05952380952380952,0.047619047619047616,0.03571428571428571,0.08333333333333333,0.011904761904761904,0.05952380952380952
+id_875,Ttno Bipolar,1,2,0,2,7,1,1,6,78,0.01282051282051282,0.02564102564102564,0,0.02564102564102564,0.08974358974358974,0.01282051282051282,0.01282051282051282,0.07692307692307693
+id_876,Ttno de Personalidad,0,1,1,0,2,1,1,3,47,0,0.02127659574468085,0.02127659574468085,0,0.0425531914893617,0.02127659574468085,0.02127659574468085,0.06382978723404255
+id_877,estrés,1,2,2,4,2,7,2,3,29,0.034482758620689655,0.06896551724137931,0.06896551724137931,0.13793103448275862,0.06896551724137931,0.2413793103448276,0.06896551724137931,0.10344827586206896
+id_878,Depresion,0,9,0,1,7,5,4,12,89,0,0.10112359550561797,0,0.011235955056179775,0.07865168539325842,0.056179775280898875,0.0449438202247191,0.1348314606741573
+id_879,Ttno de Personalidad,1,0,2,0,0,0,0,0,5,0.2,0,0.4,0,0,0,0,0
+id_88,Ttno de Personalidad,5,13,5,8,7,5,7,12,157,0.03184713375796178,0.08280254777070063,0.03184713375796178,0.050955414012738856,0.044585987261146494,0.03184713375796178,0.044585987261146494,0.07643312101910828
+id_880,Depresion,4,5,3,2,4,6,1,4,101,0.039603960396039604,0.04950495049504951,0.0297029702970297,0.019801980198019802,0.039603960396039604,0.0594059405940594,0.009900990099009901,0.039603960396039604
+id_881,Ansiedad,6,11,3,20,3,9,8,5,232,0.02586206896551724,0.047413793103448273,0.01293103448275862,0.08620689655172414,0.01293103448275862,0.03879310344827586,0.034482758620689655,0.021551724137931036
+id_882,Ansiedad,4,5,1,7,0,5,0,0,83,0.04819277108433735,0.060240963855421686,0.012048192771084338,0.08433734939759036,0,0.060240963855421686,0,0
+id_883,Ttno Bipolar,0,0,1,0,0,0,0,1,36,0,0,0.027777777777777776,0,0,0,0,0.027777777777777776
+id_884,Depresion,1,1,0,3,2,0,1,1,15,0.06666666666666667,0.06666666666666667,0,0.2,0.13333333333333333,0,0.06666666666666667,0.06666666666666667
+id_885,estrés,1,5,0,1,3,2,1,4,42,0.023809523809523808,0.11904761904761904,0,0.023809523809523808,0.07142857142857142,0.047619047619047616,0.023809523809523808,0.09523809523809523
+id_886,Ttno de Personalidad,4,6,9,12,4,9,1,4,101,0.039603960396039604,0.0594059405940594,0.0891089108910891,0.1188118811881188,0.039603960396039604,0.0891089108910891,0.009900990099009901,0.039603960396039604
+id_887,estrés,0,3,0,0,1,0,0,2,23,0,0.13043478260869565,0,0,0.043478260869565216,0,0,0.08695652173913043
+id_888,Ansiedad,6,1,6,8,1,7,3,6,68,0.08823529411764706,0.014705882352941176,0.08823529411764706,0.11764705882352941,0.014705882352941176,0.10294117647058823,0.04411764705882353,0.08823529411764706
+id_889,Ttno Bipolar,2,2,0,2,2,1,1,2,39,0.05128205128205128,0.05128205128205128,0,0.05128205128205128,0.05128205128205128,0.02564102564102564,0.02564102564102564,0.05128205128205128
+id_89,Ttno Bipolar,0,1,0,0,0,0,0,2,24,0,0.041666666666666664,0,0,0,0,0,0.08333333333333333
+id_890,Ttno Bipolar,2,5,2,6,7,5,1,8,68,0.029411764705882353,0.07352941176470588,0.029411764705882353,0.08823529411764706,0.10294117647058823,0.07352941176470588,0.014705882352941176,0.11764705882352941
+id_891,Ansiedad,5,5,1,10,6,7,0,6,103,0.04854368932038835,0.04854368932038835,0.009708737864077669,0.0970873786407767,0.05825242718446602,0.06796116504854369,0,0.05825242718446602
+id_892,Depresion,3,1,1,4,1,2,1,4,45,0.06666666666666667,0.022222222222222223,0.022222222222222223,0.08888888888888889,0.022222222222222223,0.044444444444444446,0.022222222222222223,0.08888888888888889
+id_893,estrés,1,1,0,1,0,1,0,0,47,0.02127659574468085,0.02127659574468085,0,0.02127659574468085,0,0.02127659574468085,0,0
+id_894,Depresion,1,0,1,2,0,1,0,1,36,0.027777777777777776,0,0.027777777777777776,0.05555555555555555,0,0.027777777777777776,0,0.027777777777777776
+id_895,estrés,1,2,0,1,0,1,0,1,15,0.06666666666666667,0.13333333333333333,0,0.06666666666666667,0,0.06666666666666667,0,0.06666666666666667
+id_896,estrés,0,0,0,2,4,2,0,7,49,0,0,0,0.04081632653061224,0.08163265306122448,0.04081632653061224,0,0.14285714285714285
+id_897,Depresion,5,6,0,7,4,5,4,4,55,0.09090909090909091,0.10909090909090909,0,0.12727272727272726,0.07272727272727272,0.09090909090909091,0.07272727272727272,0.07272727272727272
+id_898,Ansiedad,1,2,1,1,1,3,2,2,46,0.021739130434782608,0.043478260869565216,0.021739130434782608,0.021739130434782608,0.021739130434782608,0.06521739130434782,0.043478260869565216,0.043478260869565216
+id_899,Depresion,0,8,0,0,9,2,7,16,179,0,0.0446927374301676,0,0,0.05027932960893855,0.0111731843575419,0.03910614525139665,0.0893854748603352
+id_9,Ttno Bipolar,0,1,0,0,1,0,1,0,25,0,0.04,0,0,0.04,0,0.04,0
+id_90,Depresion,2,4,3,5,5,3,1,7,81,0.024691358024691357,0.04938271604938271,0.037037037037037035,0.06172839506172839,0.06172839506172839,0.037037037037037035,0.012345679012345678,0.08641975308641975
+id_900,Ttno de Personalidad,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+id_901,Ttno de Personalidad,2,3,3,8,4,7,2,4,88,0.022727272727272728,0.03409090909090909,0.03409090909090909,0.09090909090909091,0.045454545454545456,0.07954545454545454,0.022727272727272728,0.045454545454545456
+id_902,Ttno Bipolar,1,6,1,4,1,1,2,1,66,0.015151515151515152,0.09090909090909091,0.015151515151515152,0.06060606060606061,0.015151515151515152,0.015151515151515152,0.030303030303030304,0.015151515151515152
+id_903,Ttno de Personalidad,1,10,1,4,6,1,4,3,98,0.01020408163265306,0.10204081632653061,0.01020408163265306,0.04081632653061224,0.061224489795918366,0.01020408163265306,0.04081632653061224,0.030612244897959183
+id_904,estrés,4,5,2,9,2,3,3,3,69,0.057971014492753624,0.07246376811594203,0.028985507246376812,0.13043478260869565,0.028985507246376812,0.043478260869565216,0.043478260869565216,0.043478260869565216
+id_905,Depresion,2,8,1,7,5,8,6,6,122,0.01639344262295082,0.06557377049180328,0.00819672131147541,0.05737704918032787,0.040983606557377046,0.06557377049180328,0.04918032786885246,0.04918032786885246
+id_906,Ansiedad,0,7,0,4,3,0,6,2,32,0,0.21875,0,0.125,0.09375,0,0.1875,0.0625
+id_907,Ttno de Personalidad,0,0,0,1,0,0,0,1,6,0,0,0,0.16666666666666666,0,0,0,0.16666666666666666
+id_908,estrés,0,2,0,0,0,1,0,0,64,0,0.03125,0,0,0,0.015625,0,0
+id_909,Ansiedad,1,2,0,1,1,1,1,1,5,0.2,0.4,0,0.2,0.2,0.2,0.2,0.2
+id_91,Ttno de Personalidad,4,5,2,7,3,5,4,3,46,0.08695652173913043,0.10869565217391304,0.043478260869565216,0.15217391304347827,0.06521739130434782,0.10869565217391304,0.08695652173913043,0.06521739130434782
+id_910,Ttno Bipolar,0,2,0,3,2,4,1,1,31,0,0.06451612903225806,0,0.0967741935483871,0.06451612903225806,0.12903225806451613,0.03225806451612903,0.03225806451612903
+id_911,Ttno de Personalidad,2,7,2,2,5,4,1,9,135,0.014814814814814815,0.05185185185185185,0.014814814814814815,0.014814814814814815,0.037037037037037035,0.02962962962962963,0.007407407407407408,0.06666666666666667
+id_912,Ansiedad,0,0,0,0,1,1,0,0,11,0,0,0,0,0.09090909090909091,0.09090909090909091,0,0
+id_913,Depresion,0,3,0,2,5,1,2,8,50,0,0.06,0,0.04,0.1,0.02,0.04,0.16
+id_914,Depresion,1,2,3,1,0,3,0,1,43,0.023255813953488372,0.046511627906976744,0.06976744186046512,0.023255813953488372,0,0.06976744186046512,0,0.023255813953488372
+id_915,estrés,0,2,0,0,0,0,0,2,13,0,0.15384615384615385,0,0,0,0,0,0.15384615384615385
+id_916,Ansiedad,5,0,5,3,0,5,0,1,34,0.14705882352941177,0,0.14705882352941177,0.08823529411764706,0,0.14705882352941177,0,0.029411764705882353
+id_917,Ttno Bipolar,0,1,0,0,1,1,0,3,32,0,0.03125,0,0,0.03125,0.03125,0,0.09375
+id_918,Depresion,5,0,2,3,1,2,0,2,40,0.125,0,0.05,0.075,0.025,0.05,0,0.05
+id_919,Ttno de Personalidad,8,7,3,11,0,9,3,3,74,0.10810810810810811,0.0945945945945946,0.04054054054054054,0.14864864864864866,0,0.12162162162162163,0.04054054054054054,0.04054054054054054
+id_92,Ansiedad,5,3,4,11,0,17,1,0,48,0.10416666666666667,0.0625,0.08333333333333333,0.22916666666666666,0,0.3541666666666667,0.020833333333333332,0
+id_920,estrés,0,0,0,1,1,1,0,2,11,0,0,0,0.09090909090909091,0.09090909090909091,0.09090909090909091,0,0.18181818181818182
+id_921,Depresion,0,1,2,0,0,0,0,1,32,0,0.03125,0.0625,0,0,0,0,0.03125
+id_922,Depresion,1,1,1,1,1,2,2,1,12,0.08333333333333333,0.08333333333333333,0.08333333333333333,0.08333333333333333,0.08333333333333333,0.16666666666666666,0.16666666666666666,0.08333333333333333
+id_923,Ansiedad,6,10,2,13,0,13,1,5,132,0.045454545454545456,0.07575757575757576,0.015151515151515152,0.09848484848484848,0,0.09848484848484848,0.007575757575757576,0.03787878787878788
+id_924,Ttno de Personalidad,2,5,0,1,7,2,2,9,127,0.015748031496062992,0.03937007874015748,0,0.007874015748031496,0.05511811023622047,0.015748031496062992,0.015748031496062992,0.07086614173228346
+id_925,Ttno de Personalidad,3,2,2,3,1,6,2,4,60,0.05,0.03333333333333333,0.03333333333333333,0.05,0.016666666666666666,0.1,0.03333333333333333,0.06666666666666667
+id_926,Depresion,3,4,2,3,3,7,2,3,54,0.05555555555555555,0.07407407407407407,0.037037037037037035,0.05555555555555555,0.05555555555555555,0.12962962962962962,0.037037037037037035,0.05555555555555555
+id_927,estrés,0,3,0,1,0,1,0,3,42,0,0.07142857142857142,0,0.023809523809523808,0,0.023809523809523808,0,0.07142857142857142
+id_928,Depresion,3,0,2,3,0,4,0,0,19,0.15789473684210525,0,0.10526315789473684,0.15789473684210525,0,0.21052631578947367,0,0
+id_929,Depresion,2,9,4,4,6,17,6,6,105,0.01904761904761905,0.08571428571428572,0.0380952380952381,0.0380952380952381,0.05714285714285714,0.1619047619047619,0.05714285714285714,0.05714285714285714
+id_93,Ansiedad,6,0,13,13,0,14,0,0,48,0.125,0,0.2708333333333333,0.2708333333333333,0,0.2916666666666667,0,0
+id_930,Ttno Bipolar,2,0,1,2,0,0,0,0,30,0.06666666666666667,0,0.03333333333333333,0.06666666666666667,0,0,0,0
+id_931,Depresion,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+id_932,Depresion,6,9,7,5,9,8,4,10,158,0.0379746835443038,0.056962025316455694,0.04430379746835443,0.03164556962025317,0.056962025316455694,0.05063291139240506,0.02531645569620253,0.06329113924050633
+id_933,Ansiedad,4,3,1,4,1,7,3,1,65,0.06153846153846154,0.046153846153846156,0.015384615384615385,0.06153846153846154,0.015384615384615385,0.1076923076923077,0.046153846153846156,0.015384615384615385
+id_934,Ttno de Personalidad,4,8,3,2,8,5,2,11,133,0.03007518796992481,0.06015037593984962,0.022556390977443608,0.015037593984962405,0.06015037593984962,0.03759398496240601,0.015037593984962405,0.08270676691729323
+id_935,Ttno de Personalidad,0,2,0,1,2,1,3,3,48,0,0.041666666666666664,0,0.020833333333333332,0.041666666666666664,0.020833333333333332,0.0625,0.0625
+id_937,Ttno Bipolar,0,0,0,0,0,0,1,3,27,0,0,0,0,0,0,0.037037037037037035,0.1111111111111111
+id_938,Depresion,0,1,0,0,0,0,0,0,22,0,0.045454545454545456,0,0,0,0,0,0
+id_939,Depresion,2,1,2,4,1,4,1,3,30,0.06666666666666667,0.03333333333333333,0.06666666666666667,0.13333333333333333,0.03333333333333333,0.13333333333333333,0.03333333333333333,0.1
+id_94,Ttno Bipolar,1,5,1,2,5,2,3,3,47,0.02127659574468085,0.10638297872340426,0.02127659574468085,0.0425531914893617,0.10638297872340426,0.0425531914893617,0.06382978723404255,0.06382978723404255
+id_940,Ttno Bipolar,0,0,0,0,0,2,1,2,36,0,0,0,0,0,0.05555555555555555,0.027777777777777776,0.05555555555555555
+id_941,Ttno de Personalidad,0,0,0,0,0,6,0,0,19,0,0,0,0,0,0.3157894736842105,0,0
+id_942,Depresion,2,5,1,4,2,4,1,3,83,0.024096385542168676,0.060240963855421686,0.012048192771084338,0.04819277108433735,0.024096385542168676,0.04819277108433735,0.012048192771084338,0.03614457831325301
+id_943,Depresion,1,5,3,1,1,3,2,6,140,0.007142857142857143,0.03571428571428571,0.02142857142857143,0.007142857142857143,0.007142857142857143,0.02142857142857143,0.014285714285714285,0.04285714285714286
+id_944,Ansiedad,5,10,0,10,3,8,2,5,128,0.0390625,0.078125,0,0.078125,0.0234375,0.0625,0.015625,0.0390625
+id_945,Ansiedad,8,9,2,5,5,5,3,5,54,0.14814814814814814,0.16666666666666666,0.037037037037037035,0.09259259259259259,0.09259259259259259,0.09259259259259259,0.05555555555555555,0.09259259259259259
+id_946,Depresion,1,2,1,3,1,5,0,5,109,0.009174311926605505,0.01834862385321101,0.009174311926605505,0.027522935779816515,0.009174311926605505,0.045871559633027525,0,0.045871559633027525
+id_947,Ttno de Personalidad,3,1,4,2,0,3,0,1,21,0.14285714285714285,0.047619047619047616,0.19047619047619047,0.09523809523809523,0,0.14285714285714285,0,0.047619047619047616
+id_948,Ttno de Personalidad,2,2,0,4,0,2,1,1,42,0.047619047619047616,0.047619047619047616,0,0.09523809523809523,0,0.047619047619047616,0.023809523809523808,0.023809523809523808
+id_949,Ansiedad,2,4,1,7,1,9,3,2,48,0.041666666666666664,0.08333333333333333,0.020833333333333332,0.14583333333333334,0.020833333333333332,0.1875,0.0625,0.041666666666666664
+id_95,Ttno de Personalidad,1,1,1,4,2,1,1,3,56,0.017857142857142856,0.017857142857142856,0.017857142857142856,0.07142857142857142,0.03571428571428571,0.017857142857142856,0.017857142857142856,0.05357142857142857
+id_950,Ansiedad,7,8,0,12,2,6,4,2,61,0.11475409836065574,0.13114754098360656,0,0.19672131147540983,0.03278688524590164,0.09836065573770492,0.06557377049180328,0.03278688524590164
+id_951,estrés,5,7,2,5,4,7,1,5,55,0.09090909090909091,0.12727272727272726,0.03636363636363636,0.09090909090909091,0.07272727272727272,0.12727272727272726,0.01818181818181818,0.09090909090909091
+id_952,Depresion,6,3,2,8,2,10,3,8,94,0.06382978723404255,0.031914893617021274,0.02127659574468085,0.0851063829787234,0.02127659574468085,0.10638297872340426,0.031914893617021274,0.0851063829787234
+id_953,estrés,2,8,3,2,8,9,5,10,134,0.014925373134328358,0.05970149253731343,0.022388059701492536,0.014925373134328358,0.05970149253731343,0.06716417910447761,0.03731343283582089,0.07462686567164178
+id_954,Depresion,0,1,0,1,1,0,1,1,23,0,0.043478260869565216,0,0.043478260869565216,0.043478260869565216,0,0.043478260869565216,0.043478260869565216
+id_955,Ttno Bipolar,0,3,0,1,1,1,1,2,102,0,0.029411764705882353,0,0.00980392156862745,0.00980392156862745,0.00980392156862745,0.00980392156862745,0.0196078431372549
+id_956,Ansiedad,1,1,0,1,0,1,0,0,22,0.045454545454545456,0.045454545454545456,0,0.045454545454545456,0,0.045454545454545456,0,0
+id_957,Ansiedad,3,9,0,4,12,3,0,14,147,0.02040816326530612,0.061224489795918366,0,0.027210884353741496,0.08163265306122448,0.02040816326530612,0,0.09523809523809523
+id_958,Depresion,0,0,0,1,1,0,1,1,15,0,0,0,0.06666666666666667,0.06666666666666667,0,0.06666666666666667,0.06666666666666667
+id_959,Depresion,0,1,0,2,0,2,0,2,17,0,0.058823529411764705,0,0.11764705882352941,0,0.11764705882352941,0,0.11764705882352941
+id_96,Ttno de Personalidad,8,5,8,6,7,9,2,8,131,0.061068702290076333,0.03816793893129771,0.061068702290076333,0.04580152671755725,0.05343511450381679,0.06870229007633588,0.015267175572519083,0.061068702290076333
+id_960,Ttno de Personalidad,0,0,0,0,0,1,1,3,33,0,0,0,0,0,0.030303030303030304,0.030303030303030304,0.09090909090909091
+id_961,estrés,1,0,0,1,0,1,0,0,20,0.05,0,0,0.05,0,0.05,0,0
+id_962,Ttno de Personalidad,3,8,5,5,4,8,3,7,111,0.02702702702702703,0.07207207207207207,0.04504504504504504,0.04504504504504504,0.036036036036036036,0.07207207207207207,0.02702702702702703,0.06306306306306306
+id_963,estrés,0,0,0,0,2,0,0,1,10,0,0,0,0,0.2,0,0,0.1
+id_964,Depresion,1,0,0,1,0,1,0,0,8,0.125,0,0,0.125,0,0.125,0,0
+id_965,Depresion,1,1,0,3,0,0,1,0,16,0.0625,0.0625,0,0.1875,0,0,0.0625,0
+id_966,Ttno Bipolar,0,0,0,0,0,0,0,1,16,0,0,0,0,0,0,0,0.0625
+id_967,Ttno de Personalidad,0,3,0,1,0,2,0,2,43,0,0.06976744186046512,0,0.023255813953488372,0,0.046511627906976744,0,0.046511627906976744
+id_968,estrés,2,5,3,6,4,4,1,2,67,0.029850746268656716,0.07462686567164178,0.04477611940298507,0.08955223880597014,0.05970149253731343,0.05970149253731343,0.014925373134328358,0.029850746268656716
+id_969,Ttno Bipolar,0,1,0,2,0,4,0,0,40,0,0.025,0,0.05,0,0.1,0,0
+id_97,Ttno de Personalidad,1,1,2,2,2,2,0,2,13,0.07692307692307693,0.07692307692307693,0.15384615384615385,0.15384615384615385,0.15384615384615385,0.15384615384615385,0,0.15384615384615385
+id_970,Depresion,4,6,0,3,2,4,1,10,112,0.03571428571428571,0.05357142857142857,0,0.026785714285714284,0.017857142857142856,0.03571428571428571,0.008928571428571428,0.08928571428571429
+id_971,Depresion,9,12,5,3,9,8,5,15,223,0.04035874439461883,0.053811659192825115,0.02242152466367713,0.013452914798206279,0.04035874439461883,0.03587443946188341,0.02242152466367713,0.06726457399103139
+id_972,estrés,3,8,1,5,2,4,2,8,112,0.026785714285714284,0.07142857142857142,0.008928571428571428,0.044642857142857144,0.017857142857142856,0.03571428571428571,0.017857142857142856,0.07142857142857142
+id_973,estrés,0,1,0,0,1,0,1,1,15,0,0.06666666666666667,0,0,0.06666666666666667,0,0.06666666666666667,0.06666666666666667
+id_974,estrés,1,4,0,2,3,4,3,5,39,0.02564102564102564,0.10256410256410256,0,0.05128205128205128,0.07692307692307693,0.10256410256410256,0.07692307692307693,0.1282051282051282
+id_975,Ttno Bipolar,2,1,4,4,2,3,1,8,39,0.05128205128205128,0.02564102564102564,0.10256410256410256,0.10256410256410256,0.05128205128205128,0.07692307692307693,0.02564102564102564,0.20512820512820512
+id_976,Ansiedad,4,4,1,6,1,5,2,1,32,0.125,0.125,0.03125,0.1875,0.03125,0.15625,0.0625,0.03125
+id_977,Ttno Bipolar,0,2,0,0,2,1,2,3,41,0,0.04878048780487805,0,0,0.04878048780487805,0.024390243902439025,0.04878048780487805,0.07317073170731707
+id_978,Ansiedad,2,6,1,4,2,3,1,5,42,0.047619047619047616,0.14285714285714285,0.023809523809523808,0.09523809523809523,0.047619047619047616,0.07142857142857142,0.023809523809523808,0.11904761904761904
+id_979,Ttno Bipolar,1,1,0,3,0,2,1,0,38,0.02631578947368421,0.02631578947368421,0,0.07894736842105263,0,0.05263157894736842,0.02631578947368421,0
+id_98,estrés,6,17,4,9,6,14,8,11,126,0.047619047619047616,0.1349206349206349,0.031746031746031744,0.07142857142857142,0.047619047619047616,0.1111111111111111,0.06349206349206349,0.0873015873015873
+id_980,Ttno Bipolar,3,4,2,3,3,9,2,2,39,0.07692307692307693,0.10256410256410256,0.05128205128205128,0.07692307692307693,0.07692307692307693,0.23076923076923078,0.05128205128205128,0.05128205128205128
+id_981,Ansiedad,4,1,5,6,0,14,0,3,71,0.056338028169014086,0.014084507042253521,0.07042253521126761,0.08450704225352113,0,0.19718309859154928,0,0.04225352112676056
+id_982,Ttno de Personalidad,3,5,0,6,1,3,0,7,56,0.05357142857142857,0.08928571428571429,0,0.10714285714285714,0.017857142857142856,0.05357142857142857,0,0.125
+id_983,Ttno de Personalidad,2,0,1,2,0,3,1,2,36,0.05555555555555555,0,0.027777777777777776,0.05555555555555555,0,0.08333333333333333,0.027777777777777776,0.05555555555555555
+id_984,estrés,3,3,2,4,3,4,1,5,47,0.06382978723404255,0.06382978723404255,0.0425531914893617,0.0851063829787234,0.06382978723404255,0.0851063829787234,0.02127659574468085,0.10638297872340426
+id_985,estrés,0,1,0,0,1,0,0,6,100,0,0.01,0,0,0.01,0,0,0.06
+id_986,estrés,1,10,1,1,9,4,1,11,151,0.006622516556291391,0.06622516556291391,0.006622516556291391,0.006622516556291391,0.059602649006622516,0.026490066225165563,0.006622516556291391,0.0728476821192053
+id_987,Depresion,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+id_988,estrés,1,8,1,2,7,6,8,9,111,0.009009009009009009,0.07207207207207207,0.009009009009009009,0.018018018018018018,0.06306306306306306,0.05405405405405406,0.07207207207207207,0.08108108108108109
+id_989,Depresion,2,0,1,2,2,1,0,5,55,0.03636363636363636,0,0.01818181818181818,0.03636363636363636,0.03636363636363636,0.01818181818181818,0,0.09090909090909091
+id_99,Ansiedad,8,7,6,17,1,33,2,3,99,0.08080808080808081,0.0707070707070707,0.06060606060606061,0.1717171717171717,0.010101010101010102,0.3333333333333333,0.020202020202020204,0.030303030303030304
+id_990,estrés,5,7,3,14,1,14,7,8,130,0.038461538461538464,0.05384615384615385,0.023076923076923078,0.1076923076923077,0.007692307692307693,0.1076923076923077,0.05384615384615385,0.06153846153846154
+id_991,Depresion,4,6,5,6,12,7,3,12,87,0.04597701149425287,0.06896551724137931,0.05747126436781609,0.06896551724137931,0.13793103448275862,0.08045977011494253,0.034482758620689655,0.13793103448275862
+id_992,Ttno Bipolar,5,14,5,7,10,12,8,12,238,0.02100840336134454,0.058823529411764705,0.02100840336134454,0.029411764705882353,0.04201680672268908,0.05042016806722689,0.03361344537815126,0.05042016806722689
+id_993,Ttno de Personalidad,1,1,0,1,4,1,1,2,67,0.014925373134328358,0.014925373134328358,0,0.014925373134328358,0.05970149253731343,0.014925373134328358,0.014925373134328358,0.029850746268656716
+id_994,Ttno de Personalidad,2,1,2,2,1,4,0,2,103,0.019417475728155338,0.009708737864077669,0.019417475728155338,0.019417475728155338,0.009708737864077669,0.038834951456310676,0,0.019417475728155338
+id_995,Ttno de Personalidad,5,2,7,5,1,6,0,3,76,0.06578947368421052,0.02631578947368421,0.09210526315789473,0.06578947368421052,0.013157894736842105,0.07894736842105263,0,0.039473684210526314
+id_996,Ansiedad,1,5,0,3,0,1,1,1,23,0.043478260869565216,0.21739130434782608,0,0.13043478260869565,0,0.043478260869565216,0.043478260869565216,0.043478260869565216
+id_997,Depresion,6,5,5,6,2,8,0,4,50,0.12,0.1,0.1,0.12,0.04,0.16,0,0.08
+id_998,estrés,1,3,0,1,1,1,0,4,61,0.01639344262295082,0.04918032786885246,0,0.01639344262295082,0.01639344262295082,0.01639344262295082,0,0.06557377049180328
+id_999,estrés,1,4,0,2,3,4,3,5,39,0.02564102564102564,0.10256410256410256,0,0.05128205128205128,0.07692307692307693,0.10256410256410256,0.07692307692307693,0.1282051282051282
