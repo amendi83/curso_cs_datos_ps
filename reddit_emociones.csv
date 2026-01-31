@@ -1,0 +1,992 @@
+id,diagnostico,anger,anticipation,disgust,fear,joy,sadness,surprise,trust,negative,positive
+id_1,Depresion,1,2,1,1,2,1,0,2,1,2
+id_10,Depresion,11,28,8,12,23,18,13,26,20,37
+id_100,Depresion,1,3,0,1,3,1,0,2,1,6
+id_101,Ansiedad,0,3,0,1,2,0,1,3,0,4
+id_102,Ttno Bipolar,1,4,1,2,2,1,2,7,4,12
+id_103,Ansiedad,0,0,0,1,0,1,0,0,2,0
+id_104,Depresion,2,7,1,5,5,7,3,9,9,13
+id_105,Depresion,6,7,1,9,3,8,6,6,11,7
+id_106,Ttno Bipolar,30,42,16,27,27,32,14,34,42,56
+id_107,Ttno de Personalidad,0,0,0,0,1,0,0,1,0,2
+id_108,Ansiedad,6,8,2,9,0,7,3,3,7,4
+id_109,Depresion,1,2,1,1,1,2,0,3,4,4
+id_11,Ansiedad,6,7,2,6,1,4,3,2,6,5
+id_110,Ttno Bipolar,2,4,2,5,2,8,1,4,12,7
+id_111,Ttno Bipolar,1,3,0,1,1,3,0,1,5,4
+id_112,Depresion,2,4,1,3,2,5,0,5,6,8
+id_113,Ansiedad,4,3,0,3,1,2,1,1,6,3
+id_114,Depresion,9,8,4,10,2,8,2,8,12,11
+id_115,Depresion,2,6,1,4,4,3,1,5,4,10
+id_116,Depresion,3,3,0,5,2,5,1,1,6,5
+id_117,Depresion,1,3,0,2,0,1,1,1,2,4
+id_118,Ansiedad,10,10,6,13,7,9,8,13,19,18
+id_119,estrés,3,5,1,5,1,2,1,4,3,5
+id_12,Depresion,2,1,2,2,2,3,0,2,3,4
+id_120,Ansiedad,4,3,2,4,0,4,2,1,6,1
+id_121,Ttno de Personalidad,2,2,2,2,4,4,1,6,5,9
+id_122,Depresion,1,2,1,3,2,2,1,2,2,2
+id_123,Ttno Bipolar,3,5,1,3,6,3,2,6,6,8
+id_124,Depresion,3,4,0,4,4,5,2,5,7,10
+id_125,Depresion,3,8,1,4,4,3,0,6,5,12
+id_126,estrés,0,1,1,1,1,1,0,1,1,1
+id_127,Ttno de Personalidad,2,8,0,2,2,0,3,2,2,5
+id_128,Depresion,0,1,1,0,1,0,1,1,2,1
+id_129,Ttno Bipolar,0,0,2,3,1,4,1,4,4,5
+id_13,Ttno Bipolar,0,2,1,0,1,0,2,3,3,4
+id_130,Ttno de Personalidad,0,3,1,2,0,1,0,0,2,4
+id_131,Ansiedad,5,6,1,5,1,4,2,1,5,6
+id_132,Ansiedad,3,2,0,2,0,2,1,0,3,1
+id_133,Ansiedad,0,0,0,0,2,0,0,2,0,2
+id_134,Depresion,1,7,2,0,2,1,2,9,1,17
+id_135,Ttno Bipolar,1,4,0,1,3,3,2,4,2,8
+id_136,Ansiedad,1,1,0,1,0,1,0,0,1,1
+id_137,estrés,4,1,1,3,0,4,0,1,6,6
+id_138,Ttno de Personalidad,1,3,0,1,4,2,1,4,2,6
+id_139,Ttno de Personalidad,2,2,1,1,1,0,0,6,3,12
+id_14,Ttno de Personalidad,9,12,3,5,11,9,9,13,10,16
+id_140,Ttno de Personalidad,2,3,1,3,0,2,0,1,3,3
+id_141,Ttno Bipolar,6,6,3,6,1,7,0,2,10,14
+id_142,estrés,3,6,1,6,1,4,0,4,8,13
+id_143,Ansiedad,0,2,0,0,1,0,1,1,0,2
+id_144,Ansiedad,2,4,1,2,1,2,1,3,3,9
+id_145,Ansiedad,5,9,0,7,3,6,2,3,8,10
+id_146,Depresion,1,1,1,0,0,1,0,0,3,3
+id_147,Ttno Bipolar,5,3,6,6,1,5,1,4,6,3
+id_148,Ansiedad,4,7,2,5,3,5,1,5,5,6
+id_149,Depresion,1,1,1,3,0,2,1,1,1,1
+id_15,Ttno Bipolar,0,1,0,0,1,1,0,1,1,1
+id_150,estrés,5,11,6,6,8,5,10,11,8,20
+id_151,Ttno de Personalidad,1,1,1,0,1,0,0,2,1,5
+id_152,Ttno Bipolar,5,1,4,5,0,7,1,1,9,5
+id_153,Ansiedad,5,7,3,7,1,8,2,4,10,5
+id_154,Ttno de Personalidad,1,0,1,1,0,1,0,2,1,3
+id_155,Ttno Bipolar,3,7,3,5,4,7,2,7,11,13
+id_157,Ttno Bipolar,0,2,0,3,0,2,0,2,1,6
+id_158,estrés,0,0,0,0,1,0,0,1,0,3
+id_159,Ansiedad,2,1,0,2,0,2,0,1,2,0
+id_16,Ttno Bipolar,0,2,0,1,1,0,1,1,0,3
+id_160,estrés,2,6,0,0,5,2,3,6,1,8
+id_161,Ttno de Personalidad,2,8,1,1,9,6,4,8,6,22
+id_162,Ttno Bipolar,0,3,0,5,2,3,2,5,7,9
+id_163,Depresion,4,10,2,3,8,6,9,10,7,11
+id_164,Depresion,5,7,4,8,3,8,2,6,8,6
+id_165,estrés,5,4,2,5,6,6,2,12,8,20
+id_166,Ttno Bipolar,3,0,2,4,0,4,0,4,4,1
+id_167,estrés,1,0,3,1,1,3,1,1,3,1
+id_168,Depresion,4,5,2,8,2,11,3,8,14,11
+id_169,Ttno Bipolar,5,2,3,5,2,6,0,5,7,5
+id_17,Depresion,3,5,3,4,7,6,2,5,8,12
+id_170,Ttno Bipolar,2,2,2,1,1,2,0,2,2,3
+id_171,Depresion,0,0,3,0,0,4,0,5,2,1
+id_172,Depresion,1,10,1,2,10,2,8,10,2,14
+id_173,Depresion,1,2,0,2,1,3,1,2,2,3
+id_174,Depresion,0,0,0,0,0,0,0,0,0,0
+id_175,estrés,0,0,0,0,0,0,0,0,0,1
+id_176,estrés,11,19,10,18,12,22,10,16,29,42
+id_177,Ttno Bipolar,0,0,0,1,0,1,1,2,2,2
+id_178,Depresion,0,1,1,0,1,0,1,1,2,1
+id_179,Ansiedad,17,15,10,22,6,19,6,8,32,18
+id_18,Ttno Bipolar,2,9,2,6,6,2,6,6,7,23
+id_180,Ttno Bipolar,4,13,5,8,6,7,9,7,11,25
+id_181,Depresion,3,0,2,3,0,4,3,2,4,2
+id_182,estrés,1,0,1,2,0,2,0,0,2,0
+id_183,Ttno de Personalidad,4,10,1,5,7,6,3,10,11,18
+id_184,Ttno Bipolar,4,1,4,7,1,4,0,1,8,4
+id_185,Depresion,2,3,2,3,0,6,3,5,7,7
+id_186,Ansiedad,3,11,2,5,10,6,6,13,9,17
+id_187,Ansiedad,5,8,4,6,1,7,4,4,11,12
+id_188,Depresion,5,12,4,3,10,16,3,15,15,25
+id_189,Depresion,1,4,0,1,1,3,0,2,4,3
+id_19,Ansiedad,3,8,1,5,7,9,4,11,8,12
+id_190,estrés,1,4,1,1,2,1,1,4,2,11
+id_191,Ttno de Personalidad,1,9,2,4,6,6,3,8,7,13
+id_192,Ansiedad,9,7,4,7,2,7,2,8,15,13
+id_193,Depresion,1,8,0,1,7,1,2,4,2,10
+id_194,Ttno de Personalidad,2,0,2,2,1,2,0,1,2,4
+id_195,estrés,0,0,0,2,2,2,0,3,2,6
+id_196,Depresion,4,6,3,5,4,5,6,4,6,5
+id_197,Ttno Bipolar,8,13,10,11,7,9,6,10,16,27
+id_198,estrés,0,3,1,0,1,2,1,3,3,4
+id_199,Ansiedad,4,5,1,4,2,4,3,1,4,4
+id_2,Depresion,4,7,4,4,5,6,2,8,7,13
+id_20,Depresion,0,0,0,0,0,0,0,0,0,1
+id_200,Ttno de Personalidad,4,6,4,7,3,5,1,6,9,13
+id_201,Ansiedad,0,1,1,1,1,0,0,2,1,2
+id_202,estrés,3,4,3,4,3,4,3,4,5,11
+id_203,Ttno Bipolar,0,2,4,1,1,3,1,1,4,3
+id_204,Ansiedad,0,1,0,0,0,0,0,0,0,0
+id_205,Ansiedad,7,14,1,10,4,10,2,9,11,10
+id_206,Depresion,4,7,3,3,7,3,2,9,3,16
+id_207,Depresion,1,3,0,3,1,3,1,2,5,6
+id_208,Ttno Bipolar,4,10,2,5,7,6,3,11,6,20
+id_209,Ttno de Personalidad,0,7,0,2,7,2,5,10,4,16
+id_21,estrés,0,1,0,0,0,1,2,1,3,5
+id_210,Ttno Bipolar,4,3,4,3,0,5,2,2,8,2
+id_211,estrés,0,1,0,0,1,0,0,2,0,3
+id_212,Ansiedad,0,2,0,1,2,0,1,3,1,4
+id_213,Ttno de Personalidad,3,8,3,4,2,7,2,4,10,6
+id_214,Ttno Bipolar,0,6,0,1,2,1,1,5,4,7
+id_215,estrés,1,0,2,4,1,4,1,3,4,11
+id_216,Ansiedad,4,4,2,6,2,5,2,3,8,8
+id_217,estrés,3,1,0,0,0,0,0,1,3,0
+id_218,Ttno Bipolar,0,0,0,1,0,0,0,0,1,1
+id_219,Ttno Bipolar,1,5,0,4,5,3,5,6,6,6
+id_22,Depresion,4,3,2,3,0,4,2,2,8,4
+id_220,Ttno Bipolar,0,6,0,5,2,2,3,4,8,6
+id_221,Ansiedad,0,0,0,0,0,1,1,0,1,0
+id_222,Ttno Bipolar,0,1,0,2,0,4,0,0,4,2
+id_223,Ansiedad,0,0,0,0,0,0,0,0,0,0
+id_224,Ttno de Personalidad,0,1,0,1,0,0,0,1,0,0
+id_225,Ttno Bipolar,2,1,1,1,1,1,1,0,2,2
+id_226,Ttno Bipolar,1,1,0,4,0,2,0,1,7,5
+id_227,estrés,0,0,0,0,0,0,0,1,0,1
+id_228,Ansiedad,0,0,0,0,0,1,1,0,1,0
+id_229,Ttno Bipolar,1,1,1,1,1,3,1,1,3,3
+id_23,estrés,3,1,0,2,0,1,0,1,5,3
+id_230,estrés,3,6,2,5,2,4,3,3,5,7
+id_231,Ttno Bipolar,3,2,2,3,0,4,0,0,3,0
+id_232,Ansiedad,3,2,2,3,2,4,1,2,5,3
+id_233,Ansiedad,0,5,0,0,3,0,2,4,0,10
+id_234,Depresion,2,4,1,2,1,2,1,3,3,9
+id_235,Ttno Bipolar,10,28,3,13,22,17,8,22,21,29
+id_236,Depresion,1,1,0,1,1,0,0,3,1,4
+id_237,Ttno de Personalidad,6,11,5,10,12,6,1,18,9,22
+id_238,Depresion,5,5,4,4,2,5,3,6,6,8
+id_239,Ansiedad,0,1,0,1,0,0,1,0,0,4
+id_24,Ansiedad,3,1,0,5,0,5,2,3,8,4
+id_240,Ttno de Personalidad,0,1,0,0,5,0,1,7,1,9
+id_241,Ansiedad,1,1,1,1,1,1,1,0,2,2
+id_242,estrés,1,24,2,5,17,10,14,20,11,30
+id_243,Ttno Bipolar,1,9,3,5,5,7,4,7,10,13
+id_244,Ansiedad,5,6,4,7,2,7,1,4,6,7
+id_245,Ttno Bipolar,3,1,1,2,1,1,0,0,3,2
+id_246,Ttno de Personalidad,0,0,0,0,0,0,0,0,0,0
+id_247,Depresion,5,12,0,6,8,10,4,14,11,16
+id_248,Ttno Bipolar,0,1,0,2,2,0,1,3,4,4
+id_249,Depresion,3,7,3,2,4,2,4,5,3,8
+id_25,Ttno Bipolar,5,8,3,4,7,5,5,7,8,12
+id_250,Ttno de Personalidad,5,15,8,12,13,7,12,19,18,41
+id_251,Ansiedad,3,4,1,5,0,3,2,4,6,4
+id_252,Depresion,2,1,1,2,0,1,1,0,3,2
+id_253,Ttno de Personalidad,4,7,3,2,7,5,2,10,8,21
+id_254,Depresion,1,1,3,1,0,1,1,2,6,1
+id_255,Ansiedad,4,6,1,5,5,7,1,5,8,12
+id_256,Ttno de Personalidad,5,1,2,5,1,4,3,5,6,8
+id_257,Ansiedad,0,1,0,0,0,0,0,1,0,5
+id_258,estrés,1,0,1,1,0,3,0,1,2,2
+id_259,estrés,5,6,2,6,1,6,0,3,6,8
+id_26,Ttno Bipolar,1,3,1,1,3,2,4,5,5,8
+id_260,estrés,1,0,0,1,0,1,0,1,2,2
+id_261,Ttno de Personalidad,2,11,3,2,8,3,9,12,8,14
+id_262,estrés,2,28,2,6,7,8,5,19,10,34
+id_263,Ansiedad,2,2,0,3,1,3,0,3,3,5
+id_264,estrés,0,2,0,0,0,0,0,1,0,3
+id_265,estrés,1,7,0,2,4,1,4,7,2,11
+id_266,Ansiedad,1,2,1,1,2,3,1,2,3,6
+id_267,Ttno Bipolar,4,20,2,9,15,9,6,25,12,36
+id_268,Depresion,1,3,1,0,3,2,2,2,1,4
+id_269,Ttno de Personalidad,2,0,2,3,3,2,0,2,3,5
+id_27,estrés,1,0,1,3,0,2,1,0,2,3
+id_270,Ansiedad,1,2,0,1,0,1,1,0,2,2
+id_271,Ansiedad,0,1,0,1,0,0,0,0,1,1
+id_272,Depresion,1,5,1,2,3,4,0,6,5,9
+id_273,Ansiedad,3,2,1,7,1,4,2,1,7,1
+id_274,Ttno de Personalidad,1,1,1,0,1,0,0,2,1,5
+id_275,Ansiedad,1,2,0,1,1,2,0,1,2,4
+id_276,estrés,1,1,0,1,0,2,0,2,2,2
+id_277,Ansiedad,10,11,1,5,3,6,2,4,13,11
+id_278,estrés,1,1,0,1,0,1,0,4,1,3
+id_279,Ttno de Personalidad,1,7,1,4,3,5,4,5,5,11
+id_28,Ansiedad,1,1,0,1,1,0,1,1,1,1
+id_280,Ansiedad,6,5,2,6,1,4,3,1,6,10
+id_281,Ansiedad,5,4,2,4,1,5,1,2,6,3
+id_282,Ttno Bipolar,4,3,1,7,2,5,3,8,10,11
+id_283,Ttno de Personalidad,2,3,1,3,1,4,2,1,6,3
+id_284,Ansiedad,1,1,0,2,0,1,0,0,2,0
+id_285,Ttno de Personalidad,3,6,3,5,4,7,3,5,11,8
+id_286,Depresion,1,3,0,2,1,5,1,3,4,9
+id_287,Ttno Bipolar,0,0,0,0,1,0,0,0,0,2
+id_288,Ansiedad,1,1,0,1,0,1,0,0,1,2
+id_289,Ttno Bipolar,0,1,0,1,0,0,0,0,1,0
+id_29,estrés,2,4,0,2,0,0,2,2,2,3
+id_290,Ttno Bipolar,0,1,0,0,0,0,0,0,0,2
+id_291,Ttno de Personalidad,9,18,2,12,8,10,7,13,14,22
+id_292,Ttno Bipolar,5,6,8,13,5,11,8,7,18,19
+id_293,Ansiedad,4,3,2,3,1,5,2,2,6,10
+id_294,Ttno Bipolar,1,6,4,5,2,2,2,3,6,8
+id_295,estrés,5,14,2,5,18,7,5,22,11,35
+id_296,estrés,1,2,0,1,0,1,0,1,1,2
+id_297,Ttno Bipolar,3,3,3,5,2,6,2,3,8,4
+id_298,Ansiedad,0,2,0,0,1,1,0,2,1,2
+id_299,Depresion,3,1,1,4,1,3,1,1,5,10
+id_3,estrés,3,11,1,6,6,7,2,10,10,25
+id_30,Ttno de Personalidad,7,5,6,10,0,6,3,5,12,14
+id_300,estrés,3,2,3,3,1,3,3,2,3,1
+id_301,estrés,1,2,0,1,0,1,0,1,1,2
+id_302,Depresion,2,4,1,2,1,2,1,3,3,9
+id_303,Ansiedad,4,6,1,4,2,4,1,4,4,6
+id_304,Depresion,7,9,5,9,4,8,3,6,11,12
+id_305,Ttno de Personalidad,0,0,0,1,0,0,0,0,1,0
+id_306,estrés,0,0,0,0,0,0,0,0,0,0
+id_307,Ttno Bipolar,0,1,0,0,0,0,0,1,0,6
+id_308,Ttno de Personalidad,0,1,1,1,0,1,0,6,1,6
+id_309,Depresion,4,7,4,11,5,15,6,7,17,16
+id_31,Depresion,2,9,1,5,5,4,2,8,5,12
+id_310,Ttno de Personalidad,4,4,1,6,2,5,4,2,7,8
+id_311,Depresion,4,12,2,2,9,7,6,7,6,15
+id_312,Depresion,1,0,1,1,0,1,0,0,1,0
+id_313,Ttno Bipolar,0,4,0,1,3,2,2,6,3,7
+id_314,Depresion,23,14,11,23,10,21,11,22,34,29
+id_315,Ttno de Personalidad,1,4,0,1,3,1,3,3,1,7
+id_316,Ansiedad,0,0,0,1,0,0,1,1,1,2
+id_317,Depresion,3,0,2,3,0,4,3,2,4,2
+id_318,Ttno Bipolar,0,1,0,0,1,0,1,1,0,2
+id_319,Depresion,0,1,0,0,0,1,0,0,1,5
+id_32,Depresion,1,5,2,1,3,3,1,6,3,11
+id_320,estrés,4,5,3,4,2,4,3,2,7,4
+id_321,Ttno de Personalidad,1,2,0,1,1,1,0,3,2,4
+id_322,Ansiedad,2,3,0,2,2,3,1,2,3,4
+id_323,estrés,1,2,1,4,1,4,2,2,5,3
+id_324,estrés,0,6,0,1,3,0,1,6,2,13
+id_325,estrés,4,8,0,9,1,4,0,2,8,7
+id_326,Ttno de Personalidad,0,0,0,0,0,0,0,0,0,1
+id_327,Ansiedad,2,2,0,2,0,2,0,0,2,1
+id_328,Ttno de Personalidad,2,6,3,1,7,2,1,11,2,12
+id_329,Depresion,0,1,0,0,0,0,0,0,2,0
+id_33,Ttno de Personalidad,9,5,9,7,7,9,2,11,14,15
+id_330,Depresion,0,3,2,2,3,3,2,3,4,5
+id_331,Ttno Bipolar,4,10,3,2,4,5,2,10,6,17
+id_332,Depresion,0,6,0,1,4,1,1,6,2,10
+id_334,Ansiedad,3,4,1,5,2,3,1,3,5,9
+id_335,Ttno de Personalidad,17,35,3,19,14,17,8,20,26,40
+id_336,Ansiedad,2,4,2,5,1,1,2,1,5,3
+id_337,Ansiedad,1,1,0,1,0,1,0,0,1,0
+id_338,Ttno de Personalidad,1,2,1,1,2,1,1,6,3,7
+id_339,Ansiedad,2,3,3,4,1,2,2,2,5,6
+id_34,estrés,2,9,1,2,8,4,3,15,5,24
+id_340,Ttno Bipolar,2,3,1,5,1,4,1,1,5,3
+id_341,Ttno de Personalidad,6,6,0,5,6,2,6,6,6,11
+id_342,Ttno Bipolar,1,3,0,2,2,2,2,2,3,3
+id_343,Ttno de Personalidad,0,3,0,0,4,1,1,5,1,8
+id_344,estrés,5,2,4,4,1,8,0,3,9,5
+id_345,Depresion,10,4,7,8,1,6,1,2,12,11
+id_346,Depresion,2,3,0,7,4,3,0,22,6,22
+id_347,Ttno Bipolar,4,4,0,7,0,3,2,1,7,1
+id_348,estrés,1,2,1,2,2,1,2,2,2,4
+id_349,Ansiedad,0,6,1,2,3,3,1,4,4,8
+id_35,Ttno de Personalidad,2,2,0,2,1,0,1,1,1,2
+id_350,Depresion,1,4,1,1,3,4,3,5,4,9
+id_351,Ttno de Personalidad,13,19,9,15,11,21,5,14,22,22
+id_352,Ttno Bipolar,1,2,0,2,1,1,1,2,3,4
+id_353,Ansiedad,0,11,1,1,14,2,7,11,4,22
+id_354,estrés,0,0,0,0,2,1,0,3,1,3
+id_355,Ansiedad,1,4,7,7,3,6,4,7,7,18
+id_356,estrés,3,13,0,4,6,2,7,7,5,19
+id_357,estrés,8,9,4,10,5,9,4,9,12,13
+id_358,Ansiedad,6,10,2,10,0,7,1,4,11,7
+id_359,Depresion,9,16,5,10,10,12,1,12,13,22
+id_36,Ansiedad,3,0,1,3,0,2,0,2,4,2
+id_360,Ttno Bipolar,4,3,4,8,1,6,2,1,10,4
+id_361,Ansiedad,1,3,1,2,0,1,0,0,3,0
+id_362,estrés,3,5,3,3,5,6,3,6,6,9
+id_363,Ansiedad,5,2,2,7,0,4,2,5,9,9
+id_364,Ttno de Personalidad,0,0,1,0,0,3,1,0,3,3
+id_365,Ttno Bipolar,3,1,1,3,0,1,2,1,5,1
+id_366,Ttno de Personalidad,0,7,0,2,12,0,2,14,1,14
+id_367,Ansiedad,4,3,2,5,0,4,1,2,6,2
+id_368,Ttno Bipolar,0,0,0,0,0,2,0,0,2,1
+id_369,Depresion,5,8,4,6,1,7,4,4,11,12
+id_37,Ansiedad,2,0,1,2,0,2,0,1,2,2
+id_370,estrés,0,4,0,1,2,2,2,3,1,7
+id_371,Ttno de Personalidad,1,1,0,2,0,2,0,1,3,1
+id_372,Ansiedad,3,6,2,5,4,3,6,3,4,6
+id_373,estrés,2,5,1,1,0,5,0,1,4,10
+id_374,Ansiedad,2,3,1,2,1,3,1,2,3,5
+id_375,Ttno de Personalidad,0,0,0,0,1,0,0,1,0,1
+id_376,Ansiedad,5,5,1,5,0,4,0,1,7,0
+id_377,Ansiedad,3,2,1,3,1,3,1,3,5,3
+id_378,Ttno de Personalidad,1,3,1,2,1,1,2,1,2,12
+id_379,Ttno de Personalidad,3,4,1,5,3,4,1,3,6,4
+id_38,Depresion,0,2,0,1,0,1,1,0,1,3
+id_380,estrés,0,3,0,0,4,1,2,2,0,4
+id_381,Depresion,8,11,4,8,11,11,5,13,12,23
+id_382,Ttno de Personalidad,6,2,3,6,0,6,3,0,8,2
+id_383,estrés,0,0,0,0,0,1,0,0,1,1
+id_384,Ansiedad,0,2,0,1,0,0,1,0,2,1
+id_385,Ttno Bipolar,0,1,0,1,0,0,0,1,2,5
+id_386,estrés,0,2,0,1,2,1,0,1,0,5
+id_387,Ttno Bipolar,4,0,2,5,0,5,0,1,6,2
+id_388,Depresion,4,7,3,3,4,4,1,5,4,12
+id_389,Ansiedad,12,7,2,11,2,8,3,5,14,13
+id_39,Ansiedad,0,0,0,1,0,1,0,3,1,2
+id_390,Depresion,1,3,1,2,4,3,1,6,3,6
+id_391,Ttno Bipolar,2,2,1,2,1,3,3,2,5,2
+id_392,estrés,2,1,2,2,1,3,2,1,3,2
+id_393,Ttno Bipolar,1,2,2,2,1,2,0,2,2,3
+id_394,Ansiedad,5,6,1,8,1,7,1,3,9,5
+id_395,Ttno Bipolar,5,6,2,7,2,5,4,2,12,4
+id_396,Ttno de Personalidad,0,2,0,1,2,0,1,3,2,7
+id_397,Ttno Bipolar,2,4,0,3,2,4,0,3,6,3
+id_398,Depresion,9,11,9,6,8,11,5,11,14,21
+id_399,Ttno Bipolar,3,1,3,5,1,2,1,1,5,4
+id_4,Depresion,0,1,0,0,0,2,0,3,1,2
+id_40,Depresion,1,6,1,1,5,4,5,5,4,8
+id_400,Ttno de Personalidad,1,4,0,2,3,2,1,4,4,8
+id_401,Depresion,1,1,0,2,0,0,1,0,1,2
+id_402,estrés,5,15,3,6,11,10,4,15,16,30
+id_403,Depresion,0,0,1,1,0,0,1,0,2,2
+id_404,Depresion,3,3,1,4,3,4,3,3,5,6
+id_405,Ansiedad,1,3,0,1,1,1,1,1,2,4
+id_406,Ttno Bipolar,1,3,1,1,3,2,4,5,5,8
+id_407,Ttno Bipolar,0,1,0,0,0,0,1,1,0,2
+id_408,estrés,15,15,17,24,8,23,8,14,32,19
+id_409,Ttno de Personalidad,2,5,1,4,2,3,4,3,5,13
+id_41,Ttno de Personalidad,4,11,2,8,6,9,2,10,9,17
+id_410,Depresion,3,2,2,4,1,4,1,2,4,8
+id_411,Ansiedad,5,5,3,5,4,5,3,4,5,11
+id_412,Ttno de Personalidad,1,1,1,1,1,2,0,2,1,8
+id_413,Ansiedad,0,3,0,1,0,1,0,2,2,2
+id_414,estrés,1,1,2,2,2,1,2,2,2,3
+id_415,Depresion,1,1,0,1,0,1,0,0,1,0
+id_416,Ttno Bipolar,2,2,0,3,0,2,2,0,3,5
+id_417,Ttno de Personalidad,1,7,1,2,2,3,3,3,3,10
+id_418,Depresion,0,2,0,1,0,1,0,0,3,4
+id_419,Ttno de Personalidad,0,0,0,1,1,0,0,0,1,2
+id_42,Ansiedad,6,7,3,12,4,8,3,9,14,15
+id_420,Ansiedad,2,2,4,5,1,8,1,5,10,9
+id_421,estrés,1,2,0,1,0,1,0,1,2,9
+id_422,Ttno Bipolar,2,0,1,2,2,2,0,3,2,2
+id_423,Ansiedad,8,7,0,9,2,10,2,4,15,12
+id_424,Ttno Bipolar,1,5,0,2,1,1,2,6,2,7
+id_425,estrés,5,9,5,6,7,6,4,11,6,13
+id_426,Ansiedad,2,1,0,1,0,1,0,0,2,2
+id_427,Ttno Bipolar,8,5,7,11,6,7,6,12,13,11
+id_428,estrés,1,6,1,1,2,1,2,11,2,19
+id_429,Ttno Bipolar,2,3,1,5,1,4,1,1,5,3
+id_43,Ttno de Personalidad,2,2,2,3,2,3,3,2,3,2
+id_430,Ttno Bipolar,2,6,0,3,5,3,2,7,4,11
+id_431,Ttno de Personalidad,0,2,0,2,1,1,1,3,1,4
+id_432,Ttno Bipolar,2,0,2,2,0,3,0,0,3,1
+id_433,estrés,1,7,1,3,5,1,4,4,6,5
+id_434,Ttno Bipolar,0,0,0,1,1,1,1,1,2,3
+id_435,estrés,0,2,0,0,2,1,0,3,2,6
+id_436,Depresion,1,0,0,1,0,0,0,0,0,1
+id_437,Ttno de Personalidad,1,1,1,1,0,1,1,2,2,5
+id_438,estrés,3,1,1,3,0,4,1,3,4,6
+id_439,Depresion,0,1,1,1,1,1,1,1,1,2
+id_44,Depresion,18,9,16,11,5,12,5,8,22,17
+id_440,Depresion,9,19,5,15,8,14,6,15,21,16
+id_441,Ttno Bipolar,2,2,3,5,0,3,0,6,8,10
+id_442,Ttno de Personalidad,3,5,4,4,2,3,2,9,4,15
+id_443,Ttno de Personalidad,10,12,8,10,8,12,9,12,13,18
+id_444,Ttno de Personalidad,1,6,1,3,6,4,5,6,5,9
+id_445,estrés,3,2,2,4,0,4,1,2,5,3
+id_446,Ttno de Personalidad,0,1,0,0,0,1,0,0,1,2
+id_447,Depresion,1,1,1,0,1,1,0,0,2,1
+id_448,Ttno de Personalidad,2,0,0,3,2,2,0,1,3,6
+id_449,Ttno Bipolar,2,4,2,7,1,1,0,5,5,7
+id_45,Ansiedad,6,6,2,7,4,5,5,5,7,7
+id_450,estrés,1,2,2,1,3,2,1,11,3,16
+id_451,Ttno Bipolar,1,1,0,3,0,1,0,3,3,4
+id_453,estrés,1,1,0,2,2,0,1,6,3,6
+id_454,Ansiedad,9,24,8,11,23,21,11,33,22,48
+id_455,Depresion,0,1,0,0,1,1,1,1,2,1
+id_456,Ansiedad,4,0,5,7,0,5,0,0,10,2
+id_457,Ansiedad,0,0,0,0,0,0,0,0,0,4
+id_458,Ttno Bipolar,6,5,3,4,3,6,3,5,8,8
+id_459,Ansiedad,14,18,5,20,5,17,6,11,27,24
+id_46,Ttno Bipolar,4,8,0,5,3,6,4,7,6,19
+id_460,Depresion,1,0,1,3,0,3,0,2,3,3
+id_461,Ttno Bipolar,0,2,1,0,1,0,2,3,3,4
+id_462,Ttno de Personalidad,10,24,6,14,17,16,12,20,19,44
+id_463,Ansiedad,5,3,4,8,3,8,2,6,9,8
+id_464,Ansiedad,0,0,0,0,1,1,0,1,2,3
+id_465,Ansiedad,2,5,1,5,1,2,2,4,6,3
+id_466,Depresion,0,1,0,0,1,1,0,1,1,3
+id_467,Ttno de Personalidad,0,3,0,4,0,1,1,1,4,0
+id_468,estrés,6,8,1,7,2,2,6,2,7,7
+id_469,Ansiedad,2,3,0,2,0,3,0,1,5,2
+id_47,Depresion,0,1,0,2,1,2,3,1,2,4
+id_470,Ttno Bipolar,8,12,4,11,1,7,5,3,14,9
+id_471,Ttno Bipolar,0,0,0,0,0,0,0,0,0,0
+id_472,Ttno Bipolar,2,3,0,3,0,0,2,0,3,1
+id_473,Ttno de Personalidad,0,0,0,0,0,0,0,0,0,0
+id_474,Ttno Bipolar,4,4,4,12,4,6,3,11,13,12
+id_475,Ttno Bipolar,3,2,1,4,3,2,2,4,4,8
+id_476,Ansiedad,3,2,0,3,0,2,0,1,3,2
+id_477,estrés,0,2,0,0,0,0,0,1,0,2
+id_478,Depresion,3,4,1,6,3,6,1,5,6,7
+id_479,Depresion,4,6,1,6,3,3,1,3,8,10
+id_48,Ansiedad,0,0,0,0,0,0,0,0,1,0
+id_480,Depresion,4,7,1,5,3,9,1,5,8,19
+id_481,Depresion,4,7,4,2,8,5,3,11,7,15
+id_482,Depresion,5,11,1,8,4,4,7,8,8,12
+id_483,Ttno Bipolar,0,4,0,0,1,0,3,3,0,6
+id_484,Ttno de Personalidad,9,15,6,6,13,8,9,18,7,34
+id_485,Depresion,9,6,6,7,5,5,3,7,12,16
+id_486,estrés,0,0,0,1,0,2,1,1,3,2
+id_487,Ttno Bipolar,1,4,1,1,3,2,0,3,2,5
+id_488,Ttno de Personalidad,4,4,4,4,3,4,5,7,7,7
+id_489,Ttno de Personalidad,0,0,0,0,0,0,0,1,0,1
+id_49,estrés,4,3,0,2,2,5,0,4,7,5
+id_490,estrés,0,0,0,0,0,0,0,0,0,0
+id_491,Depresion,1,0,1,2,0,2,0,0,2,1
+id_492,estrés,0,2,0,0,0,0,0,3,1,4
+id_493,Ttno Bipolar,2,2,2,3,1,2,1,2,3,4
+id_494,Depresion,3,3,3,5,2,4,1,4,6,5
+id_495,Ttno Bipolar,0,2,0,0,2,1,3,2,1,4
+id_496,Ttno Bipolar,2,6,0,3,3,3,5,7,5,15
+id_497,Ansiedad,1,1,1,1,0,1,1,5,1,4
+id_498,Ansiedad,0,1,0,0,1,0,1,2,0,2
+id_499,estrés,0,3,1,0,1,2,1,2,3,3
+id_5,Ttno de Personalidad,7,6,4,8,1,9,1,3,14,3
+id_50,Depresion,1,0,2,2,0,4,0,0,4,0
+id_500,Ansiedad,3,1,2,3,0,3,0,3,3,2
+id_501,Ansiedad,0,0,0,1,0,0,0,1,1,1
+id_502,Ansiedad,4,10,3,10,8,12,3,11,11,11
+id_503,Ttno Bipolar,0,1,0,2,0,0,0,1,2,1
+id_504,Ttno Bipolar,0,1,0,1,0,0,0,0,1,0
+id_505,Ttno de Personalidad,2,4,2,4,4,1,1,10,3,18
+id_506,estrés,1,3,0,1,0,1,0,1,1,6
+id_507,Ttno Bipolar,3,1,1,5,1,5,1,3,8,7
+id_508,Ttno de Personalidad,3,5,1,7,3,3,3,2,5,3
+id_509,Ttno Bipolar,6,8,0,7,1,3,5,5,9,6
+id_51,Depresion,4,6,6,5,4,7,4,5,9,10
+id_510,estrés,0,1,2,3,0,1,0,3,3,1
+id_511,estrés,1,2,0,1,0,0,1,1,1,2
+id_512,Ansiedad,0,2,0,0,0,0,1,1,1,1
+id_513,estrés,5,3,3,2,2,3,3,2,4,2
+id_514,estrés,1,1,0,1,0,1,0,0,1,1
+id_515,Ansiedad,2,2,1,2,1,1,1,2,2,3
+id_516,Ansiedad,5,6,1,8,1,7,1,3,9,5
+id_517,Depresion,0,4,1,1,3,2,3,5,3,9
+id_518,Ttno Bipolar,2,0,2,4,0,4,2,3,5,8
+id_519,estrés,1,2,1,1,0,0,0,0,1,0
+id_52,estrés,2,5,4,2,1,2,2,4,7,10
+id_520,estrés,1,0,1,1,0,1,0,0,1,0
+id_521,estrés,5,11,7,7,8,10,7,8,10,21
+id_522,Ansiedad,5,9,2,9,4,12,3,6,13,22
+id_523,Ttno Bipolar,5,5,3,8,2,8,3,5,11,8
+id_524,Ansiedad,1,1,0,1,0,1,0,0,1,1
+id_525,Depresion,7,5,2,7,2,9,2,4,10,6
+id_526,estrés,2,9,3,6,2,4,1,13,8,16
+id_527,Depresion,3,6,2,1,5,4,1,7,5,10
+id_528,Ttno de Personalidad,0,1,0,1,1,0,0,1,1,1
+id_529,Depresion,0,5,0,0,3,0,1,3,1,6
+id_53,Depresion,7,7,0,8,1,3,7,6,9,4
+id_530,Ttno de Personalidad,2,6,0,2,1,2,4,6,7,11
+id_531,estrés,0,5,1,0,2,0,1,3,0,5
+id_532,Ttno Bipolar,6,10,5,9,5,8,7,7,13,18
+id_533,Ttno de Personalidad,5,7,6,7,4,9,2,5,9,14
+id_534,Ttno Bipolar,0,1,0,0,1,0,1,1,0,1
+id_535,Depresion,1,5,0,0,4,0,1,9,0,14
+id_536,Ttno Bipolar,5,4,1,6,3,1,4,5,8,10
+id_537,Ttno de Personalidad,2,1,4,1,1,4,1,1,4,1
+id_538,Ttno Bipolar,0,0,1,0,0,0,0,1,1,5
+id_539,Ansiedad,6,7,1,7,3,5,3,4,9,8
+id_54,estrés,1,1,1,2,0,2,0,1,2,2
+id_540,estrés,0,1,0,0,0,0,0,2,1,6
+id_542,Ansiedad,0,5,0,4,3,0,5,2,2,5
+id_543,Ansiedad,0,0,0,0,1,1,0,1,1,1
+id_544,Ttno de Personalidad,4,9,0,4,0,0,5,2,4,7
+id_545,Ansiedad,7,5,2,8,5,4,4,4,10,14
+id_546,Ttno de Personalidad,2,3,0,2,1,1,2,2,2,3
+id_547,estrés,2,4,2,4,0,4,1,8,4,15
+id_548,Depresion,5,4,3,7,0,8,1,2,11,3
+id_549,Ttno de Personalidad,3,5,2,3,2,4,0,2,7,9
+id_55,Depresion,0,0,0,0,0,0,0,0,0,1
+id_550,Ttno Bipolar,0,1,0,0,0,0,0,0,0,0
+id_551,Ttno Bipolar,0,3,0,0,2,0,2,2,0,3
+id_552,Ttno de Personalidad,0,0,0,0,0,0,0,2,0,1
+id_553,Ansiedad,2,3,0,2,0,2,0,1,2,1
+id_554,Depresion,6,12,2,7,10,6,3,9,8,15
+id_555,estrés,3,11,2,5,12,6,6,14,9,23
+id_556,Ttno Bipolar,4,4,2,5,3,6,2,3,9,8
+id_557,Ttno de Personalidad,0,0,0,0,0,0,0,0,0,4
+id_558,estrés,0,1,0,0,0,0,0,1,0,4
+id_559,Ansiedad,1,3,0,1,1,1,1,2,1,1
+id_56,estrés,0,1,1,1,2,1,2,0,1,7
+id_560,Depresion,0,0,0,1,0,0,1,2,1,4
+id_561,Ttno de Personalidad,7,4,1,7,0,5,1,1,9,3
+id_562,estrés,3,5,4,5,2,7,2,7,6,7
+id_563,Ansiedad,4,10,1,4,6,3,4,8,6,12
+id_564,Ttno Bipolar,4,9,4,4,4,6,3,6,8,11
+id_565,Ttno Bipolar,2,1,0,4,0,2,0,0,4,0
+id_566,Depresion,0,0,0,0,0,0,0,0,0,0
+id_567,Ttno Bipolar,1,0,0,2,0,2,0,1,2,2
+id_568,Depresion,0,0,0,0,0,2,0,0,2,2
+id_569,Ttno de Personalidad,0,0,2,1,0,2,1,2,3,5
+id_57,estrés,1,2,1,1,2,1,0,3,1,3
+id_570,Ttno Bipolar,3,1,2,3,2,4,2,6,5,8
+id_571,estrés,1,1,0,1,0,1,0,0,1,2
+id_572,estrés,2,1,1,1,0,1,0,1,2,1
+id_573,estrés,9,13,4,12,8,8,8,8,13,19
+id_574,Ttno de Personalidad,3,14,2,6,6,13,5,16,10,32
+id_575,Ttno de Personalidad,3,2,3,4,2,3,2,1,7,6
+id_576,estrés,3,10,1,2,9,6,5,9,6,20
+id_577,estrés,0,5,1,2,3,1,3,9,3,12
+id_578,Ttno Bipolar,2,0,2,3,1,2,1,0,3,3
+id_579,Ttno de Personalidad,2,11,3,2,8,3,9,12,8,14
+id_58,estrés,0,7,0,0,5,1,3,8,2,11
+id_580,Ttno de Personalidad,0,0,0,0,0,0,0,1,2,1
+id_581,Ttno Bipolar,0,0,0,0,1,0,0,3,0,5
+id_582,Ttno de Personalidad,1,0,1,2,0,3,0,0,3,1
+id_583,Ttno de Personalidad,0,4,0,0,0,1,0,1,3,8
+id_584,Depresion,0,0,0,0,1,0,0,1,0,3
+id_585,Ansiedad,4,3,3,8,0,7,1,1,9,3
+id_586,Depresion,2,6,2,1,4,2,1,5,3,8
+id_587,Ansiedad,0,0,0,0,0,0,0,0,0,0
+id_588,Ttno de Personalidad,4,8,5,9,8,13,5,23,12,35
+id_589,Ansiedad,4,8,2,5,3,4,4,5,7,9
+id_59,Depresion,1,1,1,0,1,1,1,1,1,2
+id_590,estrés,2,2,0,1,2,2,0,2,3,7
+id_591,Ttno Bipolar,4,14,2,7,11,5,5,10,8,18
+id_592,estrés,3,13,2,2,7,5,7,12,6,26
+id_593,Ansiedad,7,7,1,9,2,7,0,3,8,5
+id_594,Ansiedad,5,4,1,7,1,2,3,0,5,3
+id_595,Ttno de Personalidad,3,9,2,6,2,7,4,2,6,3
+id_596,Depresion,8,5,6,5,7,11,4,4,15,27
+id_597,estrés,0,0,0,0,1,0,0,0,0,1
+id_598,Depresion,1,4,0,1,2,1,2,3,1,4
+id_599,estrés,6,7,6,14,3,11,2,5,14,11
+id_6,Depresion,4,1,2,3,1,3,3,2,5,7
+id_60,Depresion,9,1,10,9,2,12,3,5,14,7
+id_600,Depresion,2,5,4,4,3,4,3,5,4,5
+id_601,Depresion,1,5,2,4,3,3,1,4,3,6
+id_602,estrés,1,9,2,4,7,4,4,7,10,20
+id_603,Ttno de Personalidad,8,11,5,7,8,9,7,9,11,15
+id_604,estrés,2,3,2,3,1,4,1,8,6,10
+id_605,Ansiedad,0,3,1,2,2,2,0,2,4,5
+id_606,Ttno de Personalidad,0,4,0,0,1,0,0,5,0,4
+id_607,Ansiedad,8,10,3,10,6,7,7,10,12,17
+id_608,Depresion,0,0,0,1,0,2,0,1,2,0
+id_609,Ansiedad,6,6,5,7,5,7,6,10,12,22
+id_61,estrés,0,0,0,0,1,1,0,0,0,3
+id_610,estrés,0,2,0,1,0,1,1,2,0,5
+id_611,Depresion,2,2,1,4,1,1,2,1,4,2
+id_612,Ttno de Personalidad,6,4,3,5,2,7,0,6,9,7
+id_613,Ansiedad,5,3,1,5,0,4,1,2,7,4
+id_614,Ttno Bipolar,0,1,0,0,0,0,1,1,0,2
+id_615,Ttno de Personalidad,3,4,2,2,3,2,3,3,2,5
+id_616,Ttno de Personalidad,0,3,0,2,3,0,1,2,0,7
+id_617,Ansiedad,3,4,1,5,1,5,2,1,7,2
+id_618,Ansiedad,2,2,0,1,1,1,0,1,2,1
+id_619,Ttno de Personalidad,0,0,0,0,0,0,0,0,0,0
+id_62,Depresion,1,1,2,1,0,1,0,4,3,8
+id_620,Ttno de Personalidad,0,0,0,0,0,0,0,1,0,2
+id_621,estrés,6,8,5,5,11,11,4,21,14,34
+id_622,Ttno Bipolar,0,3,0,0,1,0,1,1,1,3
+id_623,Ttno Bipolar,5,8,5,7,8,10,3,10,14,13
+id_624,Ttno de Personalidad,9,18,2,12,8,10,7,13,14,22
+id_625,Ttno de Personalidad,2,5,0,2,0,2,0,5,3,7
+id_626,estrés,1,0,1,1,1,2,0,2,3,6
+id_627,Depresion,0,0,0,0,0,1,1,0,1,0
+id_628,Ttno de Personalidad,1,1,1,2,0,3,2,0,3,3
+id_629,Ttno de Personalidad,1,3,1,2,3,2,2,4,4,9
+id_63,Depresion,6,9,4,7,4,12,2,13,12,20
+id_630,estrés,1,6,0,4,3,4,2,3,3,7
+id_631,Ansiedad,3,4,0,3,1,1,2,2,4,6
+id_632,Depresion,2,6,1,3,3,5,0,7,4,11
+id_633,Depresion,6,3,3,6,2,4,1,6,7,9
+id_634,estrés,2,1,0,1,0,1,1,0,2,2
+id_635,Ttno Bipolar,3,2,1,4,1,4,2,2,5,2
+id_636,Ttno Bipolar,0,1,0,3,1,0,1,3,1,1
+id_637,estrés,1,2,1,2,2,2,0,3,2,3
+id_638,Depresion,0,0,0,0,0,0,0,0,0,0
+id_639,Ttno de Personalidad,0,0,0,0,1,0,0,1,0,1
+id_64,Ttno de Personalidad,3,14,2,6,6,13,5,16,10,32
+id_640,estrés,0,0,0,0,0,1,0,3,1,2
+id_641,Ansiedad,0,1,1,2,0,2,2,1,2,2
+id_642,estrés,3,7,1,5,2,4,2,6,6,10
+id_643,Ansiedad,2,1,2,1,1,0,0,2,3,4
+id_644,estrés,0,0,0,0,0,0,0,0,0,0
+id_645,Ansiedad,2,2,0,2,0,3,1,1,2,2
+id_646,Ansiedad,12,20,1,14,5,13,9,6,21,19
+id_647,Ansiedad,3,4,0,4,1,4,2,4,7,7
+id_648,Depresion,0,1,0,0,0,0,0,0,0,0
+id_649,Ttno Bipolar,0,1,0,2,1,0,0,3,2,5
+id_65,Ansiedad,3,2,0,2,0,1,0,3,4,7
+id_650,Ttno de Personalidad,1,3,0,2,5,2,1,3,9,8
+id_651,Ttno Bipolar,3,4,1,4,2,4,1,5,5,9
+id_652,estrés,0,1,0,0,0,0,0,1,0,0
+id_653,Ansiedad,1,2,0,2,2,1,1,3,2,3
+id_654,Ttno de Personalidad,1,4,2,4,2,3,1,4,6,4
+id_655,Ansiedad,1,0,0,1,0,0,0,2,1,1
+id_656,Ansiedad,4,6,2,5,2,4,2,5,8,11
+id_657,Depresion,4,6,2,4,3,3,2,2,4,4
+id_658,Ttno de Personalidad,2,1,1,2,1,2,1,1,2,1
+id_659,Depresion,3,1,2,3,1,0,1,1,3,6
+id_66,Ttno de Personalidad,2,4,0,5,0,2,1,1,5,8
+id_660,Ttno Bipolar,3,4,2,4,3,4,3,4,5,7
+id_661,Ansiedad,4,2,7,5,1,4,5,1,7,5
+id_662,Ttno de Personalidad,2,2,1,3,0,2,2,1,4,2
+id_663,Ansiedad,9,10,2,9,9,13,5,7,15,11
+id_664,estrés,1,0,0,1,0,1,0,0,3,2
+id_665,estrés,2,4,2,2,3,3,1,7,3,9
+id_666,Ansiedad,1,1,0,1,0,1,0,1,1,3
+id_667,estrés,3,5,0,5,2,3,3,3,3,3
+id_668,estrés,6,6,3,7,1,6,4,2,9,8
+id_669,estrés,0,1,1,1,1,1,0,1,1,1
+id_67,Depresion,0,0,0,0,0,0,0,1,0,1
+id_670,Ttno Bipolar,3,3,3,6,4,6,2,5,6,10
+id_671,Depresion,1,1,1,1,1,1,1,4,1,3
+id_672,Ansiedad,1,2,0,1,2,1,1,2,1,2
+id_673,Ttno Bipolar,2,8,2,4,5,2,5,6,6,8
+id_674,Depresion,4,5,2,4,4,6,0,4,5,11
+id_675,Depresion,0,0,0,0,1,1,0,1,1,2
+id_676,Ttno de Personalidad,1,0,1,1,0,2,0,0,2,1
+id_677,Depresion,3,0,4,6,0,6,0,0,7,1
+id_678,Ansiedad,0,1,1,1,0,1,0,1,1,3
+id_679,Depresion,1,5,0,2,1,2,1,2,3,6
+id_68,estrés,1,2,2,3,0,4,0,5,6,8
+id_680,Ttno de Personalidad,0,0,1,0,0,0,0,1,0,2
+id_681,Depresion,3,5,2,5,4,6,4,5,7,6
+id_682,Ttno Bipolar,3,3,0,2,2,1,2,2,2,4
+id_683,Depresion,0,0,0,0,0,0,0,0,0,0
+id_684,Ttno de Personalidad,5,1,1,6,0,4,2,2,6,9
+id_685,Ansiedad,2,5,0,5,0,1,2,2,5,4
+id_686,Ansiedad,0,0,0,0,0,0,0,0,0,0
+id_687,estrés,0,4,0,0,1,2,0,2,1,2
+id_688,Depresion,3,2,1,3,0,3,2,0,3,0
+id_69,Ttno Bipolar,4,22,1,8,15,7,8,19,13,25
+id_690,Ansiedad,4,5,1,4,1,5,1,1,5,4
+id_691,estrés,0,0,0,0,0,0,0,0,0,0
+id_692,Ansiedad,6,6,2,6,2,7,3,5,9,6
+id_693,Ttno Bipolar,4,5,2,4,0,3,3,2,6,4
+id_694,Depresion,1,0,1,1,0,1,0,4,1,3
+id_695,Depresion,4,3,0,5,3,3,1,0,5,4
+id_696,Ansiedad,5,3,2,7,0,2,1,1,6,3
+id_697,estrés,0,0,3,2,1,2,0,2,2,6
+id_698,Ttno Bipolar,0,2,0,1,1,1,1,2,1,7
+id_699,Depresion,0,4,0,2,4,0,0,4,0,4
+id_7,estrés,2,3,1,8,0,4,4,2,10,7
+id_70,Depresion,2,1,1,2,0,3,0,3,3,2
+id_700,Ttno de Personalidad,2,5,2,4,3,6,1,4,6,5
+id_701,Ttno de Personalidad,0,7,1,0,6,2,5,9,5,14
+id_702,estrés,0,2,0,0,1,0,0,3,1,2
+id_703,Ttno de Personalidad,1,1,1,1,0,1,1,0,1,0
+id_704,Ttno Bipolar,2,3,2,3,6,6,4,7,7,15
+id_705,Depresion,0,0,0,0,0,0,0,0,0,2
+id_706,Ttno Bipolar,4,3,4,3,3,4,2,2,5,6
+id_707,Ansiedad,3,9,0,4,5,2,7,5,4,7
+id_708,Depresion,5,4,5,2,2,2,3,4,6,3
+id_709,Depresion,9,20,5,8,16,10,7,24,14,32
+id_71,Ansiedad,1,1,2,0,1,2,1,1,2,4
+id_710,Ttno de Personalidad,0,2,0,1,1,0,1,1,1,1
+id_711,Ansiedad,4,3,5,7,1,6,1,4,8,9
+id_712,Ansiedad,1,1,0,0,0,1,0,1,1,2
+id_713,estrés,0,5,0,0,4,0,2,5,0,12
+id_714,Depresion,6,10,5,13,9,14,1,32,29,54
+id_715,estrés,12,24,11,20,12,19,26,24,31,39
+id_716,Depresion,5,2,3,5,0,5,2,0,5,1
+id_717,Ttno Bipolar,2,5,0,7,4,6,4,9,7,12
+id_718,estrés,5,3,5,8,2,4,5,3,8,9
+id_719,Ttno Bipolar,10,4,6,11,2,8,3,2,13,9
+id_72,estrés,0,2,0,2,0,2,0,1,2,9
+id_720,Ttno de Personalidad,1,1,1,0,1,0,0,1,1,1
+id_721,Ttno de Personalidad,6,14,4,4,13,7,7,23,12,28
+id_722,Ttno Bipolar,1,0,1,2,0,0,0,0,2,0
+id_723,Ansiedad,4,4,2,4,0,4,0,0,4,0
+id_724,Ansiedad,0,2,0,2,2,0,2,3,2,2
+id_725,Ansiedad,3,4,1,4,5,1,5,5,5,8
+id_726,estrés,0,1,0,0,0,0,0,1,0,4
+id_727,estrés,0,0,0,1,0,2,2,2,2,4
+id_728,estrés,2,2,2,3,3,2,1,2,4,4
+id_729,Depresion,1,0,1,1,0,1,0,0,1,1
+id_73,Ttno Bipolar,1,2,0,1,2,0,1,2,2,5
+id_730,Ansiedad,11,10,6,15,1,12,1,2,17,8
+id_731,estrés,0,1,0,0,1,0,1,1,1,3
+id_732,Ttno de Personalidad,2,2,5,5,2,7,0,5,8,3
+id_733,Ttno Bipolar,10,12,2,14,5,10,10,6,23,16
+id_734,Depresion,8,5,9,10,4,10,5,9,11,11
+id_735,Depresion,0,1,0,0,1,0,0,1,0,3
+id_736,Depresion,2,2,3,3,2,3,0,4,3,3
+id_737,estrés,0,2,0,0,2,3,1,3,0,8
+id_738,Ttno Bipolar,3,5,4,6,3,6,4,10,10,13
+id_739,Depresion,4,5,4,6,2,6,2,9,9,18
+id_74,Ttno Bipolar,0,0,0,0,0,0,0,1,0,0
+id_740,Ttno Bipolar,0,1,1,3,2,3,0,2,4,2
+id_741,Ttno de Personalidad,0,3,0,1,2,2,2,2,2,3
+id_742,Ansiedad,3,4,3,6,0,7,0,2,6,6
+id_743,Depresion,4,6,2,1,5,2,5,8,5,12
+id_744,Ttno Bipolar,6,3,6,6,3,6,2,4,8,6
+id_745,Ansiedad,4,4,2,5,2,4,2,4,8,5
+id_746,Depresion,0,1,2,2,1,2,0,1,2,3
+id_747,Ttno Bipolar,10,3,6,15,6,11,3,11,16,25
+id_748,Depresion,1,22,1,2,13,8,3,15,4,31
+id_749,Ansiedad,3,5,1,5,0,3,2,0,5,1
+id_75,estrés,0,0,1,0,0,0,0,2,0,2
+id_750,estrés,0,1,1,1,1,1,1,1,1,1
+id_751,Ttno de Personalidad,2,3,1,3,0,2,0,1,3,3
+id_752,Depresion,1,8,2,2,3,2,3,7,2,8
+id_753,Ttno Bipolar,2,9,3,4,5,4,4,10,5,10
+id_754,Ttno Bipolar,5,2,6,7,4,7,3,4,7,9
+id_755,Ttno de Personalidad,0,0,0,0,1,0,0,1,0,3
+id_756,Depresion,2,9,2,2,12,4,1,13,5,17
+id_758,Ttno Bipolar,5,4,4,5,1,6,3,4,8,6
+id_759,Ansiedad,5,12,0,6,8,10,4,14,11,16
+id_76,Ttno de Personalidad,0,1,0,0,0,0,0,0,0,0
+id_760,Ttno de Personalidad,0,3,0,2,2,0,1,1,0,2
+id_761,Ttno Bipolar,2,2,0,2,1,1,3,1,4,4
+id_762,Ansiedad,0,1,0,0,0,1,0,0,1,1
+id_763,Ansiedad,1,3,1,1,0,2,1,0,5,3
+id_764,Ttno Bipolar,0,0,0,0,0,0,0,0,0,2
+id_765,Ansiedad,6,3,0,5,0,3,1,1,5,2
+id_766,Ttno Bipolar,1,2,1,1,2,1,2,2,1,4
+id_767,Ttno de Personalidad,8,6,8,10,7,11,1,6,14,19
+id_768,Ttno Bipolar,1,1,0,0,0,1,0,0,2,1
+id_769,estrés,2,1,2,3,1,3,1,2,3,2
+id_77,Ansiedad,4,7,2,9,0,9,0,0,9,7
+id_770,Depresion,1,2,0,1,1,0,1,1,1,2
+id_771,Ansiedad,3,3,1,2,1,3,1,3,3,9
+id_772,estrés,1,0,1,1,0,1,0,1,6,1
+id_773,Ttno de Personalidad,1,8,5,9,5,6,2,7,8,14
+id_774,Ttno Bipolar,1,3,0,0,3,0,3,4,0,4
+id_776,Ansiedad,3,3,0,3,0,4,2,0,5,4
+id_777,Depresion,0,0,0,0,0,2,0,0,2,0
+id_778,Ttno de Personalidad,1,0,0,1,0,1,0,1,1,2
+id_779,Ttno Bipolar,0,3,1,1,1,2,1,3,2,3
+id_78,Ansiedad,1,3,1,2,0,1,0,0,3,0
+id_780,Ttno Bipolar,2,2,1,1,2,1,2,1,2,2
+id_781,estrés,3,4,3,5,2,7,6,3,9,3
+id_782,estrés,1,3,1,2,0,2,1,4,5,10
+id_783,Ansiedad,1,1,1,1,0,1,0,0,2,0
+id_784,Ttno de Personalidad,0,1,0,0,1,0,1,1,0,2
+id_785,Ansiedad,1,1,0,1,0,1,0,0,1,0
+id_786,Ansiedad,0,0,0,0,0,0,0,0,0,0
+id_787,Ttno de Personalidad,0,0,0,0,0,0,0,0,1,0
+id_788,Depresion,2,8,1,3,6,6,2,11,7,16
+id_789,Ttno de Personalidad,0,2,0,0,0,0,0,0,0,0
+id_79,Ttno de Personalidad,3,2,1,3,0,3,0,4,3,5
+id_790,Ttno de Personalidad,4,7,1,5,3,5,2,7,8,14
+id_791,Ttno de Personalidad,1,1,0,1,2,0,0,3,0,4
+id_792,Depresion,2,1,2,2,1,3,0,3,3,4
+id_793,Ttno de Personalidad,0,4,0,0,4,1,3,9,1,13
+id_794,Ttno de Personalidad,0,2,0,0,0,0,0,0,0,2
+id_795,Depresion,0,0,0,1,2,0,1,7,2,9
+id_796,Depresion,8,6,6,9,4,12,4,4,14,11
+id_797,Depresion,2,3,0,3,1,3,0,2,3,4
+id_798,Ttno de Personalidad,0,1,0,0,0,0,0,0,0,1
+id_799,Ttno Bipolar,1,2,1,2,1,1,2,2,2,2
+id_8,Ttno Bipolar,1,0,0,1,0,2,1,1,2,3
+id_80,Ttno Bipolar,0,1,0,1,2,0,0,2,1,5
+id_800,Depresion,0,2,0,3,2,4,0,4,2,8
+id_801,Ttno Bipolar,1,0,2,2,0,0,1,2,2,5
+id_802,Ansiedad,13,21,11,20,9,15,9,17,28,35
+id_803,estrés,0,5,1,0,2,0,1,3,0,5
+id_804,Ttno de Personalidad,3,8,3,4,2,7,2,4,10,6
+id_805,estrés,3,12,6,7,10,8,7,12,10,27
+id_806,estrés,0,0,0,0,0,0,0,1,0,1
+id_807,estrés,1,14,1,6,8,6,13,9,11,10
+id_808,Ttno Bipolar,6,3,4,9,2,8,1,5,10,11
+id_809,Ttno de Personalidad,0,4,0,2,2,1,2,6,2,9
+id_81,Ttno de Personalidad,1,2,0,1,1,2,1,3,1,3
+id_810,estrés,0,3,1,2,4,2,0,3,3,7
+id_811,estrés,0,0,0,0,0,0,0,2,0,2
+id_812,Ansiedad,0,1,0,0,1,0,1,1,1,3
+id_813,Ttno de Personalidad,2,3,2,4,1,1,4,3,6,8
+id_814,Ansiedad,11,11,5,14,7,16,9,10,22,15
+id_815,estrés,17,21,7,35,8,10,10,17,40,47
+id_816,Ansiedad,1,1,0,3,0,4,0,0,5,1
+id_817,Ttno de Personalidad,2,4,1,2,1,2,0,3,5,5
+id_818,Depresion,2,0,2,2,0,2,0,0,2,0
+id_819,Ttno Bipolar,3,6,3,6,4,6,3,7,8,19
+id_82,Ansiedad,2,3,2,3,1,3,3,2,4,3
+id_820,estrés,4,4,1,6,2,4,3,3,7,11
+id_821,Depresion,1,3,0,1,1,2,1,2,2,4
+id_822,Ansiedad,6,7,0,7,0,6,1,2,7,8
+id_823,Ttno Bipolar,1,6,0,2,2,2,1,3,3,2
+id_824,Ttno de Personalidad,6,12,4,6,7,8,6,12,9,18
+id_825,estrés,5,17,5,3,8,6,7,9,12,23
+id_826,Ansiedad,3,6,2,7,6,3,5,5,6,10
+id_827,estrés,6,3,4,4,1,6,1,7,10,9
+id_828,Ttno Bipolar,1,0,0,1,0,2,0,0,2,1
+id_829,Ansiedad,2,1,1,2,1,3,0,1,3,1
+id_83,Depresion,0,0,0,0,0,0,0,0,0,2
+id_830,Depresion,5,6,5,5,5,7,2,4,8,15
+id_831,Depresion,1,2,0,1,2,1,1,2,2,4
+id_832,estrés,1,0,1,0,0,0,0,0,1,0
+id_833,Ttno de Personalidad,0,2,0,1,2,1,0,6,1,10
+id_834,estrés,18,11,13,22,10,15,5,13,24,43
+id_835,estrés,2,9,2,3,8,2,5,11,6,11
+id_836,Ttno Bipolar,0,0,0,0,0,0,0,0,0,0
+id_837,Ansiedad,2,3,0,3,1,3,0,1,3,3
+id_838,estrés,0,1,1,2,1,1,1,2,1,6
+id_839,estrés,9,9,4,11,6,12,1,9,14,13
+id_84,Depresion,24,7,12,29,2,23,10,5,35,13
+id_840,estrés,0,6,0,1,3,0,1,6,2,13
+id_841,estrés,4,6,0,3,5,2,4,9,3,14
+id_842,Ttno Bipolar,1,0,1,3,0,1,0,0,3,0
+id_843,Ttno Bipolar,1,0,1,2,0,1,0,0,2,0
+id_844,Ttno de Personalidad,2,4,2,4,2,4,2,3,7,17
+id_845,Ansiedad,0,2,0,1,2,0,2,3,1,2
+id_846,Ttno Bipolar,2,0,2,2,0,2,0,1,2,2
+id_847,estrés,4,2,0,1,0,1,1,1,5,1
+id_848,Ansiedad,5,8,4,9,1,6,5,1,10,6
+id_849,estrés,0,2,0,0,2,0,1,5,0,5
+id_85,Ttno de Personalidad,0,0,0,0,0,0,0,1,0,1
+id_850,Depresion,10,7,7,14,2,13,3,8,15,6
+id_851,Ansiedad,2,1,2,4,0,5,2,2,6,2
+id_852,Ttno Bipolar,1,1,0,1,1,2,1,1,3,3
+id_853,Ansiedad,7,3,3,7,2,3,2,1,9,1
+id_854,Ttno Bipolar,0,2,0,1,1,2,1,1,2,3
+id_855,Depresion,1,3,0,1,3,1,0,2,1,6
+id_856,estrés,4,2,3,4,3,8,3,5,8,13
+id_857,Ttno de Personalidad,0,2,0,1,0,0,1,1,0,1
+id_858,estrés,1,2,1,2,2,1,2,3,3,2
+id_859,Ttno Bipolar,0,0,0,2,0,2,0,0,3,0
+id_86,estrés,4,4,4,8,0,5,4,0,7,10
+id_860,Ttno Bipolar,6,5,5,7,3,6,3,9,10,11
+id_861,Ttno Bipolar,1,2,1,4,4,4,1,6,7,8
+id_862,Ttno de Personalidad,0,3,0,0,3,1,1,3,1,3
+id_863,Ttno Bipolar,6,12,2,9,8,7,11,9,10,15
+id_864,Ttno de Personalidad,1,5,0,1,4,1,3,3,1,6
+id_865,Ttno de Personalidad,0,0,0,0,0,0,0,2,0,1
+id_866,Ttno Bipolar,8,14,6,10,8,8,11,10,14,17
+id_867,Ttno Bipolar,3,1,3,2,1,2,1,2,3,4
+id_868,estrés,1,7,1,1,5,1,3,11,3,17
+id_869,Ttno Bipolar,3,4,2,4,3,4,3,4,5,7
+id_87,estrés,0,1,1,1,0,1,0,0,1,2
+id_870,Ttno Bipolar,5,4,3,5,4,7,3,3,6,8
+id_871,Ansiedad,4,3,0,2,0,2,0,1,6,2
+id_872,Ansiedad,4,5,2,11,0,8,2,2,12,5
+id_873,Ansiedad,3,5,0,6,5,7,1,9,8,12
+id_874,Depresion,4,5,4,4,2,6,1,4,5,10
+id_875,Ttno Bipolar,1,2,0,2,4,1,1,3,2,10
+id_876,Ttno de Personalidad,0,1,1,0,2,1,1,2,2,5
+id_877,estrés,1,2,2,3,2,1,2,3,2,4
+id_878,Depresion,0,8,0,1,6,5,4,11,4,13
+id_879,Ttno de Personalidad,1,0,1,0,0,0,0,0,1,0
+id_88,Ttno de Personalidad,5,13,4,6,7,4,7,12,8,17
+id_880,Depresion,4,4,3,2,3,5,1,3,8,7
+id_881,Ansiedad,6,10,2,12,3,7,7,5,13,9
+id_882,Ansiedad,4,5,1,5,0,4,0,0,7,4
+id_883,Ttno Bipolar,0,0,1,0,0,0,0,1,1,5
+id_884,Depresion,1,1,0,1,1,0,1,1,1,2
+id_885,estrés,1,5,0,1,3,1,1,4,1,8
+id_886,Ttno de Personalidad,2,6,3,7,3,6,1,3,8,11
+id_887,estrés,0,3,0,0,1,0,0,2,0,4
+id_888,Ansiedad,4,1,4,4,1,4,3,5,5,11
+id_889,Ttno Bipolar,2,2,0,2,2,1,1,2,1,4
+id_89,Ttno Bipolar,0,1,0,0,0,0,0,2,0,1
+id_890,Ttno Bipolar,2,5,1,3,4,3,1,4,3,7
+id_891,Ansiedad,5,5,1,9,6,7,0,6,10,9
+id_892,Depresion,2,1,1,3,1,2,1,4,3,6
+id_893,estrés,1,1,0,1,0,1,0,0,1,3
+id_894,Depresion,1,0,1,2,0,1,0,1,2,4
+id_895,estrés,1,2,0,1,0,1,0,1,1,1
+id_896,estrés,0,0,0,2,2,2,0,3,2,6
+id_897,Depresion,5,6,0,5,4,5,4,4,7,9
+id_898,Ansiedad,1,2,1,1,1,3,2,2,2,2
+id_899,Depresion,0,8,0,0,7,2,7,15,2,32
+id_9,Ttno Bipolar,0,1,0,0,1,0,1,0,0,1
+id_90,Depresion,2,3,3,4,4,3,1,5,5,9
+id_900,Ttno de Personalidad,0,0,0,0,0,0,0,0,0,0
+id_901,Ttno de Personalidad,2,3,3,8,4,7,2,4,7,12
+id_902,Ttno Bipolar,1,6,1,2,1,1,2,1,1,5
+id_903,Ttno de Personalidad,1,8,1,2,3,1,3,3,2,12
+id_904,estrés,4,4,2,7,2,3,3,3,9,9
+id_905,Depresion,2,8,1,4,4,8,6,5,11,12
+id_906,Ansiedad,0,5,0,4,3,0,5,2,2,5
+id_907,Ttno de Personalidad,0,0,0,1,0,0,0,1,1,1
+id_908,estrés,0,2,0,0,0,1,0,0,2,1
+id_909,Ansiedad,1,2,0,1,1,1,1,1,1,1
+id_91,Ttno de Personalidad,3,5,1,3,3,3,4,3,4,6
+id_910,Ttno Bipolar,0,2,0,3,1,4,1,1,3,9
+id_911,Ttno de Personalidad,2,7,2,2,5,3,1,9,5,17
+id_912,Ansiedad,0,0,0,0,1,1,0,0,0,2
+id_913,Depresion,0,3,0,2,4,1,2,5,1,7
+id_914,Depresion,1,2,2,1,0,2,0,1,2,3
+id_915,estrés,0,2,0,0,0,0,0,1,0,2
+id_916,Ansiedad,5,0,4,3,0,5,0,1,6,2
+id_917,Ttno Bipolar,0,1,0,0,1,1,0,3,1,3
+id_918,Depresion,5,0,2,3,1,2,0,2,5,2
+id_919,Ttno de Personalidad,6,7,2,6,0,5,3,2,6,8
+id_92,Ansiedad,4,3,3,9,0,8,1,0,11,1
+id_920,estrés,0,0,0,1,1,1,0,1,1,2
+id_921,Depresion,0,1,1,0,0,0,0,1,2,1
+id_922,Depresion,1,1,1,1,1,2,2,1,2,1
+id_923,Ansiedad,6,10,2,10,0,7,1,4,11,7
+id_924,Ttno de Personalidad,2,5,0,1,5,2,2,6,2,9
+id_925,Ttno de Personalidad,3,2,2,3,1,5,2,4,5,5
+id_926,Depresion,3,4,2,3,3,6,2,3,5,5
+id_927,estrés,0,3,0,1,0,1,0,2,2,2
+id_928,Depresion,3,0,2,3,0,2,0,0,3,1
+id_929,Depresion,2,9,3,2,6,6,6,6,10,15
+id_93,Ansiedad,2,0,3,4,0,4,0,0,4,0
+id_930,Ttno Bipolar,2,0,1,1,0,0,0,0,3,2
+id_931,Depresion,0,0,0,0,0,0,0,0,0,0
+id_932,Depresion,6,9,4,5,8,7,4,9,8,31
+id_933,Ansiedad,4,3,1,4,1,7,3,1,9,4
+id_934,Ttno de Personalidad,4,7,3,2,7,5,2,10,8,21
+id_935,Ttno de Personalidad,0,2,0,1,2,1,3,3,2,3
+id_937,Ttno Bipolar,0,0,0,0,0,0,1,2,0,2
+id_938,Depresion,0,1,0,0,0,0,0,0,0,0
+id_939,Depresion,2,1,2,4,1,4,1,3,4,3
+id_94,Ttno Bipolar,1,3,1,1,4,2,3,3,3,6
+id_940,Ttno Bipolar,0,0,0,0,0,1,1,1,1,1
+id_941,Ttno de Personalidad,0,0,0,0,0,3,0,0,3,1
+id_942,Depresion,2,5,1,4,2,4,1,3,4,7
+id_943,Depresion,1,5,2,1,1,1,2,4,3,7
+id_944,Ansiedad,5,9,0,8,2,6,2,3,9,10
+id_945,Ansiedad,7,9,1,4,5,4,3,5,6,6
+id_946,Depresion,1,2,1,3,1,4,0,4,4,12
+id_947,Ttno de Personalidad,3,1,4,2,0,3,0,1,4,0
+id_948,Ttno de Personalidad,2,2,0,3,0,2,1,1,3,3
+id_949,Ansiedad,2,4,1,4,1,3,3,2,4,5
+id_95,Ttno de Personalidad,1,1,1,2,1,1,1,1,3,5
+id_950,Ansiedad,7,8,0,8,1,6,4,2,8,5
+id_951,estrés,5,7,2,5,4,5,1,4,4,7
+id_952,Depresion,3,3,1,7,2,8,2,7,11,9
+id_953,estrés,1,8,2,1,8,3,5,10,6,21
+id_954,Depresion,0,1,0,1,1,0,1,1,0,1
+id_955,Ttno Bipolar,0,3,0,1,1,1,1,2,2,7
+id_956,Ansiedad,1,1,0,1,0,1,0,0,1,2
+id_957,Ansiedad,3,8,0,4,7,3,0,9,5,22
+id_958,Depresion,0,0,0,1,1,0,1,1,1,3
+id_959,Depresion,0,1,0,2,0,2,0,1,2,2
+id_96,Ttno de Personalidad,7,5,6,6,6,7,2,7,9,19
+id_960,Ttno de Personalidad,0,0,0,0,0,1,1,2,1,3
+id_961,estrés,1,0,0,1,0,1,0,0,1,0
+id_962,Ttno de Personalidad,3,6,4,5,3,6,3,5,7,9
+id_963,estrés,0,0,0,0,2,0,0,1,0,2
+id_964,Depresion,1,0,0,1,0,1,0,0,1,0
+id_965,Depresion,1,1,0,1,0,0,1,0,1,0
+id_966,Ttno Bipolar,0,0,0,0,0,0,0,1,0,0
+id_967,Ttno de Personalidad,0,3,0,1,0,2,0,2,2,8
+id_968,estrés,2,5,1,4,3,1,1,2,1,5
+id_969,Ttno Bipolar,0,1,0,2,0,4,0,0,4,2
+id_97,Ttno de Personalidad,1,1,1,2,1,1,0,1,2,1
+id_970,Depresion,4,6,0,3,2,4,1,8,4,12
+id_971,Depresion,5,9,5,3,5,7,4,13,11,18
+id_972,estrés,3,7,1,5,2,4,2,6,6,10
+id_973,estrés,0,1,0,0,1,0,1,1,1,3
+id_974,estrés,1,4,0,2,2,3,2,3,4,4
+id_975,Ttno Bipolar,2,1,3,4,2,3,1,4,5,3
+id_976,Ansiedad,3,4,1,5,1,5,2,1,7,2
+id_977,Ttno Bipolar,0,2,0,0,2,1,2,3,1,3
+id_978,Ansiedad,2,5,1,2,1,2,1,4,4,2
+id_979,Ttno Bipolar,1,1,0,3,0,2,1,0,5,4
+id_98,estrés,3,15,3,6,6,10,8,11,10,19
+id_980,Ttno Bipolar,3,4,2,3,3,6,2,2,5,4
+id_981,Ansiedad,4,1,5,5,0,7,0,3,8,3
+id_982,Ttno de Personalidad,3,5,0,5,1,3,0,5,5,5
+id_983,Ttno de Personalidad,2,0,1,2,0,3,1,2,5,1
+id_984,estrés,3,2,2,4,2,4,1,4,4,2
+id_985,estrés,0,1,0,0,1,0,0,6,3,8
+id_986,estrés,1,7,1,1,5,4,1,8,1,13
+id_987,Depresion,0,0,0,0,0,0,0,0,0,0
+id_988,estrés,1,8,1,2,7,5,8,9,5,12
+id_989,Depresion,2,0,1,2,2,1,0,4,2,10
+id_99,Ansiedad,6,6,5,12,1,10,2,2,11,5
+id_990,estrés,5,6,3,10,1,8,4,5,12,10
+id_991,Depresion,4,6,3,4,8,4,3,10,5,12
+id_992,Ttno Bipolar,4,12,4,6,8,10,8,12,14,25
+id_993,Ttno de Personalidad,1,1,0,1,4,1,1,2,1,8
+id_994,Ttno de Personalidad,2,1,2,2,1,2,0,2,2,7
+id_995,Ttno de Personalidad,4,2,5,4,1,4,0,2,5,6
+id_996,Ansiedad,1,5,0,3,0,1,1,1,2,3
+id_997,Depresion,6,3,5,6,2,8,0,4,8,6
+id_998,estrés,1,3,0,1,1,1,0,4,2,6
+id_999,estrés,1,4,0,2,2,3,2,3,4,4
