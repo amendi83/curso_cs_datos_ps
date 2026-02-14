@@ -1,95 +1,96 @@
-x,y
-a pesar de,4
-a pesar de ello,4
-a pesar de eso,4
-a pesar de esto,4
-a pesar de todo,4
-a pesar de todo eso,4
-a propósito,2
-absolutamente,2
-adrede,2
-algo así como,3
-altamente,2
-apenas,3
-bastante,2
-casi,3
-casi nunca,3
-colosal,2
-colosalmente,2
-decididamente,2
-definido,2
-definitivamente,2
-dicho eso,4
-difícilmente,3
-el menos,3
-en extremo,2
-en parte,3
-en particular,2
-en realidad,2
-en serio,2
-enorme,2
-enormemente,2
-escasamente,3
-especialmente,2
-esporádicamente,3
-extremadamente,2
-extremo,2
-fuertemente,2
-habiendo dicho eso,4
-importante,2
-importantemente,2
-incalculable,2
-incalculablemente,2
-increíblemente,3
-inmensamente,2
-inmenso,2
-innecesariamente,1
-la mayor parte,2
-la mayoría,2
-la menos,3
-leve,3
-levemente,3
-macizamente,2
-más,2
-masivo,2
-mientras que,4
-mucha,2
-mucho,2
-muy,2
-muy pocas,3
-muy poco,3
-muy pocos,3
-nadie,1
-ni,1
-ninguno,1
-no,1
-no debería,1
-nunca,1
-parcialmente,3
-particularmente,2
-pero,4
-poca,3
-pocas,3
-poco,3
-pocos,3
-podría no,1
-principalmente,2
-profundamente,2
-rara vez,3
-realmente,2
-seguramente,2
-seriamente,2
-severamente,2
-severo,2
-significativamente,2
-sin embargo,4
-solo,3
-súper,2
-totalmente,2
-un poco,3
-vastamente,2
-vasto,2
-si hubiesen,4
-si hubiese,4
-si tuviese,4
-si tuviesen,4
+﻿x;y
+innecesariamente;1
+nadie;1
+ni;1
+ninguno;1
+no;1
+no debería;1
+nunca;1
+podría no;1
+cuesta;1
+a propósito;2
+absolutamente;2
+adrede;2
+altamente;2
+bastante;2
+colosal;2
+colosalmente;2
+decididamente;2
+definido;2
+definitivamente;2
+en extremo;2
+en particular;2
+en realidad;2
+en serio;2
+enorme;2
+enormemente;2
+especialmente;2
+extremadamente;2
+extremo;2
+fuertemente;2
+importante;2
+importantemente;2
+incalculable;2
+incalculablemente;2
+inmensamente;2
+inmenso;2
+la mayor parte;2
+la mayoría;2
+macizamente;2
+más;2
+masivo;2
+mucha;2
+mucho;2
+muy;2
+particularmente;2
+principalmente;2
+profundamente;2
+realmente;2
+seguramente;2
+seriamente;2
+severamente;2
+severo;2
+significativamente;2
+súper;2
+totalmente;2
+vastamente;2
+vasto;2
+algo así como;3
+apenas;3
+casi;3
+casi nunca;3
+difícilmente;3
+el menos;3
+en parte;3
+escasamente;3
+esporádicamente;3
+increíblemente;3
+la menos;3
+leve;3
+levemente;3
+muy pocas;3
+muy poco;3
+muy pocos;3
+parcialmente;3
+poca;3
+pocas;3
+poco;3
+pocos;3
+rara vez;3
+solo;3
+un poco;3
+a pesar de;4
+a pesar de ello;4
+a pesar de eso;4
+a pesar de esto;4
+a pesar de todo;4
+a pesar de todo eso;4
+dicho eso;4
+habiendo dicho eso;4
+mientras que;4
+pero;4
+sin embargo;4
+si hubiesen;4
+si hubiese;4
+si tuviese;4
+si tuviesen;4
